@@ -1,0 +1,510 @@
+actual,error,index,col,want_to_clean
+al_pn-6,alxpn-6,920,state_average,1
+al_pn-6,al_pnx6,842,state_average,1
+al_ami-1,xl_xmi-1,827,state_average,1
+al_scip-inf-2,xl_scip-inf-2,796,state_average,1
+al_hf-4,al_hf-x,787,state_average,1
+al_scip-vte-1,al_scix-vte-1,764,state_average,1
+al_scip-inf-2,al_scipxinfx2,760,state_average,1
+al_ami-7a,al_amx-7a,721,state_average,1
+al_pn-3b,alxpn-3b,678,state_average,1
+al_ami-7a,alxami-7a,646,state_average,1
+al_ami-8a,al_amix8a,622,state_average,1
+al_ami-2,xl_xmi-2,567,state_average,1
+al_scip-vte-1,al_scipxvtex1,564,state_average,1
+al_pn-5c,al_pn-5x,555,state_average,1
+al_pn-2,ax_pn-2,477,state_average,1
+al_hf-2,al_hx-2,387,state_average,1
+al_scip-inf-2,al_sxip-inf-2,373,state_average,1
+al_pn-7,alxpn-7,370,state_average,1
+al_scip-vte-2,al_scipxvtex2,347,state_average,1
+al_pn-2,al_pnx2,334,state_average,1
+al_ami-1,al_axi-1,269,state_average,1
+al_ami-5,xl_xmi-5,248,state_average,1
+al_ami-1,ax_ami-1,244,state_average,1
+al_scip-inf-2,al_sxip-inf-2,213,state_average,1
+al_scip-vte-2,al_scix-vte-2,193,state_average,1
+al_ami-1,al_amx-1,69,state_average,1
+al_pn-3b,al_pn-xb,56,state_average,1
+27 patients,27 paxienxs,972,sample,1
+126 patients,126 patxents,905,sample,1
+15 patients,15 patiexts,872,sample,1
+121 patients,121 patiexts,866,sample,1
+4 patients,4 patiexts,845,sample,1
+193 patients,193 paxienxs,776,sample,1
+618 patients,618 xatients,673,sample,1
+87 patients,87 paxienxs,668,sample,1
+172 patients,172 patxents,588,sample,1
+50 patients,50 pxtients,580,sample,1
+74 patients,74 patxents,554,sample,1
+0 patients,x patients,546,sample,1
+87 patients,87 patientx,532,sample,1
+257 patients,25x patients,523,sample,1
+44 patients,44 paxienxs,502,sample,1
+0 patients,0 patxents,496,sample,1
+62 patients,62 patientx,482,sample,1
+0 patients,x patients,462,sample,1
+521 patients,521 patiexts,444,sample,1
+4 patients,4 xatients,418,sample,1
+125 patients,125 patixnts,413,sample,1
+10 patients,1x patients,354,sample,1
+29 patients,29 xatients,316,sample,1
+82 patients,82 patientx,234,sample,1
+1 patients,1 patiexts,224,sample,1
+6 patients,6xpatients,170,sample,1
+11 patients,xx patients,166,sample,1
+21 patients,21 pxtients,133,sample,1
+0 patients,0 patixnts,115,sample,1
+619 patients,619 paxienxs,91,sample,1
+37 patients,3x patients,17,sample,1
+85%,x5%,888,score,1
+80%,80x,860,score,1
+93%,x3%,769,score,1
+67%,x7%,718,score,1
+100%,1xx%,711,score,1
+88%,xx%,698,score,1
+100%,1xx%,514,score,1
+93%,93x,506,score,1
+100%,1xx%,488,score,1
+97%,x7%,426,score,1
+100%,1xx%,411,score,1
+94%,x4%,405,score,1
+95%,x5%,378,score,1
+100%,x00%,336,score,1
+96%,x6%,256,score,1
+89%,89x,252,score,1
+99%,xx%,238,score,1
+97%,9x%,237,score,1
+95%,x5%,208,score,1
+95%,95x,187,score,1
+57%,x7%,163,score,1
+98%,9x%,158,score,1
+100%,x00%,120,score,1
+surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery pxtients who were txking hexrt drugs cxlled betx blockers before coming to the hospitxl who were kept on the betx blockers during the period just before xnd xfter their surgery,997,measure_name,1
+heart failure patients given smoking cessation advice/counseling,hearx failure paxienxs given smoking cessaxion advice/counseling,915,measure_name,1
+children who received reliever medication while hospitalized for asthma,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma,902,measure_name,1
+pneumonia patients assessed and given influenza vaccination,pneumonia patients assessed and given influenza vaxxination,893,measure_name,1
+pneumonia patients given initial antibiotic(s) within 6 hours after arrival,pneumonix pxtients given initixl antibiotic(s) within 6 hours after arrivxl,816,measure_name,1
+heart attack patients given aspirin at arrival,heart attack patxents gxven aspxrxn at arrxval,802,measure_name,1
+heart failure patients given an evaluation of left ventricular systolic (lvs) function,heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function,785,measure_name,1
+surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor),713,measure_name,1
+pneumonia patients given the most appropriate initial antibiotic(s),pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s),706,measure_name,1
+pneumonia patients given initial antibiotic(s) within 6 hours after arrival,pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival,705,measure_name,1
+heart attack patients given pci within 90 minutes of arrival,heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival,672,measure_name,1
+heart failure patients given smoking cessation advice/counseling,heart faxlure patxents gxven smokxng cessatxon advxce/counselxng,651,measure_name,1
+heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),heart failure patients given ace inhibitor or arb for left xentricular systolic dysfunction (lxsd),650,measure_name,1
+all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,all heaxt suxgexy patients whose blood sugax (blood glucose) is kept undex good contxol in the days xight aftex suxgexy,612,measure_name,1
+all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,allxheartxsurgeryxpatientsxwhosexbloodxsugarx(bloodxglucose)xisxkeptxunderxgoodxcontrolxinxthexdaysxrightxafterxsurgery,562,measure_name,1
+heart attack patients given beta blocker at discharge,heaxt attack patients given beta blockex at dischaxge,545,measure_name,1
+heart attack patients given aspirin at arrival,hexrt attxck pxtients given aspirin xt arrivxl,541,measure_name,1
+pneumonia patients assessed and given influenza vaccination,pxeumoxia patiexts assessed axd givex ixfluexza vaccixatiox,532,measure_name,1
+pneumonia patients assessed and given influenza vaccination,pneumonix pxtients assessed xnd given influenzx vxccinxtion,507,measure_name,1
+heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),hxart attack patixnts givxn ace inhibitor or arb for lxft vxntricular systolic dysfunction (lvsd),493,measure_name,1
+heart failure patients given discharge instructions,heaxt failuxe patients given dischaxge instxuctions,473,measure_name,1
+surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),surgeryxpatientsxneedingxhairxremovedxfromxthexsurgicalxareaxbeforexsurgery& xwhoxhadxhairxremovedxusingxaxsaferxmethodx(electricxclippersxorxhairxremovalxcreamxï¿½cxnotxaxrazor),447,measure_name,1
+heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),heart faxlure patxents gxven ace inhxbxtor or arb for left ventrxcular systolxc dysfunctxon (lvsd),434,measure_name,1
+heart failure patients given smoking cessation advice/counseling,heart xailure patients given smoking cessation advice/counseling,389,measure_name,1
+heart attack patients given aspirin at discharge,heaxt attack patients given aspixin at dischaxge,380,measure_name,1
+surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries,surgery pxtients whose doctors ordered trextments to prevent blood clots xfter certxin types of surgeries,346,measure_name,1
+all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx,290,measure_name,1
+pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,pnxumonia patixnts whosx initial emxrgxncy room blood culturx was pxrformxd prior to thx administration of thx first hospital dosx of antibiotics,281,measure_name,1
+pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,pneumonxa patxents whose inxtxal emergency room blood culture was performed prxor to the admxnxstratxon of the fxrst hospxtal dose of antxbxotxcs,256,measure_name,1
+heart attack patients given aspirin at arrival,heartxattackxpatientsxgivenxaspirinxatxarrival,219,measure_name,1
+pneumonia patients assessed and given influenza vaccination,pneumoniaxpatientsxassessedxandxgivenxinfluenzaxvaccination,210,measure_name,1
+heart attack patients given aspirin at discharge,heart attaxk patients given aspirin at disxharge,145,measure_name,1
+heart attack patients given aspirin at arrival,heart attack patients given aspirin at arrivax,119,measure_name,1
+surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patiexts who were takixg heart drugs called beta blockers before comixg to the hospital who were kept ox the beta blockers durixg the period just before axd after their surgery,111,measure_name,1
+heart attack patients given aspirin at arrival,xeart attack patients given aspirin at arrival,94,measure_name,1
+surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery,0,measure_name,1
+ami-1,amix1,930,measure_code,1
+pn-4,px-4,865,measure_code,1
+pn-6,pnx6,842,measure_code,1
+pn-2,pn-x,788,measure_code,1
+cac-1,xax-1,774,measure_code,1
+hf-2,hx-2,749,measure_code,1
+scip-inf-2,scix-inf-2,735,measure_code,1
+pn-4,px-4,729,measure_code,1
+ami-3,amx-3,718,measure_code,1
+ami-4,amx-4,694,measure_code,1
+ami-1,amix1,691,measure_code,1
+hf-4,hfx4,676,measure_code,1
+hf-1,xf-1,673,measure_code,1
+hf-1,hfx1,648,measure_code,1
+scip-vte-1,scip-vtx-1,639,measure_code,1
+pn-5c,px-5c,580,measure_code,1
+ami-5,ami-x,495,measure_code,1
+scip-vte-1,sxip-vte-1,464,measure_code,1
+scip-inf-1,scipxinfx1,409,measure_code,1
+hf-1,hx-1,398,measure_code,1
+pn-3b,pn-xb,391,measure_code,1
+ami-2,amix2,349,measure_code,1
+scip-inf-3,scxp-xnf-3,264,measure_code,1
+scip-inf-4,scip-inx-4,190,measure_code,1
+hf-2,hf-x,177,measure_code,1
+ami-2,axi-2,120,measure_code,1
+pn-5c,pnx5c,108,measure_code,1
+hf-1,hfx1,101,measure_code,1
+ami-4,axi-4,97,measure_code,1
+surgical infection prevention,surgical xnfection prevention,974,condition,1
+heart attack,hexrt attxck,955,condition,1
+surgical infection prevention,surgical ixfectiox prevextiox,869,condition,1
+surgical infection prevention,surgical infxction prxvxntion,851,condition,1
+heart attack,heart attaxk,780,condition,1
+surgical infection prevention,suxgical infection pxevention,733,condition,1
+heart attack,heartxattack,716,condition,1
+surgical infection prevention,surgical infection xrevention,712,condition,1
+heart failure,hexrt fxilure,698,condition,1
+heart attack,heart attaxk,695,condition,1
+pneumonia,xneumonia,679,condition,1
+pneumonia,pneumonxa,631,condition,1
+surgical infection prevention,surgical ixfectiox prevextiox,608,condition,1
+heart failure,heart faixure,599,condition,1
+pneumonia,pxeumoxia,555,condition,1
+pneumonia,pneumonix,506,condition,1
+heart attack,hexrt attxck,467,condition,1
+heart failure,hxart failurx,400,condition,1
+heart failure,hxart failurx,386,condition,1
+pneumonia,pnexmonia,369,condition,1
+pneumonia,pnxumonia,366,condition,1
+heart failure,xeart failure,279,condition,1
+pneumonia,xneumonia,256,condition,1
+surgical infection prevention,surgxcal infectxon preventxon,239,condition,1
+surgical infection prevention,suxgical infection pxevention,236,condition,1
+heart failure,heart faxlure,229,condition,1
+heart attack,hexrt attxck,225,condition,1
+heart attack,heaxt attack,199,condition,1
+heart failure,heaxt failuxe,127,condition,1
+heart attack,hearx axxack,73,condition,1
+heart attack,hearx axxack,22,condition,1
+heart attack,heart attaxk,21,condition,1
+yes,yxs,921,emergency_service,1
+yes,yex,919,emergency_service,1
+yes,yex,889,emergency_service,1
+yes,yxs,866,emergency_service,1
+yes,xes,809,emergency_service,1
+yes,yxs,797,emergency_service,1
+yes,yex,674,emergency_service,1
+no,xo,653,emergency_service,1
+yes,yex,628,emergency_service,1
+yes,xes,587,emergency_service,1
+yes,xes,579,emergency_service,1
+yes,xes,564,emergency_service,1
+yes,yex,536,emergency_service,1
+yes,yxs,521,emergency_service,1
+yes,yxs,492,emergency_service,1
+no,xo,418,emergency_service,1
+yes,yxs,410,emergency_service,1
+yes,yxs,389,emergency_service,1
+yes,yex,374,emergency_service,1
+yes,yxs,350,emergency_service,1
+yes,yex,332,emergency_service,1
+yes,yex,327,emergency_service,1
+yes,xes,318,emergency_service,1
+yes,yxs,157,emergency_service,1
+yes,yxs,51,emergency_service,1
+yes,yex,43,emergency_service,1
+yes,yxs,24,emergency_service,1
+voluntary non-profit - private,voluntaxy non-pxofit - pxivate,872,owner,1
+voluntary non-profit - private,voluxtary xox-profit - private,868,owner,1
+voluntary non-profit - private,voluntaxy non-pxofit - pxivate,846,owner,1
+government - hospital district or authority,goverxmext - hospital district or authority,784,owner,1
+proprietary,prxprietary,744,owner,1
+voluntary non-profit - other,voluntary non-profit - otxer,572,owner,1
+voluntary non-profit - church,volxntary non-profit - chxrch,526,owner,1
+voluntary non-profit - private,voluntaryxnon-profitx-xprivate,493,owner,1
+government - hospital district or authority,gxvernment - hxspital district xr authxrity,456,owner,1
+proprietary,proxrietary,449,owner,1
+proprietary,prxprietary,356,owner,1
+proprietary,proxrietary,332,owner,1
+proprietary,prxprietary,313,owner,1
+government - federal,governxent - federal,247,owner,1
+voluntary non-profit - church,voxuntary non-profit - church,238,owner,1
+voluntary non-profit - church,voluntaryxnon-profitx-xchurch,221,owner,1
+voluntary non-profit - private,voluntary nonxprofit x private,218,owner,1
+voluntary non-profit - private,volunxary non-profix - privaxe,216,owner,1
+proprietary,pxopxietaxy,164,owner,1
+proprietary,xroprietary,162,owner,1
+proprietary,proxrietary,159,owner,1
+proprietary,pxopxietaxy,157,owner,1
+voluntary non-profit - private,volunxary non-profix - privaxe,113,owner,1
+government - hospital district or authority,gxvernment - hxspital district xr authxrity,42,owner,1
+government - hospital district or authority,governmenx - hospixal disxricx or auxhorixy,31,owner,1
+government - hospital district or authority,government - hospital xistrict or authority,27,owner,1
+government - hospital district or authority,government - hospxtal dxstrxct or authorxty,22,owner,1
+acute care hospitals,acutexcarexhospitals,976,type,1
+acute care hospitals,acutexcarexhospitals,964,type,1
+acute care hospitals,acute xare hospitals,956,type,1
+acute care hospitals,acute care hosxitals,949,type,1
+acute care hospitals,acuxe care hospixals,926,type,1
+acute care hospitals,acutexcarexhospitals,902,type,1
+acute care hospitals,acute care hoxpitalx,877,type,1
+acute care hospitals,acute caxe hospitals,848,type,1
+acute care hospitals,axute care hospitals,814,type,1
+acute care hospitals,acute care hospitaxs,782,type,1
+acute care hospitals,acutexcarexhospitals,779,type,1
+acute care hospitals,acutexcarexhospitals,729,type,1
+acute care hospitals,acutexcarexhospitals,705,type,1
+acute care hospitals,acute cxre hospitxls,695,type,1
+acute care hospitals,acuxe care hospixals,634,type,1
+acute care hospitals,acuxe care hospixals,588,type,1
+acute care hospitals,acute care hosxitals,532,type,1
+acute care hospitals,acuxe care hospixals,511,type,1
+acute care hospitals,acutx carx hospitals,497,type,1
+acute care hospitals,acute care hxspitals,493,type,1
+acute care hospitals,acute caxe hospitals,490,type,1
+acute care hospitals,acute care hospitaxs,453,type,1
+acute care hospitals,acuxe care hospixals,413,type,1
+acute care hospitals,acute care hosxitals,411,type,1
+acute care hospitals,acuxe care hospixals,293,type,1
+acute care hospitals,acutexcarexhospitals,280,type,1
+acute care hospitals,acuxe care hospixals,266,type,1
+acute care hospitals,acutx carx hospitals,213,type,1
+acute care hospitals,acute care hosxitals,199,type,1
+acute care hospitals,acute care hosxitals,98,type,1
+acute care hospitals,acxte care hospitals,39,type,1
+acute care hospitals,acuxe care hospixals,16,type,1
+2565435200,x565435x00,916,phone,1
+2059325966,x0593x5966,883,phone,1
+2059325966,x0593x5966,881,phone,1
+2059216200,20x9216200,865,phone,1
+2059216200,x059x16x00,855,phone,1
+2564944000,2564944xxx,824,phone,1
+3342228466,33422284xx,763,phone,1
+3342228466,334xxx8466,751,phone,1
+3342836541,33x28365x1,713,phone,1
+3342836541,334x836541,699,phone,1
+2059344011,20593xx011,666,phone,1
+3348972257,33x8972257,593,phone,1
+3347561400,334x561400,572,phone,1
+3342938000,3342938xxx,562,phone,1
+3342938000,33x2938000,561,phone,1
+3342938000,3342938xxx,548,phone,1
+3342882100,3342xx2100,516,phone,1
+3347742601,334774x601,471,phone,1
+3343614267,33x361x267,393,phone,1
+2514717110,25x47x7xx0,386,phone,1
+2514717110,25x47x7xx0,384,phone,1
+2514717110,25x47x7xx0,381,phone,1
+3347935000,xx479x5000,342,phone,1
+2562358900,256235x900,321,phone,1
+3346366221,334x3xx221,261,phone,1
+3346366221,xx46x66221,247,phone,1
+2568453150,2568453x50,228,phone,1
+2058383122,2058x8x122,217,phone,1
+3344933541,3344x33541,101,phone,1
+2565938310,2565x38310,65,phone,1
+2565938310,2x6x938310,60,phone,1
+2565938310,2x6x938310,57,phone,1
+3347938701,xx479x8701,36,phone,1
+3347938701,334793870x,24,phone,1
+coffee,cxffee,966,county,1
+butler,butxer,943,county,1
+etowah,etowxh,917,county,1
+fayette,fayexxe,895,county,1
+madison,madisox,798,county,1
+madison,madisxn,785,county,1
+covington,coxington,752,county,1
+cullman,cxllman,730,county,1
+cullman,cxllman,722,county,1
+elmore,elxore,698,county,1
+elmore,elmoxe,692,county,1
+jefferson,jexxerson,689,county,1
+jefferson,jxffxrson,672,county,1
+lee,xee,633,county,1
+coffee,coffxx,602,county,1
+chambers,chaxbers,590,county,1
+chambers,xhambers,578,county,1
+montgomery,monxgomery,551,county,1
+montgomery,montgomexy,540,county,1
+montgomery,monxgomery,527,county,1
+cherokee,chxrokxx,513,county,1
+cherokee,chxrokxx,502,county,1
+jefferson,jexxerson,465,county,1
+jefferson,xefferson,457,county,1
+jefferson,jxffxrson,456,county,1
+talladega,tallaxega,415,county,1
+houston,housxon,346,county,1
+calhoun,caxhoun,324,county,1
+calhoun,calhoxn,312,county,1
+clarke,xlarke,252,county,1
+de kalb,xe kalb,238,county,1
+de kalb,dx kalb,227,county,1
+de kalb,xe kalb,223,county,1
+de kalb,dx kalb,221,county,1
+jefferson,jeffersxn,216,county,1
+crenshaw,crxnshaw,136,county,1
+lauderdale,laudexdale,77,county,1
+lauderdale,laudxrdalx,72,county,1
+marshall,mxrshxll,67,county,1
+35901,3590x,923,zip,1
+35903,x590x,815,zip,1
+36420,3642x,750,zip,1
+36078,36x78,710,zip,1
+35233,x52xx,685,zip,1
+35233,3x233,679,zip,1
+36106,3x10x,544,zip,1
+35960,x5960,499,zip,1
+36360,x6x60,490,zip,1
+35150,3x1x0,428,zip,1
+35150,x5150,420,zip,1
+36067,3x0x7,406,zip,1
+35594,3xx94,375,zip,1
+35594,3xx94,366,zip,1
+36305,x6x05,340,zip,1
+36305,3x305,332,zip,1
+36201,36x01,325,zip,1
+35007,x5007,290,zip,1
+35007,3x007,283,zip,1
+36784,x6784,267,zip,1
+35968,359x8,232,zip,1
+35235,3x23x,196,zip,1
+35640,3x640,157,zip,1
+35640,3x640,149,zip,1
+36049,360x9,139,zip,1
+36049,36x49,137,zip,1
+35631,3563x,93,zip,1
+35631,3563x,70,zip,1
+35957,3595x,63,zip,1
+35957,x5957,44,zip,1
+al,ax,922,state,1
+al,xl,886,state,1
+al,xl,884,state,1
+al,xl,791,state,1
+al,xl,764,state,1
+al,xl,701,state,1
+al,ax,592,state,1
+al,ax,572,state,1
+al,xl,559,state,1
+al,ax,504,state,1
+al,xl,483,state,1
+al,xl,477,state,1
+al,ax,402,state,1
+al,xl,386,state,1
+al,ax,356,state,1
+al,xl,278,state,1
+al,ax,228,state,1
+al,xl,182,state,1
+al,ax,165,state,1
+al,ax,140,state,1
+al,ax,119,state,1
+al,xl,98,state,1
+al,xl,83,state,1
+al,xl,50,state,1
+al,xl,46,state,1
+al,xl,42,state,1
+oneonta,onxonta,985,city,1
+enterprise,xntxrprisx,968,city,1
+enterprise,enterprxse,960,city,1
+georgiana,geoxgiana,949,city,1
+fayette,faxette,895,city,1
+hamilton,hamilxon,855,city,1
+gadsden,gxdsden,821,city,1
+anniston,annxston,772,city,1
+andalusia,andaluxia,756,city,1
+cullman,cuxxman,736,city,1
+tallassee,tallaxxee,696,city,1
+birmingham,birminxham,690,city,1
+wedowee,wxdowxx,654,city,1
+elba,exba,601,city,1
+valley,vxlley,590,city,1
+valley,vallex,578,city,1
+montgomery,montxomery,517,city,1
+ozark,xzark,485,city,1
+ozark,ozarx,474,city,1
+anchorage,anchoraxe,437,city,1
+winfield,winfielx,367,city,1
+anniston,axxistox,311,city,1
+fort payne,fort payxe,228,city,1
+birmingham,bxrmxngham,212,city,1
+birmingham,birmixgham,207,city,1
+guntersville,guntxrsvillx,180,city,1
+florence,flxrence,93,city,1
+florence,florxncx,88,city,1
+florence,fxorence,79,city,1
+boaz,boxz,56,city,1
+sheffield,sheffxeld,10,city,1
+birmingham,birmingxam,7,city,1
+birmingham,birminghxm,3,city,1
+150 gilbreath drive,150 gilxreath drive,986,address_1,1
+400 n edwards street,400xnxedwardsxstreet,956,address_1,1
+515 miranda st,515 mirxndx st,945,address_1,1
+515 miranda st,515 miranxa st,935,address_1,1
+515 miranda st,515 miranda sx,934,address_1,1
+600 south third street,600 souxh xhird sxreex,915,address_1,1
+1256 military street south,1256 military street sxuth,857,address_1,1
+1010 lay dam road,x0x0 lay dam road,849,address_1,1
+301 east 18th st,301 east 1xth st,767,address_1,1
+1912 alabama highway 157,1912xalabamaxhighwayx157,736,address_1,1
+209 north main street,209 xorth maix street,652,address_1,1
+126 hospital ave,1x6 hospital ave,484,address_1,1
+126 hospital ave,126xhospitalxave,472,address_1,1
+po box 287,poxboxx287,451,address_1,1
+315 w hickory st,315xwxhickoryxst,431,address_1,1
+315 w hickory st,315 w hickxry st,415,address_1,1
+124 s memorial dr,124 s mxmorial dr,411,address_1,1
+124 s memorial dr,124xsxmemorialxdr,393,address_1,1
+1530 u s highway 43,1530xuxsxhighwayx43,363,address_1,1
+810 st vincents drive,810 st vxncents drxve,350,address_1,1
+4370 west main street,4370xwestxmainxstreet,334,address_1,1
+301 east 18th st,301xeastx18thxst,316,address_1,1
+1720 university blvd,1720 univxrsity blvd,295,address_1,1
+1000 first street north,1000 fixst stxeet noxth,275,address_1,1
+33700 highway 43,33700 highway x3,264,address_1,1
+33700 highway 43,33700 hxghway 43,260,address_1,1
+8000 alabama highway 69,8000 alabama xigxway 69,175,address_1,1
+201 pine street northwest,201 pine sxreex norxhwesx,161,address_1,1
+702 n main st,702 x maix st,106,address_1,1
+702 n main st,702xnxmainxst,94,address_1,1
+2505 u s highway 431 north,2505xuxsxhighwayx431xnorth,57,address_1,1
+st vincents blount,st vincents bxount,987,name,1
+medical center enterprise,medxcal center enterprxse,962,name,1
+medical center enterprise,medixal xenter enterprise,956,name,1
+georgiana hospital,georgiaxa hospital,938,name,1
+riverview regional medical center,riverview rexional medical center,922,name,1
+riverview regional medical center,xivexview xegional medical centex,921,name,1
+riverview regional medical center,rivxrvixw rxgional mxdical cxntxr,903,name,1
+huntsville hospital,huntsvxlle hospxtal,777,name,1
+andalusia regional hospital,andaluxia regional hoxpital,765,name,1
+andalusia regional hospital,andaxusia regionax hospitax,758,name,1
+cullman regional medical center,cullmxn regionxl medicxl center,730,name,1
+community hospital inc,communixy hospixal inc,710,name,1
+community hospital inc,communitx hospital inc,697,name,1
+wedowee hospital,wedowee hosxital,654,name,1
+jackson hospital & clinic inc,jaxkson hospital & xlinix inx,560,name,1
+baptist medical center south,baptist medical cexter south,532,name,1
+alaska regional hospital,xlxskx regionxl hospitxl,448,name,1
+univ of south alabama medical center,xniv of soxth alabama medical center,385,name,1
+univ of south alabama medical center,univ ox south alabama medical center,384,name,1
+flowers hospital,floxers hospital,337,name,1
+dekalb regional medical center,dexalb regional medical center,243,name,1
+marshall medical center north,marshall medical cenxer norxh,171,name,1
+crenshaw community hospital,crenshaw cxmmunity hxspital,131,name,1
+southeast alabama medical center,southeast alabama medxcal center,26,name,1
+10049,1004x,955,provider_number,1
+10047,1xx47,933,provider_number,1
+10045,x0045,888,provider_number,1
+10045,1xx45,878,provider_number,1
+10044,1xx44,859,provider_number,1
+10039,100x9,793,provider_number,1
+10039,1xx39,789,provider_number,1
+10039,1003x,780,provider_number,1
+10036,1xx36,755,provider_number,1
+10035,1xx35,724,provider_number,1
+10035,100x5,721,provider_number,1
+10034,100x4,704,provider_number,1
+10032,1xx32,655,provider_number,1
+10032,1xx32,645,provider_number,1
+10029,1xx29,639,provider_number,1
+10029,x0029,627,provider_number,1
+10027,x0027,608,provider_number,1
+10024,1xx24,559,provider_number,1
+10108,x0x08,408,provider_number,1
+10086,100x6,360,provider_number,1
+10038,100x8,314,provider_number,1
+10016,1xx16,273,provider_number,1
+10015,1xx15,253,provider_number,1
+10015,x00x5,244,provider_number,1
+10011,x00xx,213,provider_number,1
+10006,1000x,81,provider_number,1
+10005,x0005,45,provider_number,1
+10019,1xx19,13,provider_number,1

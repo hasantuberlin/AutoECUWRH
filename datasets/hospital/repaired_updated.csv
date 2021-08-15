@@ -1,0 +1,385 @@
+actual,error,edit,prob_e,fasttext,prob_f,textual,uniqueness,eflag,fflag
+al_pn-3b,al_pn-xb,al_pn-3b,0.5097623768686835,al pn-3b,0.9784677028656006,False,True,True,False
+al_ami-1,al_amx-1,al_ami-1,0.5089918362099203,al ami-2,0.586489200592041,False,True,True,False
+al_scip-vte-2,al_scix-vte-2,al_scip-vte-2,0.5092486880242203,al scip-vte-2,0.9358918070793152,False,True,True,False
+al_scip-inf-2,al_sxip-inf-2,al_scip-inf-2,0.5087349796482604,al scip-inf-2,0.8995633125305176,False,True,True,False
+al_ami-1,ax_ami-1,al_ami-1,0.5089918362099203,al ami-2,0.5262944102287292,False,True,True,False
+al_ami-5,xl_xmi-5,al_ami-5,0.5100192136278446,al ami-5,0.9506455063819885,False,True,True,False
+al_ami-1,al_axi-1,al_ami-1,0.5089918362099203,al ami-2,0.496707558631897,False,True,True,False
+al_pn-2,al_pnx2,NAE,0.5,al pn-2,0.9907950162887573,False,True,False,False
+al_scip-vte-2,al_scipxvtex2,NAE,0.5,al scip-vte-2,0.9562709331512451,False,True,False,False
+al_pn-7,alxpn-7,NAE,0.5,al pn-7,0.9779267907142639,False,True,False,False
+al_scip-inf-2,al_sxip-inf-2,al_scip-inf-2,0.5087349796482604,al scip-inf-2,0.9049096703529358,False,True,True,False
+al_hf-2,al_hx-2,al_hf-2,0.5100192136278446,al hf-2,0.9444442391395569,False,True,True,False
+al_pn-2,ax_pn-2,al_pn-2,0.5097623768686835,al pn-2,0.9536466002464294,False,True,True,False
+al_pn-5c,al_pn-5x,al_pn-5c,0.5097623768686835,al pn-5c,0.9812132716178894,False,True,True,False
+al_scip-vte-1,al_scipxvtex1,NAE,0.5,al scip-vte-1,0.9735518097877502,False,True,False,False
+al_ami-2,xl_xmi-2,al_ami-2,0.5100192136278446,al ami-2,0.7851474285125732,False,True,True,False
+al_ami-8a,al_amix8a,NAE,0.5,al ami-8a,0.5592744946479797,False,True,False,False
+al_ami-7a,alxami-7a,NAE,0.5,al ami-7a,0.6875240802764893,False,True,False,False
+al_pn-3b,alxpn-3b,NAE,0.5,al pn-3b,0.9924340844154358,False,True,False,False
+al_ami-7a,al_amx-7a,al_ami-7a,0.5095055349556435,al ami-7a,0.7368487119674683,False,True,True,False
+al_scip-inf-2,al_scipxinfx2,NAE,0.5,al scip-inf-2,0.879964292049408,False,True,False,False
+al_scip-vte-1,al_scix-vte-1,al_scip-vte-1,0.5089918362099203,al scip-vte-1,0.9840949177742004,False,True,True,False
+al_hf-4,al_hf-x,al_hf-3,0.5102760450976415,al hf-4,0.7565261721611023,False,True,False,False
+al_scip-inf-2,xl_scip-inf-2,al_scip-inf-2,0.5087349796482604,al scip-inf-2,0.904509425163269,False,True,True,False
+al_ami-1,xl_xmi-1,al_ami-1,0.5089918362099203,al ami-2,0.5704399347305298,False,True,True,False
+al_pn-6,al_pnx6,NAE,0.5,al pn-6,0.5940011739730835,False,True,False,False
+al_pn-6,alxpn-6,NAE,0.5,al pn-6,0.8501312136650085,False,True,False,False
+37 patients,3x patients,30 patients,0.5018059776983256,NAE,0.0,False,False,False,False
+619 patients,619 paxienxs,NAE,0.5,empty,0.11534050852060318,False,False,False,False
+0 patients,0 patixnts,0 patients,0.5265487949676001,0 patients,0.9894256591796875,False,False,True,True
+21 patients,21 pxtients,21 patients,0.5005159956888534,30 patients,0.14561961591243744,False,False,True,False
+11 patients,xx patients,10 patients,0.5033539228633862,empty,0.35804110765457153,False,False,False,False
+6 patients,6xpatients,NAE,0.5,NAE,0.0,False,False,False,False
+1 patients,1 patiexts,1 patients,0.5061916339492364,0 patients,0.7974377870559692,False,False,True,False
+82 patients,82 patientx,82 patients,0.5002579979131191,101 patients,0.1761479377746582,False,False,True,False
+29 patients,29 xatients,29 patients,0.5005159956888534,1 patients,0.3818739652633667,False,False,True,False
+10 patients,1x patients,10 patients,0.5033539228633862,NAE,0.0,False,False,True,False
+125 patients,125 patixnts,125 patients,0.5018059776983256,empty,0.27819791436195374,False,False,True,False
+4 patients,4 xatients,4 patients,0.5054177446128689,empty,0.2265002280473709,False,False,True,False
+521 patients,521 patiexts,511 patients,0.5002579979131191,NAE,0.0,False,False,False,False
+0 patients,x patients,0 patients,0.5265487949676001,0 patients,0.9732447862625122,False,False,True,True
+62 patients,62 patientx,62 patients,0.5005159956888534,101 patients,0.10830503702163696,False,False,True,False
+0 patients,0 patxents,0 patients,0.5265487949676001,0 patients,0.999411940574646,False,False,True,True
+44 patients,44 paxienxs,44 patients,0.5010319902786307,101 patients,0.13522900640964508,False,False,True,False
+257 patients,25x patients,259 patients,0.5007739931898185,NAE,0.0,False,False,False,False
+87 patients,87 patientx,87 patients,0.5007739931898185,101 patients,0.15842649340629578,False,False,True,False
+0 patients,x patients,0 patients,0.5265487949676001,0 patients,0.9602547287940979,False,False,True,True
+74 patients,74 patxents,74 patients,0.5005159956888534,NAE,0.0,False,False,True,False
+50 patients,50 pxtients,50 patients,0.5005159956888534,NAE,0.0,False,False,True,False
+172 patients,172 patxents,172 patients,0.5002579979131191,empty,0.18370167911052704,False,False,True,False
+87 patients,87 paxienxs,87 patients,0.5007739931898185,empty,0.4209202826023102,False,False,True,False
+618 patients,618 xatients,118 patients,0.5005159956888534,NAE,0.0,False,False,False,False
+193 patients,193 paxienxs,193 patients,0.5005159956888534,NAE,0.0,False,False,True,False
+4 patients,4 patiexts,4 patients,0.5054177446128689,empty,0.24311010539531708,False,False,True,False
+121 patients,121 patiexts,121 patients,0.5002579979131191,101 patients,0.15191133320331573,False,False,True,False
+15 patients,15 patiexts,15 patients,0.5028379468200465,empty,0.39524760842323303,False,False,True,False
+126 patients,126 patxents,125 patients,0.5018059776983256,NAE,0.0,False,False,False,False
+27 patients,27 paxienxs,27 patients,0.5007739931898185,1 patients,0.2550348937511444,False,False,True,False
+100%,x00%,100%,0.5618615653295668,empty,0.8871887922286987,False,True,True,False
+98%,9x%,97%,0.5125357552357772,100%,0.21439430117607117,False,True,False,False
+57%,x7%,97%,0.5125357552357772,100%,0.5012758374214172,False,True,False,False
+95%,95x,NAE,0.5,100%,0.1615070253610611,False,True,False,False
+95%,x5%,95%,0.5076759577888282,98%,0.1737196147441864,False,True,True,False
+97%,9x%,97%,0.5125357552357772,100%,0.3604835569858551,False,True,True,False
+99%,xx%,97%,0.5125357552357772,100%,0.22281508147716522,False,True,False,False
+89%,89x,NAE,0.5,91%,0.14165166020393372,False,True,False,False
+96%,x6%,96%,0.5094666270395625,empty,0.6666480898857117,False,True,True,False
+100%,x00%,100%,0.5618615653295668,100%,0.9087543487548828,False,True,True,True
+95%,x5%,95%,0.5076759577888282,100%,0.19670143723487854,False,True,True,False
+94%,x4%,94%,0.5076759577888282,98%,0.13452130556106567,False,True,True,False
+100%,1xx%,100%,0.5618615653295668,empty,0.20564106106758118,False,True,True,False
+97%,x7%,97%,0.5125357552357772,96%,0.12494657188653946,False,True,True,False
+100%,1xx%,100%,0.5618615653295668,100%,0.8490738868713379,False,True,True,True
+93%,93x,NAE,0.5,empty,0.251645028591156,False,True,False,False
+100%,1xx%,100%,0.5618615653295668,empty,0.4262152314186096,False,True,True,False
+88%,xx%,97%,0.5125357552357772,empty,0.5354496240615845,False,True,False,False
+100%,1xx%,100%,0.5618615653295668,empty,0.3827345669269562,False,True,True,False
+67%,x7%,97%,0.5125357552357772,100%,0.8442438840866089,False,True,False,False
+93%,x3%,93%,0.5061409399168056,NAE,0.0,False,True,True,False
+80%,80x,NAE,0.5,91%,0.1412482112646103,False,True,False,False
+85%,x5%,95%,0.5076759577888282,88%,0.17301897704601288,False,True,False,False
+ami-4,axi-4,ami-4,0.5097824796245233,pn-4,0.3617733120918274,False,True,True,False
+hf-1,hfx1,NAE,0.5,pn-7,0.3628693222999573,False,True,False,False
+pn-5c,pnx5c,NAE,0.5,pn-5c,0.9811693429946899,False,True,False,True
+ami-2,axi-2,ami-2,0.51003984498326,ami-1,0.9384453892707825,False,True,True,False
+hf-2,hf-x,hf-3,0.5105545595981106,hf-4,0.3933939039707184,False,True,False,False
+scip-inf-4,scip-inx-4,scip-inf-4,0.5092677334860418,scip-inf-4,0.9611918926239014,False,True,True,True
+scip-inf-3,scxp-xnf-3,scip-inf-3,0.5095251090800059,scip-inf-3,0.9743342995643616,False,True,True,True
+ami-2,amix2,NAE,0.5,ami-1,0.9053288698196411,False,True,False,False
+pn-3b,pn-xb,pn-3b,0.5102972050198931,pn-3b,0.991175651550293,False,True,True,True
+hf-1,hx-1,hf-1,0.5092677334860418,scip-vte-1,0.28230056166648865,False,True,True,False
+scip-inf-1,scipxinfx1,NAE,0.5,scip-inf-1,0.9798065423965454,False,True,False,True
+scip-vte-1,sxip-vte-1,scip-vte-1,0.5092677334860418,scip-vte-1,0.9255766868591309,False,True,True,True
+ami-5,ami-x,ami-5,0.51003984498326,scip-inf-1,0.7513848543167114,False,True,True,False
+pn-5c,px-5c,pn-5c,0.5097824796245233,pn-5c,0.9217783808708191,False,True,True,True
+scip-vte-1,scip-vtx-1,scip-vte-1,0.5092677334860418,scip-vte-1,0.9328331351280212,False,True,True,True
+hf-1,hfx1,NAE,0.5,hf-1,0.43368762731552124,False,True,False,True
+hf-1,xf-1,hf-1,0.5092677334860418,pn-7,0.3482219874858856,False,True,True,False
+hf-4,hfx4,NAE,0.5,pn-2,0.44066280126571655,False,True,False,False
+ami-1,amix1,NAE,0.5,ami-1,0.9288274645805359,False,True,False,True
+ami-4,amx-4,ami-4,0.5097824796245233,ami-4,0.39051806926727295,False,True,True,True
+ami-3,amx-3,ami-3,0.51003984498326,ami-3,0.9394347667694092,False,True,True,True
+pn-4,px-4,pn-4,0.5097824796245233,pn-4,0.9068841934204102,False,True,True,True
+scip-inf-2,scix-inf-2,scip-inf-2,0.5097824796245233,scip-inf-2,0.9664612412452698,False,True,True,True
+hf-2,hx-2,hf-2,0.51003984498326,hf-1,0.4728739857673645,False,True,True,False
+cac-1,xax-1,cac-1,0.5005149328766523,cac-3,0.21679680049419403,False,True,True,False
+pn-2,pn-x,pn-2,0.5102972050198931,pn-2,0.8263406157493591,False,True,True,True
+pn-6,pnx6,NAE,0.5,pn-5c,0.5185349583625793,False,True,False,False
+pn-4,px-4,pn-4,0.5097824796245233,pn-4,0.9769892692565918,False,True,True,True
+ami-1,amix1,NAE,0.5,ami-1,0.865739643573761,False,True,False,True
+heart attack,heart attaxk,heart attack,0.5690294818879212,heart attack,0.9909713268280029,True,True,True,True
+heart attack,hearx axxack,NAE,0.5,heart attack,0.9940525889396667,True,True,False,True
+heart attack,hearx axxack,NAE,0.5,heart attack,0.9940573573112488,True,True,False,True
+heart failure,heaxt failuxe,heart failure,0.5402022840794218,heart failure,0.9936655163764954,True,True,True,True
+heart attack,heaxt attack,heart attack,0.5690294818879212,heart attack,0.9916978478431702,True,True,True,True
+heart attack,hexrt attxck,heart attack,0.5690294818879212,heart attack,0.9970945119857788,True,True,True,True
+heart failure,heart faxlure,heart failure,0.5402022840794218,heart failure,0.9607280492782593,True,True,True,True
+pneumonia,xneumonia,pneumonia,0.5603958127800673,pneumonia,0.7396107912063599,True,True,True,True
+heart failure,xeart failure,heart failure,0.5402022840794218,heart failure,0.7864660620689392,True,True,True,True
+pneumonia,pnxumonia,pneumonia,0.5603958127800673,pneumonia,0.9939178228378296,True,True,True,True
+pneumonia,pnexmonia,pneumonia,0.5603958127800673,pneumonia,0.9945474863052368,True,True,True,True
+heart failure,hxart failurx,heart failure,0.5402022840794218,heart failure,0.9904072284698486,True,True,True,True
+heart failure,hxart failurx,heart failure,0.5402022840794218,heart failure,0.9943405985832214,True,True,True,True
+heart attack,hexrt attxck,heart attack,0.5690294818879212,heart attack,0.9976794719696045,True,True,True,True
+pneumonia,pneumonix,pneumonia,0.5603958127800673,pneumonia,0.998943567276001,True,True,True,True
+pneumonia,pxeumoxia,pneumonia,0.5603958127800673,pneumonia,0.9841823577880859,True,True,True,True
+heart failure,heart faixure,heart failure,0.5402022840794218,heart failure,0.985378623008728,True,True,True,True
+pneumonia,pneumonxa,pneumonia,0.5603958127800673,pneumonia,0.9967052936553955,True,True,True,True
+pneumonia,xneumonia,pneumonia,0.5603958127800673,pneumonia,0.9371241331100464,True,True,True,True
+heart attack,heart attaxk,heart attack,0.5690294818879212,heart attack,0.9948395490646362,True,True,True,True
+heart failure,hexrt fxilure,heart failure,0.5402022840794218,heart failure,0.9130719900131226,True,True,True,True
+heart attack,heartxattack,NAE,0.5,heart attack,0.9963740110397339,True,True,False,True
+heart attack,heart attaxk,heart attack,0.5690294818879212,heart attack,0.993419349193573,True,True,True,True
+heart attack,hexrt attxck,heart attack,0.5690294818879212,heart attack,0.9969176054000854,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9999672174453735,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9996472597122192,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9997946619987488,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9999961853027344,True,True,True,True
+yes,xes,yes,0.701202757348652,yes,0.999870777130127,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9999462366104126,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.997408390045166,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9986718893051147,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9997637867927551,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9999340772628784,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9993082284927368,True,True,True,True
+no,xo,no,0.536676042937529,no,0.9796906113624573,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9988235235214233,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9997382760047913,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9995542168617249,True,True,True,True
+yes,xes,yes,0.701202757348652,yes,0.9997919201850891,True,True,True,True
+yes,xes,yes,0.701202757348652,yes,0.9997765421867371,True,True,True,True
+yes,xes,yes,0.701202757348652,yes,0.9980130791664124,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9995396137237549,True,True,True,True
+no,xo,no,0.536676042937529,no,0.9326224327087402,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9998419284820557,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9991638660430908,True,True,True,True
+yes,xes,yes,0.701202757348652,yes,0.9999611377716064,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.999503493309021,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9946697354316711,True,True,True,True
+yes,yex,yes,0.701202757348652,yes,0.9998631477355957,True,True,True,True
+yes,yxs,yes,0.701202757348652,yes,0.9996483325958252,True,True,True,True
+proprietary,pxopxietaxy,NAE,0.5,proprietary,0.9650792479515076,True,True,False,True
+proprietary,proxrietary,proprietary,0.5534943744133936,proprietary,0.9456629157066345,True,True,True,True
+proprietary,xroprietary,proprietary,0.5534943744133936,proprietary,0.8461859226226807,True,True,True,True
+proprietary,pxopxietaxy,NAE,0.5,proprietary,0.6720037460327148,True,True,False,True
+proprietary,prxprietary,proprietary,0.5534943744133936,proprietary,0.9393345713615417,True,True,True,True
+proprietary,proxrietary,proprietary,0.5534943744133936,proprietary,0.5699319839477539,True,True,True,True
+proprietary,prxprietary,proprietary,0.5534943744133936,proprietary,0.7092476487159729,True,True,True,True
+proprietary,proxrietary,proprietary,0.5534943744133936,proprietary,0.8368530869483948,True,True,True,True
+proprietary,prxprietary,proprietary,0.5534943744133936,proprietary,0.9752514958381653,True,True,True,True
+3347938701,334793870x,3347938701,0.505952099771186,3347938701,0.5903422236442566,False,True,True,True
+3347938701,xx479x8701,NAE,0.5,3347938701,0.595031201839447,False,True,False,True
+2565938310,2x6x938310,2565938310,0.5056933357024745,2565938310,0.9397950768470764,False,True,True,True
+2565938310,2x6x938310,2565938310,0.5056933357024745,2565938310,0.9230239987373352,False,True,True,True
+2565938310,2565x38310,2565938310,0.5056933357024745,2565938310,0.762010931968689,False,True,True,True
+3344933541,3344x33541,3344933541,0.5062108606511191,3344933541,0.8260313272476196,False,True,True,True
+2058383122,2058x8x122,2058383122,0.5062108606511191,2058383122,0.8756870627403259,False,True,True,True
+2568453150,2568453x50,2568453150,0.5062108606511191,2568453150,0.6197405457496643,False,True,True,True
+3346366221,xx46x66221,NAE,0.5,3346366221,0.7451542019844055,False,True,False,True
+3346366221,334x3xx221,NAE,0.5,3346366221,0.2486533522605896,False,True,False,True
+2562358900,256235x900,2562358900,0.5069871227724176,2562358900,0.5727813839912415,False,True,True,True
+3347935000,xx479x5000,NAE,0.5,3347935000,0.5085628032684326,False,True,False,True
+2514717110,25x47x7xx0,NAE,0.5,2514717110,0.5101685523986816,False,True,False,True
+2514717110,25x47x7xx0,NAE,0.5,2059397000,0.20953144133090973,False,True,False,False
+2514717110,25x47x7xx0,NAE,0.5,2514717110,0.4265865981578827,False,True,False,True
+3343614267,33x361x267,3343614267,0.5049170257496379,2052743000,0.32239076495170593,False,True,True,False
+3347742601,334774x601,3347742601,0.5062108606511191,3347742601,0.8672105669975281,False,True,True,True
+3342882100,3342xx2100,3342882100,0.5062108606511191,3342882100,0.865368664264679,False,True,True,True
+3342938000,3342938xxx,NAE,0.5,2058383122,0.5624324083328247,False,True,False,False
+3342938000,33x2938000,3342938000,0.5056933357024745,3342938000,0.4958825409412384,False,True,True,True
+3342938000,3342938xxx,NAE,0.5,2058383122,0.4735805094242096,False,True,False,False
+3347561400,334x561400,3347561400,0.5062108606511191,3343470584,0.4362485408782959,False,True,True,False
+3348972257,33x8972257,3348972257,0.5062108606511191,3348972257,0.6881547570228577,False,True,True,True
+2059344011,20593xx011,2059344011,0.5062108606511191,3343353374,0.4230077862739563,False,True,True,False
+3342836541,334x836541,3342836541,0.505952099771186,3342836541,0.6943731904029846,False,True,True,True
+3342836541,33x28365x1,3342836541,0.505952099771186,3342836541,0.94693922996521,False,True,True,True
+3342228466,334xxx8466,NAE,0.5,3342228466,0.938089907169342,False,True,False,True
+3342228466,33422284xx,3342228466,0.505952099771186,3342228466,0.6755469441413879,False,True,True,True
+2564944000,2564944xxx,NAE,0.5,2564944000,0.47363489866256714,False,True,False,True
+2059216200,x059x16x00,NAE,0.5,2057552500,0.7462232112884521,False,True,False,False
+2059216200,20x9216200,2059216200,0.505952099771186,2057552500,0.6463179588317871,False,True,True,False
+2059325966,x0593x5966,2059325966,0.505952099771186,2059325966,0.9214810729026794,False,True,True,True
+2059325966,x0593x5966,2059325966,0.505952099771186,2059325966,0.8998585343360901,False,True,True,True
+2565435200,x565435x00,2565435200,0.5069871227724176,2565435200,0.9358150959014893,False,True,True,True
+marshall,mxrshxll,marshall,0.5127443774131496,marshall,0.8613322973251343,True,True,True,True
+lauderdale,laudxrdalx,lauderdale,0.5059830650835937,lauderdale,0.8644170761108398,True,True,True,True
+lauderdale,laudexdale,lauderdale,0.5059830650835937,lauderdale,0.7799340486526489,True,True,True,True
+crenshaw,crxnshaw,crenshaw,0.5062431718725022,jefferson,0.42977067828178406,True,True,True,False
+jefferson,jeffersxn,jefferson,0.5257316697455848,jefferson,0.748303234577179,True,True,True,True
+de kalb,dx kalb,de kalb,0.5054628419301314,morgan,0.48429855704307556,True,True,True,False
+de kalb,xe kalb,de kalb,0.5054628419301314,de kalb,0.6088081002235413,True,True,True,True
+de kalb,dx kalb,de kalb,0.5054628419301314,de kalb,0.6271411180496216,True,True,True,True
+de kalb,xe kalb,de kalb,0.5054628419301314,morgan,0.43867239356040955,True,True,True,False
+clarke,xlarke,clarke,0.5062431718725022,clarke,0.7444814443588257,True,True,True,True
+calhoun,calhoxn,calhoun,0.5067633751708733,calhoun,0.7815746068954468,True,True,True,True
+calhoun,caxhoun,calhoun,0.5067633751708733,calhoun,0.6828901171684265,True,True,True,True
+houston,housxon,houston,0.510664355382139,houston,0.9575942754745483,True,True,True,True
+talladega,tallaxega,talladega,0.5044223612623373,talladega,0.6144585609436035,True,True,True,True
+jefferson,jxffxrson,jefferson,0.5257316697455848,jefferson,0.6945105791091919,True,True,True,True
+jefferson,xefferson,jefferson,0.5257316697455848,jefferson,0.9496287107467651,True,True,True,True
+jefferson,jexxerson,jefferson,0.5257316697455848,jefferson,0.7565488219261169,True,True,True,True
+cherokee,chxrokxx,NAE,0.5,cherokee,0.6464391946792603,True,True,False,True
+cherokee,chxrokxx,NAE,0.5,cherokee,0.38616499304771423,True,True,False,True
+montgomery,monxgomery,montgomery,0.5122244104676318,montgomery,0.9060452580451965,True,True,True,True
+montgomery,montgomexy,montgomery,0.5122244104676318,montgomery,0.7134055495262146,True,True,True,True
+montgomery,monxgomery,montgomery,0.5122244104676318,montgomery,0.962740957736969,True,True,True,True
+chambers,xhambers,chambers,0.5059830650835937,chambers,0.41361886262893677,True,True,True,True
+chambers,chaxbers,chambers,0.5059830650835937,chambers,0.44580718874931335,True,True,True,True
+coffee,coffxx,coffee,0.5124843973178482,coffee,0.8892067074775696,True,True,True,True
+lee,xee,lee,0.5062431718725022,lee,0.659801721572876,True,True,True,True
+jefferson,jxffxrson,jefferson,0.5257316697455848,jefferson,0.9974400401115417,True,True,True,True
+jefferson,jexxerson,jefferson,0.5257316697455848,jefferson,0.9546825885772705,True,True,True,True
+elmore,elmoxe,elmore,0.5059830650835937,chilton,0.6002364754676819,True,True,True,False
+elmore,elxore,elmore,0.5059830650835937,chilton,0.6702097058296204,True,True,True,False
+cullman,cxllman,cullman,0.5059830650835937,cullman,0.8456372618675232,True,True,True,True
+cullman,cxllman,cullman,0.5059830650835937,cullman,0.7409379482269287,True,True,True,True
+covington,coxington,covington,0.5127443774131496,covington,0.9935716390609741,True,True,True,True
+madison,madisxn,madison,0.5067633751708733,cullman,0.487032413482666,True,True,True,False
+madison,madisox,madison,0.5067633751708733,cullman,0.43097978830337524,True,True,True,False
+fayette,fayexxe,fayette,0.5062431718725022,fayette,0.4957430064678192,True,True,True,True
+etowah,etowxh,etowah,0.5135242757647779,etowah,0.6095498204231262,True,True,True,True
+butler,butxer,butler,0.5062431718725022,butler,0.7428240776062012,True,True,True,True
+coffee,cxffee,coffee,0.5124843973178482,coffee,0.866513192653656,True,True,True,True
+35957,x5957,35957,0.5059275573344274,35957,0.9348879456520081,False,True,True,True
+35957,3595x,35957,0.5059275573344274,35957,0.8044312596321106,False,True,True,True
+35631,3563x,35631,0.5059275573344274,35631,0.546565055847168,False,True,True,True
+35631,3563x,35631,0.5059275573344274,35631,0.4267774820327759,False,True,True,True
+36049,36x49,36049,0.5059275573344274,36049,0.7372254133224487,False,True,True,True
+36049,360x9,36049,0.5059275573344274,36049,0.7829774618148804,False,True,True,True
+35640,3x640,35640,0.5059275573344274,35640,0.6038285493850708,False,True,True,True
+35640,3x640,35640,0.5059275573344274,35640,0.3144342303276062,False,True,True,True
+35235,3x23x,35233,0.5123686101857349,35235,0.7225652933120728,False,True,False,True
+35968,359x8,35968,0.5061852514730135,35045,0.7135717868804932,False,True,True,False
+36784,x6784,36784,0.5061852514730135,36302,0.4743078351020813,False,True,True,False
+35007,3x007,35007,0.5059275573344274,35007,0.6533492803573608,False,True,True,True
+35007,x5007,35007,0.5059275573344274,35007,0.9042911529541016,False,True,True,True
+36201,36x01,36201,0.5069583136230268,36201,0.6100365519523621,False,True,True,True
+36305,3x305,36305,0.503865902343097,36049,0.47686609625816345,False,True,True,False
+36305,x6x05,36305,0.503865902343097,36305,0.23119916021823883,False,True,True,True
+35594,3xx94,35594,0.5059275573344274,35594,0.45786696672439575,False,True,True,True
+35594,3xx94,35594,0.5059275573344274,35640,0.3177172541618347,False,True,True,False
+36067,3x0x7,35007,0.5059275573344274,36067,0.5694316625595093,False,True,False,True
+35150,x5150,35150,0.5041236178444946,35150,0.5996295809745789,False,True,True,True
+35150,3x1x0,35150,0.5041236178444946,35150,0.7041608691215515,False,True,True,True
+36360,x6x60,36360,0.5061852514730135,35957,0.4581209719181061,False,True,True,False
+35960,x5960,35960,0.5061852514730135,35960,0.5400258898735046,False,True,True,True
+36106,3x10x,36106,0.5061852514730135,36106,0.7259237766265869,False,True,True,True
+35233,3x233,35233,0.5123686101857349,35233,0.8326295018196106,False,True,True,True
+35233,x52xx,NAE,0.5,35233,0.5518402457237244,False,True,False,True
+36078,36x78,36278,0.5064429423252229,36078,0.4221014678478241,False,True,False,True
+36420,3642x,36420,0.5061852514730135,36420,0.8279133439064026,False,True,True,True
+35903,x590x,35901,0.5069583136230268,35901,0.8933908939361572,False,True,False,False
+35901,3590x,35901,0.5069583136230268,35901,0.889974057674408,False,True,True,True
+al,xl,al,0.7270022698569094,al,0.9987315535545349,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9998471736907959,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9998570680618286,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9998509883880615,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.999306321144104,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9998841285705566,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9992933869361877,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9979881644248962,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9999574422836304,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9998427629470825,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9997618794441223,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9996645450592041,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9999526739120483,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.999890923500061,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.999993085861206,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9994051456451416,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9999793767929077,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9993675351142883,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9993743300437927,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9993295669555664,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9997904896736145,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9941296577453613,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9999048709869385,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9998286366462708,True,True,True,True
+al,xl,al,0.7270022698569094,al,0.9998002648353577,True,True,True,True
+al,ax,al,0.7270022698569094,al,0.9954131841659546,True,True,True,True
+birmingham,birminghxm,birmingham,0.5193801514771872,birmingham,0.8120437264442444,True,True,True,True
+birmingham,birmingxam,birmingham,0.5193801514771872,birmingham,0.7383991479873657,True,True,True,True
+sheffield,sheffxeld,sheffield,0.5062044384973083,sheffield,0.7494195103645325,True,True,True,True
+boaz,boxz,boaz,0.5062044384973083,boaz,0.662800669670105,True,True,True,True
+florence,fxorence,florence,0.5056874485832037,florence,0.4861295819282532,True,True,True,True
+florence,florxncx,florence,0.5056874485832037,prattville,0.45131152868270874,True,True,True,False
+florence,flxrence,florence,0.5056874485832037,prattville,0.3005863130092621,True,True,True,False
+guntersville,guntxrsvillx,guntersville,0.5062044384973083,guntersville,0.9618023633956909,True,True,True,True
+birmingham,birmixgham,birmingham,0.5193801514771872,birmingham,0.9648969769477844,True,True,True,True
+birmingham,bxrmxngham,birmingham,0.5193801514771872,birmingham,0.8833191990852356,True,True,True,True
+fort payne,fort payxe,fort payne,0.5062044384973083,fort payne,0.577810525894165,True,True,True,True
+anniston,axxistox,NAE,0.5,anniston,0.5791160464286804,True,True,False,True
+winfield,winfielx,winfield,0.5062044384973083,winfield,0.6283156275749207,True,True,True,True
+anchorage,anchoraxe,anchorage,0.504394923003211,anchorage,0.5661657452583313,True,True,True,True
+ozark,ozarx,ozark,0.5059459451297045,ozark,0.9320059418678284,True,True,True,True
+ozark,xzark,ozark,0.5059459451297045,ozark,0.902056097984314,True,True,True,True
+montgomery,montxomery,montgomery,0.5126653355839694,montgomery,0.9326971173286438,True,True,True,True
+valley,vallex,valley,0.5059459451297045,valley,0.7150684595108032,True,True,True,True
+valley,vxlley,valley,0.5059459451297045,valley,0.5649188756942749,True,True,True,True
+elba,exba,elba,0.5062044384973083,valley,0.5537939071655273,True,True,True,False
+wedowee,wxdowxx,NAE,0.5,wedowee,0.6431458592414856,True,True,False,True
+birmingham,birminxham,birmingham,0.5193801514771872,birmingham,0.2914811372756958,True,True,True,True
+tallassee,tallaxxee,tallassee,0.5062044384973083,tallassee,0.741330623626709,True,True,True,True
+cullman,cuxxman,cullman,0.5062044384973083,cullman,0.7517935633659363,True,True,True,True
+andalusia,andaluxia,andalusia,0.5062044384973083,andalusia,0.7906976938247681,True,True,True,True
+anniston,annxston,anniston,0.5067214151432028,anniston,0.4657842814922333,True,True,True,True
+gadsden,gxdsden,gadsden,0.5134404014756737,gadsden,0.8965737819671631,True,True,True,True
+hamilton,hamilxon,hamilton,0.5062044384973083,hamilton,0.8759011626243591,True,True,True,True
+fayette,faxette,fayette,0.5062044384973083,fayette,0.7070027589797974,True,True,True,True
+georgiana,geoxgiana,georgiana,0.5062044384973083,tallassee,0.4913600981235504,True,True,True,False
+enterprise,enterprxse,enterprise,0.5059459451297045,enterprise,0.5049793124198914,True,True,True,True
+enterprise,xntxrprisx,NAE,0.5,enterprise,0.5554244518280029,True,True,False,True
+oneonta,onxonta,oneonta,0.5049119412519929,oneonta,0.7355633974075317,True,True,True,True
+702 n main st,702xnxmainxst,NAE,0.5,702 n main st,0.4960181415081024,False,True,False,True
+702 n main st,702 x maix st,702 n main st,0.5059336739506002,702 n main st,0.24397355318069458,False,True,True,True
+33700 highway 43,33700 hxghway 43,33700 highway 43,0.5059336739506002,33700 highway 43,0.5876707434654236,False,True,True,True
+33700 highway 43,33700 highway x3,33700 highway 43,0.5059336739506002,33700 highway 43,0.44065165519714355,False,True,True,True
+301 east 18th st,301xeastx18thxst,NAE,0.5,301 east 18th st,0.6731840372085571,False,True,False,True
+1530 u s highway 43,1530xuxsxhighwayx43,NAE,0.5,1530 u s highway 43,0.6584880948066711,False,True,False,True
+124 s memorial dr,124xsxmemorialxdr,NAE,0.5,150 gilbreath drive,0.286476731300354,False,True,False,False
+124 s memorial dr,124 s mxmorial dr,124 s memorial dr,0.5046438293148806,124 s memorial dr,0.369089275598526,False,True,True,True
+315 w hickory st,315 w hickxry st,315 w hickory st,0.5041278731907985,315 w hickory st,0.3554140031337738,False,True,True,True
+315 w hickory st,315xwxhickoryxst,NAE,0.5,315 w hickory st,0.2999095916748047,False,True,False,True
+po box 287,poxboxx287,NAE,0.5,33700 highway 43,0.7156650424003601,False,True,False,False
+126 hospital ave,126xhospitalxave,NAE,0.5,126 hospital ave,0.7435276508331299,False,True,False,True
+126 hospital ave,1x6 hospital ave,126 hospital ave,0.5059336739506002,126 hospital ave,0.6205832958221436,False,True,True,True
+301 east 18th st,301 east 1xth st,301 east 18th st,0.5067075439195307,301 east 18th st,0.46101847290992737,False,True,True,True
+1010 lay dam road,x0x0 lay dam road,1010 lay dam road,0.5061916339492364,1010 lay dam road,0.3898845613002777,False,True,True,True
+515 miranda st,515 miranda sx,515 miranda st,0.5056757107927075,1000 first street north,0.5229616761207581,False,True,True,False
+515 miranda st,515 miranxa st,515 miranda st,0.5056757107927075,33700 highway 43,0.41063982248306274,False,True,True,False
+515 miranda st,515 mirxndx st,515 miranda st,0.5056757107927075,1000 first street north,0.6275985240936279,False,True,True,False
+150 gilbreath drive,150 gilxreath drive,150 gilbreath drive,0.5049018037366293,150 gilbreath drive,0.5479788184165955,False,True,True,True
+flowers hospital,floxers hospital,flowers hospital,0.5040982688737231,flowers hospital,0.6952599287033081,True,True,True,True
+wedowee hospital,wedowee hosxital,wedowee hospital,0.5061472312297125,wedowee hospital,0.8236297369003296,True,True,True,True
+huntsville hospital,huntsvxlle hospxtal,huntsville hospital,0.5069155425773344,huntsville hospital,0.7613336443901062,True,True,True,True
+georgiana hospital,georgiaxa hospital,georgiana hospital,0.5061472312297125,georgiana hospital,0.8912107348442078,True,True,True,True
+st vincents blount,st vincents bxount,st vincents blount,0.504866649585842,st vincents blount,0.6802635192871094,True,True,True,True
+10019,1xx19,10019,0.5061725259125543,10019,0.4289526641368866,False,True,True,True
+10005,x0005,10005,0.5061725259125543,10005,0.6518499255180359,False,True,True,True
+10006,1000x,10007,0.5064296867052959,10006,0.446798712015152,False,True,False,True
+10011,x00xx,NAE,0.5,10011,0.5553065538406372,False,True,False,True
+10015,x00x5,10025,0.5064296867052959,10015,0.6128408312797546,False,True,False,True
+10015,1xx15,10015,0.5059153618536777,10015,0.45115092396736145,False,True,True,True
+10016,1xx16,10016,0.5061725259125543,10016,0.532809317111969,False,True,True,True
+10038,100x8,10038,0.5069439979482607,10038,0.7356519103050232,False,True,True,True
+10086,100x6,10046,0.5072011481264456,10086,0.6872151494026184,False,True,False,True
+10108,x0x08,10008,0.5064296867052959,10108,0.38691720366477966,False,True,False,True
+10024,1xx24,10024,0.5061725259125543,10024,0.4631224572658539,False,True,True,True
+10027,x0027,10027,0.5061725259125543,10027,0.369136244058609,False,True,True,True
+10029,x0029,10029,0.5059153618536777,10029,0.6998225450515747,False,True,True,True
+10029,1xx29,10029,0.5059153618536777,10029,0.4725833237171173,False,True,True,True
+10032,1xx32,10032,0.5059153618536777,10032,0.8395804762840271,False,True,True,True
+10032,1xx32,10032,0.5059153618536777,10032,0.8012999892234802,False,True,True,True
+10034,100x4,10044,0.5061725259125543,10034,0.7919273972511292,False,True,False,True
+10035,100x5,10025,0.5064296867052959,10035,0.9128287434577942,False,True,False,True
+10035,1xx35,10035,0.5059153618536777,10035,0.8434370756149292,False,True,True,True
+10036,1xx36,10036,0.5061725259125543,10036,0.8993383049964905,False,True,True,True
+10039,1003x,10038,0.5069439979482607,10039,0.9739523530006409,False,True,False,True
+10039,1xx39,10039,0.5064296867052959,10039,0.8781957030296326,False,True,True,True
+10039,100x9,10039,0.5064296867052959,10039,0.9699532389640808,False,True,True,True
+10044,1xx44,10044,0.5061725259125543,10044,0.7342730164527893,False,True,True,True
+10045,1xx45,10045,0.5059153618536777,10045,0.7472675442695618,False,True,True,True
+10045,x0045,10045,0.5059153618536777,10045,0.76302170753479,False,True,True,True
+10047,1xx47,10047,0.5061725259125543,10047,0.9219192862510681,False,True,True,True
+10049,1004x,10046,0.5072011481264456,10049,0.8949726223945618,False,True,False,True

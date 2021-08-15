@@ -1,0 +1,4921 @@
+actual,error,index,col,want_to_clean
+3:50 p.m.,3:29 p.m. (Estimated runway),2362,act_arr_time,1
+11:50 p.m.,11:35 p.m. (Estimated runway),2358,act_arr_time,1
+12:15 a.m.,11:49 p.m. (Estimated runway),2357,act_arr_time,1
+12:29 a.m.,12:01 a.m. (Estimated runway),2356,act_arr_time,1
+5:50 a.m.,5:42 a.m. (Estimated runway),2355,act_arr_time,1
+3:30 p.m.,3:20 p.m. (runway),2339,act_arr_time,1
+6:55 a.m.,6:35 a.m. (Estimated runway),2328,act_arr_time,1
+12:21 a.m.,12:21 a.m. (Estimated),2326,act_arr_time,1
+7:25 p.m.,7:25 p.m. (Estimated runway),2325,act_arr_time,1
+10:30 p.m.,10:30 p.m. (Estimated),2324,act_arr_time,1
+11:12 a.m.,10:52 a.m.,2320,act_arr_time,1
+6:19 a.m.,6:09 a.m.,2319,act_arr_time,1
+6:36 p.m.,6:33 p.m.,2318,act_arr_time,1
+12:50 p.m.,12:37 p.m.,2317,act_arr_time,1
+5:38 p.m.,5:34 p.m.,2316,act_arr_time,1
+3:14 p.m.,3:12 p.m.,2315,act_arr_time,1
+6:15 p.m.,6:11 p.m.,2314,act_arr_time,1
+6:43 p.m.,6:30 p.m.,2313,act_arr_time,1
+3:13 p.m.,2:49 p.m.,2312,act_arr_time,1
+1:43 p.m.,1:42 p.m.,2311,act_arr_time,1
+11:06 a.m.,11:04 a.m.,2310,act_arr_time,1
+5:43 p.m.,5:39 p.m.,2309,act_arr_time,1
+3:43 p.m.,3:36 p.m.,2308,act_arr_time,1
+9:20 p.m.,9:11 p.m.,2307,act_arr_time,1
+6:40 p.m.,6:56 p.m.,2306,act_arr_time,1
+5:11 a.m.,5:21 a.m.,2305,act_arr_time,1
+3:50 p.m.,3:40 p.m.,2304,act_arr_time,1
+11:44 a.m.,11:33 a.m.,2303,act_arr_time,1
+10:04 a.m.,9:45 a.m.,2302,act_arr_time,1
+11:50 p.m.,11:35 p.m.,2301,act_arr_time,1
+12:15 a.m.,12:01 a.m.,2300,act_arr_time,1
+12:29 a.m.,12:19 a.m.,2299,act_arr_time,1
+4:17 p.m.,4:06 p.m.,2298,act_arr_time,1
+4:23 p.m.,4:20 p.m.,2297,act_arr_time,1
+3:04 p.m.,2:58 p.m.,2296,act_arr_time,1
+9:53 p.m.,9:47 p.m.,2295,act_arr_time,1
+6:38 p.m.,6:34 p.m.,2294,act_arr_time,1
+7:55 p.m.,7:43 p.m.,2293,act_arr_time,1
+9:31 a.m.,9:26 a.m.,2292,act_arr_time,1
+7:51 a.m.,7:49 a.m.,2291,act_arr_time,1
+12:09 p.m.,12:02 p.m.,2290,act_arr_time,1
+12:21 a.m.,12:02 a.m.,2289,act_arr_time,1
+3:16 p.m.,3:04 p.m.,2288,act_arr_time,1
+8:53 p.m.,8:38 p.m.,2287,act_arr_time,1
+10:36 a.m.,10:29 a.m.,2285,act_arr_time,1
+3:33 p.m.,3:26 p.m.,2284,act_arr_time,1
+2:46 p.m.,2:39 p.m.,2283,act_arr_time,1
+2:27 p.m.,2:21 p.m.,2282,act_arr_time,1
+9:52 p.m.,8:46 p.m.,2281,act_arr_time,1
+11:06 a.m.,10:43 a.m.,2280,act_arr_time,1
+8:03 p.m.,7:43 p.m.,2279,act_arr_time,1
+1:15 p.m.,1:08 p.m.,2278,act_arr_time,1
+5:42 p.m.,5:27 p.m.,2277,act_arr_time,1
+3:21 p.m.,3:07 p.m.,2276,act_arr_time,1
+2:50 p.m.,2:40 p.m.,2275,act_arr_time,1
+7:40 a.m.,7:35 a.m.,2274,act_arr_time,1
+3:30 p.m.,3:13 p.m.,2273,act_arr_time,1
+8:06 a.m.,7:59 a.m.,2272,act_arr_time,1
+11:56 a.m.,11:50 a.m.,2271,act_arr_time,1
+11:01 a.m.,10:58 a.m.,2270,act_arr_time,1
+5:05 p.m.,4:57 p.m.,2269,act_arr_time,1
+9:05 a.m.,8:50 a.m.,2268,act_arr_time,1
+1:14 p.m.,1:07 p.m.,2267,act_arr_time,1
+4:09 p.m.,3:59 p.m.,2266,act_arr_time,1
+1:27 p.m.,1:11 p.m.,2265,act_arr_time,1
+7:39 p.m.,7:37 p.m.,2264,act_arr_time,1
+9:45 a.m.,9:29 a.m.,2263,act_arr_time,1
+9:14 a.m.,9:08 a.m.,2262,act_arr_time,1
+6:28 p.m.,6:23 p.m.,2261,act_arr_time,1
+10:30 p.m.,10:28 p.m.,2259,act_arr_time,1
+9:43 a.m.,9:44 a.m.,2258,act_arr_time,1
+10:29 p.m.,10:24 p.m.,2257,act_arr_time,1
+9:28 a.m.,9:14 a.m.,2256,act_arr_time,1
+9:32 a.m.,9:22 a.m.,2255,act_arr_time,1
+7:40 a.m.,7:32 a.m.,2250,act_arr_time,1
+12:50 p.m.,12:48 p.m.,2249,act_arr_time,1
+5:38 p.m.,6:17 p.m.,2248,act_arr_time,1
+6:15 p.m.,6:09 p.m.,2244,act_arr_time,1
+8:06 a.m.,7:57 a.m.,2242,act_arr_time,1
+10:16 a.m.,10:10 a.m.,2240,act_arr_time,1
+3:13 p.m.,3:01 p.m.,2239,act_arr_time,1
+11:01 a.m.,11:00 a.m.,2237,act_arr_time,1
+11:06 a.m.,11:07 a.m.,2235,act_arr_time,1
+5:43 p.m.,5:34 p.m.,2234,act_arr_time,1
+3:43 p.m.,3:36 p.m.,2233,act_arr_time,1
+11:56 a.m.,12:12 p.m.,2232,act_arr_time,1
+4:44 p.m.,4:24 p.m.,2230,act_arr_time,1
+9:20 p.m.,9:11 p.m.,2229,act_arr_time,1
+2:00 p.m.,2:02 p.m.,2228,act_arr_time,1
+6:40 p.m.,,2226,act_arr_time,1
+5:11 a.m.,,2225,act_arr_time,1
+3:50 p.m.,,2222,act_arr_time,1
+11:50 p.m.,,2218,act_arr_time,1
+12:15 a.m.,,2217,act_arr_time,1
+12:29 a.m.,,2216,act_arr_time,1
+5:50 a.m.,,2215,act_arr_time,1
+2:50 p.m.,2:52 p.m.,2213,act_arr_time,1
+10:47 a.m.,10:45 a.m.,2210,act_arr_time,1
+9:53 p.m.,9:49 p.m.,2208,act_arr_time,1
+6:38 p.m.,6:35 p.m.,2206,act_arr_time,1
+7:55 p.m.,7:53 p.m.,2205,act_arr_time,1
+9:31 a.m.,9:29 a.m.,2204,act_arr_time,1
+12:21 a.m.,,2200,act_arr_time,1
+8:53 p.m.,8:43 p.m.,2199,act_arr_time,1
+7:25 p.m.,,2198,act_arr_time,1
+10:36 a.m.,10:29 a.m.,2197,act_arr_time,1
+3:33 p.m.,3:25 p.m.,2196,act_arr_time,1
+9:52 p.m.,9:38 p.m.,2193,act_arr_time,1
+1:15 p.m.,1:14 p.m.,2191,act_arr_time,1
+2:10 p.m.,2:01 p.m.,2189,act_arr_time,1
+3:30 p.m.,3:19 p.m.,2186,act_arr_time,1
+11:56 a.m.,11:50 a.m.,2185,act_arr_time,1
+5:05 p.m.,5:03 p.m.,2182,act_arr_time,1
+4:47 p.m.,5:00 p.m.,2178,act_arr_time,1
+1:27 p.m.,1:18 p.m.,2171,act_arr_time,1
+9:14 a.m.,9:09 a.m.,2169,act_arr_time,1
+6:28 p.m.,6:25 p.m.,2168,act_arr_time,1
+6:55 a.m.,,2165,act_arr_time,1
+10:30 p.m.,,2160,act_arr_time,1
+9:32 a.m.,9:22 a.m.,2155,act_arr_time,1
+3:13 p.m.,,2154,act_arr_time,1
+7:36 p.m.,,2153,act_arr_time,1
+12:15 a.m.,,2152,act_arr_time,1
+1:14 p.m.,,2151,act_arr_time,1
+3:31 p.m.,,2150,act_arr_time,1
+11:56 a.m.,11:45 a.m.,2127,act_arr_time,1
+6:40 p.m.,,2121,act_arr_time,1
+5:11 a.m.,,2120,act_arr_time,1
+3:50 p.m.,,2117,act_arr_time,1
+11:50 p.m.,,2113,act_arr_time,1
+12:15 a.m.,,2112,act_arr_time,1
+12:29 a.m.,,2111,act_arr_time,1
+5:50 a.m.,,2110,act_arr_time,1
+12:21 a.m.,,2095,act_arr_time,1
+7:25 p.m.,,2093,act_arr_time,1
+9:52 p.m.,8:56 p.m.,2088,act_arr_time,1
+3:30 p.m.,3:20 p.m. (Runway),2081,act_arr_time,1
+6:55 a.m.,,2060,act_arr_time,1
+10:30 p.m.,,2055,act_arr_time,1
+7:40 a.m.,7:32 a.m.,2045,act_arr_time,1
+12:50 p.m.,12:48 p.m.,2044,act_arr_time,1
+5:38 p.m.,6:17 p.m.,2043,act_arr_time,1
+6:15 p.m.,6:09 p.m.,2039,act_arr_time,1
+8:06 a.m.,7:57 a.m.,2037,act_arr_time,1
+10:16 a.m.,10:10 a.m.,2035,act_arr_time,1
+3:13 p.m.,3:01 p.m.,2034,act_arr_time,1
+11:01 a.m.,11:00 a.m.,2032,act_arr_time,1
+11:06 a.m.,11:07 a.m.,2030,act_arr_time,1
+5:43 p.m.,5:34 p.m.,2029,act_arr_time,1
+3:43 p.m.,3:36 p.m.,2028,act_arr_time,1
+11:56 a.m.,12:12 p.m.,2027,act_arr_time,1
+4:44 p.m.,4:24 p.m.,2025,act_arr_time,1
+9:20 p.m.,9:11 p.m.,2024,act_arr_time,1
+2:00 p.m.,2:02 p.m.,2023,act_arr_time,1
+6:40 p.m.,,2021,act_arr_time,1
+5:11 a.m.,,2020,act_arr_time,1
+3:50 p.m.,,2017,act_arr_time,1
+11:50 p.m.,,2013,act_arr_time,1
+12:15 a.m.,,2012,act_arr_time,1
+12:29 a.m.,,2011,act_arr_time,1
+5:50 a.m.,,2010,act_arr_time,1
+2:50 p.m.,2:52 p.m.,2008,act_arr_time,1
+10:47 a.m.,10:45 a.m.,2005,act_arr_time,1
+9:53 p.m.,9:49 p.m.,2003,act_arr_time,1
+6:38 p.m.,6:35 p.m.,2001,act_arr_time,1
+7:55 p.m.,7:53 p.m.,2000,act_arr_time,1
+9:31 a.m.,9:29 a.m.,1999,act_arr_time,1
+12:21 a.m.,,1995,act_arr_time,1
+8:53 p.m.,8:43 p.m.,1994,act_arr_time,1
+7:25 p.m.,,1993,act_arr_time,1
+10:36 a.m.,10:29 a.m.,1992,act_arr_time,1
+3:33 p.m.,3:25 p.m.,1991,act_arr_time,1
+9:52 p.m.,9:38 p.m.,1988,act_arr_time,1
+1:15 p.m.,1:14 p.m.,1986,act_arr_time,1
+2:10 p.m.,2:01 p.m.,1984,act_arr_time,1
+3:30 p.m.,3:19 p.m.,1981,act_arr_time,1
+11:56 a.m.,11:50 a.m.,1980,act_arr_time,1
+5:05 p.m.,5:03 p.m.,1977,act_arr_time,1
+4:47 p.m.,5:00 p.m.,1973,act_arr_time,1
+1:27 p.m.,1:18 p.m.,1966,act_arr_time,1
+9:14 a.m.,9:09 a.m.,1964,act_arr_time,1
+6:28 p.m.,6:25 p.m.,1963,act_arr_time,1
+6:55 a.m.,,1960,act_arr_time,1
+10:30 p.m.,,1955,act_arr_time,1
+9:32 a.m.,9:22 a.m.,1950,act_arr_time,1
+9:20 p.m.,9:19 p.m. (Estimated),1931,act_arr_time,1
+6:40 p.m.,6:40 p.m. (Estimated),1929,act_arr_time,1
+5:11 a.m.,,1928,act_arr_time,1
+11:50 p.m.,11:35 p.m. (Estimated runway),1921,act_arr_time,1
+12:15 a.m.,11:49 p.m. (Estimated runway),1920,act_arr_time,1
+12:29 a.m.,12:01 a.m. (Estimated runway),1919,act_arr_time,1
+5:50 a.m.,5:42 a.m. (Estimated runway),1918,act_arr_time,1
+12:21 a.m.,12:21 a.m. (Estimated),1903,act_arr_time,1
+9:52 p.m.,9:52 p.m. (Estimated),1894,act_arr_time,1
+3:30 p.m.,3:20 p.m. (runway),1889,act_arr_time,1
+6:55 a.m.,6:35 a.m. (Estimated runway),1868,act_arr_time,1
+7:25 p.m.,7:25 p.m. (Estimated runway),1865,act_arr_time,1
+10:30 p.m.,10:30 p.m. (Estimated),1863,act_arr_time,1
+11:56 a.m.,11:45 a.m.,1835,act_arr_time,1
+6:40 p.m.,,1829,act_arr_time,1
+5:11 a.m.,,1828,act_arr_time,1
+3:50 p.m.,,1825,act_arr_time,1
+11:50 p.m.,,1821,act_arr_time,1
+12:15 a.m.,,1820,act_arr_time,1
+12:29 a.m.,,1819,act_arr_time,1
+5:50 a.m.,,1818,act_arr_time,1
+12:21 a.m.,,1803,act_arr_time,1
+7:25 p.m.,,1801,act_arr_time,1
+9:52 p.m.,8:56 p.m.,1796,act_arr_time,1
+3:30 p.m.,3:20 p.m. (Runway),1789,act_arr_time,1
+6:55 a.m.,,1768,act_arr_time,1
+10:30 p.m.,,1763,act_arr_time,1
+5:11 a.m.,Fri Dec 2 5:11 a.m.,1747,act_arr_time,1
+12:29 a.m.,Fri Dec 2 12:29 a.m.,1744,act_arr_time,1
+11:12 a.m.,10:52 a.m.,1726,act_arr_time,1
+6:19 a.m.,6:09 a.m.,1725,act_arr_time,1
+6:36 p.m.,6:33 p.m.,1724,act_arr_time,1
+12:50 p.m.,12:37 p.m.,1723,act_arr_time,1
+5:38 p.m.,5:34 p.m.,1722,act_arr_time,1
+3:14 p.m.,3:12 p.m.,1721,act_arr_time,1
+6:15 p.m.,6:11 p.m.,1720,act_arr_time,1
+6:43 p.m.,6:30 p.m.,1719,act_arr_time,1
+3:13 p.m.,2:49 p.m.,1718,act_arr_time,1
+1:43 p.m.,1:42 p.m.,1717,act_arr_time,1
+11:06 a.m.,11:04 a.m.,1716,act_arr_time,1
+5:43 p.m.,5:39 p.m.,1715,act_arr_time,1
+3:43 p.m.,3:36 p.m.,1714,act_arr_time,1
+9:20 p.m.,9:11 p.m.,1713,act_arr_time,1
+6:40 p.m.,6:56 p.m.,1712,act_arr_time,1
+5:11 a.m.,5:21 a.m.,1711,act_arr_time,1
+3:50 p.m.,3:40 p.m.,1710,act_arr_time,1
+11:44 a.m.,11:33 a.m.,1709,act_arr_time,1
+10:04 a.m.,9:45 a.m.,1708,act_arr_time,1
+11:50 p.m.,11:35 p.m.,1707,act_arr_time,1
+12:15 a.m.,12:01 a.m.,1706,act_arr_time,1
+12:29 a.m.,12:19 a.m.,1705,act_arr_time,1
+4:17 p.m.,4:06 p.m.,1704,act_arr_time,1
+4:23 p.m.,4:20 p.m.,1703,act_arr_time,1
+3:04 p.m.,2:58 p.m.,1702,act_arr_time,1
+9:53 p.m.,9:47 p.m.,1701,act_arr_time,1
+6:38 p.m.,6:34 p.m.,1700,act_arr_time,1
+7:55 p.m.,7:43 p.m.,1699,act_arr_time,1
+9:31 a.m.,9:26 a.m.,1698,act_arr_time,1
+7:51 a.m.,7:49 a.m.,1697,act_arr_time,1
+12:09 p.m.,12:02 p.m.,1696,act_arr_time,1
+12:21 a.m.,12:02 a.m.,1695,act_arr_time,1
+3:16 p.m.,3:04 p.m.,1694,act_arr_time,1
+8:53 p.m.,8:38 p.m.,1693,act_arr_time,1
+10:36 a.m.,10:29 a.m.,1691,act_arr_time,1
+3:33 p.m.,3:26 p.m.,1690,act_arr_time,1
+2:46 p.m.,2:39 p.m.,1689,act_arr_time,1
+2:27 p.m.,2:21 p.m.,1688,act_arr_time,1
+9:52 p.m.,8:46 p.m.,1687,act_arr_time,1
+11:06 a.m.,10:43 a.m.,1686,act_arr_time,1
+8:03 p.m.,7:43 p.m.,1685,act_arr_time,1
+1:15 p.m.,1:08 p.m.,1684,act_arr_time,1
+5:42 p.m.,5:27 p.m.,1683,act_arr_time,1
+3:21 p.m.,3:07 p.m.,1682,act_arr_time,1
+2:50 p.m.,2:40 p.m.,1681,act_arr_time,1
+7:40 a.m.,7:35 a.m.,1680,act_arr_time,1
+3:30 p.m.,3:13 p.m.,1679,act_arr_time,1
+8:06 a.m.,7:59 a.m.,1678,act_arr_time,1
+11:56 a.m.,11:50 a.m.,1677,act_arr_time,1
+11:01 a.m.,10:58 a.m.,1676,act_arr_time,1
+5:05 p.m.,4:57 p.m.,1675,act_arr_time,1
+9:05 a.m.,8:50 a.m.,1674,act_arr_time,1
+1:14 p.m.,1:07 p.m.,1673,act_arr_time,1
+4:09 p.m.,3:59 p.m.,1672,act_arr_time,1
+1:27 p.m.,1:11 p.m.,1671,act_arr_time,1
+7:39 p.m.,7:37 p.m.,1670,act_arr_time,1
+9:45 a.m.,9:29 a.m.,1669,act_arr_time,1
+9:14 a.m.,9:08 a.m.,1668,act_arr_time,1
+6:28 p.m.,6:23 p.m.,1667,act_arr_time,1
+10:30 p.m.,10:28 p.m.,1665,act_arr_time,1
+9:43 a.m.,9:44 a.m.,1664,act_arr_time,1
+10:29 p.m.,10:24 p.m.,1663,act_arr_time,1
+9:28 a.m.,9:14 a.m.,1662,act_arr_time,1
+9:32 a.m.,9:22 a.m.,1661,act_arr_time,1
+7:58 p.m.,,1660,act_arr_time,1
+3:33 p.m.,,1659,act_arr_time,1
+10:16 a.m.,,1658,act_arr_time,1
+5:34 p.m.,,1657,act_arr_time,1
+2:46 p.m.,,1656,act_arr_time,1
+5:11 a.m.,,1655,act_arr_time,1
+12:50 p.m.,,1654,act_arr_time,1
+10:30 p.m.,,1653,act_arr_time,1
+2:10 p.m.,,1652,act_arr_time,1
+4:56 p.m.,,1651,act_arr_time,1
+5:50 a.m.,,1650,act_arr_time,1
+6:15 p.m.,,1649,act_arr_time,1
+2:50 p.m.,,1648,act_arr_time,1
+4:23 p.m.,,1647,act_arr_time,1
+8:06 a.m.,,1646,act_arr_time,1
+8:53 p.m.,,1645,act_arr_time,1
+3:13 p.m.,,1644,act_arr_time,1
+7:36 p.m.,,1643,act_arr_time,1
+9:53 p.m.,,1642,act_arr_time,1
+11:06 a.m.,,1641,act_arr_time,1
+3:43 p.m.,,1640,act_arr_time,1
+9:31 a.m.,,1639,act_arr_time,1
+7:51 a.m.,,1638,act_arr_time,1
+9:32 a.m.,,1637,act_arr_time,1
+7:40 a.m.,7:40aDec 1,1636,act_arr_time,1
+10:16 a.m.,10:16aDec 1,1632,act_arr_time,1
+11:12 a.m.,11:12aDec 1,1631,act_arr_time,1
+9:20 p.m.,,1626,act_arr_time,1
+5:11 a.m.,,1625,act_arr_time,1
+3:50 p.m.,Not Available,1623,act_arr_time,1
+11:44 a.m.,11:44aDec 1,1621,act_arr_time,1
+10:04 a.m.,10:04aDec 1,1620,act_arr_time,1
+11:50 p.m.,,1619,act_arr_time,1
+12:15 a.m.,Dec 02 Not Available,1618,act_arr_time,1
+12:29 a.m.,,1617,act_arr_time,1
+10:47 a.m.,10:47aDec 1,1615,act_arr_time,1
+11:06 a.m.,11:06aDec 1,1613,act_arr_time,1
+9:31 a.m.,9:31aDec 1,1611,act_arr_time,1
+7:51 a.m.,7:51aDec 1,1610,act_arr_time,1
+9:52 p.m.,,1608,act_arr_time,1
+3:21 p.m.,,1604,act_arr_time,1
+8:06 a.m.,8:06aDec 1,1603,act_arr_time,1
+9:05 a.m.,9:05aDec 1,1600,act_arr_time,1
+9:45 a.m.,9:45aDec 1,1597,act_arr_time,1
+5:26 a.m.,5:26aDec 1,1594,act_arr_time,1
+6:55 a.m.,,1593,act_arr_time,1
+11:21 a.m.,,1592,act_arr_time,1
+5:17 p.m.,Contact Airline,1591,act_arr_time,1
+7:25 p.m.,,1590,act_arr_time,1
+9:43 a.m.,,1589,act_arr_time,1
+10:29 p.m.,10:02 p.m.,1588,act_arr_time,1
+10:30 p.m.,,1587,act_arr_time,1
+3:14 p.m.,3:12 p.m.,1586,act_arr_time,1
+11:12 a.m.,10:52 a.m.,1585,act_arr_time,1
+6:19 a.m.,6:15 a.m.,1584,act_arr_time,1
+6:36 p.m.,,1583,act_arr_time,1
+7:40 a.m.,7:37 a.m.,1582,act_arr_time,1
+12:50 p.m.,12:37 p.m.,1581,act_arr_time,1
+5:38 p.m.,5:34 p.m.,1580,act_arr_time,1
+5:26 p.m.,,1579,act_arr_time,1
+2:27 p.m.,2:21 p.m.,1578,act_arr_time,1
+6:15 p.m.,6:11 p.m.,1577,act_arr_time,1
+8:06 a.m.,7:59 a.m.,1576,act_arr_time,1
+6:43 p.m.,6:30 p.m.,1575,act_arr_time,1
+10:16 a.m.,10:12 a.m.,1574,act_arr_time,1
+3:13 p.m.,2:49 p.m.,1573,act_arr_time,1
+12:09 p.m.,,1572,act_arr_time,1
+11:01 a.m.,10:58 a.m.,1571,act_arr_time,1
+1:43 p.m.,1:42 p.m.,1570,act_arr_time,1
+11:06 a.m.,11:04 a.m.,1569,act_arr_time,1
+5:43 p.m.,5:39 p.m.,1568,act_arr_time,1
+3:43 p.m.,3:36 p.m.,1567,act_arr_time,1
+11:56 a.m.,,1566,act_arr_time,1
+7:10 p.m.,,1565,act_arr_time,1
+4:44 p.m.,4:22 p.m.,1564,act_arr_time,1
+9:20 p.m.,9:12 p.m.,1563,act_arr_time,1
+2:00 p.m.,1:52 p.m.,1562,act_arr_time,1
+8:02 a.m.,7:50 a.m.,1561,act_arr_time,1
+6:40 p.m.,6:19 p.m.,1560,act_arr_time,1
+5:11 a.m.,,1559,act_arr_time,1
+8:45 a.m.,8:33 a.m.,1558,act_arr_time,1
+4:59 p.m.,,1557,act_arr_time,1
+3:50 p.m.,3:29 p.m.,1556,act_arr_time,1
+11:44 a.m.,11:33 a.m.,1554,act_arr_time,1
+10:04 a.m.,9:45 a.m.,1553,act_arr_time,1
+11:50 p.m.,11:35 p.m.,1552,act_arr_time,1
+12:15 a.m.,11:49 p.m.,1551,act_arr_time,1
+12:29 a.m.,12/2/11 12:01 a.m.,1550,act_arr_time,1
+5:50 a.m.,5:52 a.m.,1549,act_arr_time,1
+4:17 p.m.,,1548,act_arr_time,1
+4:23 p.m.,4:20 p.m.,1546,act_arr_time,1
+3:04 p.m.,2:58 p.m.,1545,act_arr_time,1
+10:47 a.m.,10:43 a.m.,1544,act_arr_time,1
+6:34 p.m.,,1543,act_arr_time,1
+9:53 p.m.,9:47 p.m.,1542,act_arr_time,1
+7:36 p.m.,7:23 p.m.,1541,act_arr_time,1
+6:38 p.m.,6:28 p.m.,1540,act_arr_time,1
+11:06 a.m.,10:43 a.m.,1539,act_arr_time,1
+7:55 p.m.,7:43 p.m.,1538,act_arr_time,1
+9:31 a.m.,9:26 a.m.,1537,act_arr_time,1
+7:51 a.m.,7:49 a.m.,1536,act_arr_time,1
+12:09 p.m.,,1535,act_arr_time,1
+7:58 p.m.,7:20 p.m.,1534,act_arr_time,1
+12:21 a.m.,,1533,act_arr_time,1
+3:16 p.m.,3:04 p.m.,1532,act_arr_time,1
+8:53 p.m.,8:38 p.m.,1531,act_arr_time,1
+10:36 a.m.,10:34 a.m.,1529,act_arr_time,1
+3:33 p.m.,,1528,act_arr_time,1
+5:34 p.m.,5:24 p.m.,1527,act_arr_time,1
+2:46 p.m.,2:39 p.m.,1526,act_arr_time,1
+9:52 p.m.,,1525,act_arr_time,1
+8:03 p.m.,,1524,act_arr_time,1
+1:15 p.m.,1:11 p.m.,1523,act_arr_time,1
+5:42 p.m.,5:22 p.m.,1522,act_arr_time,1
+2:10 p.m.,1:55 p.m.,1521,act_arr_time,1
+3:21 p.m.,3:09 p.m.,1520,act_arr_time,1
+1:30 p.m.,1:23 p.m.,1519,act_arr_time,1
+3:30 p.m.,3:13 p.m.,1518,act_arr_time,1
+11:56 a.m.,11:50 a.m.,1517,act_arr_time,1
+10:56 a.m.,,1516,act_arr_time,1
+10:27 a.m.,,1515,act_arr_time,1
+5:05 p.m.,5:00 p.m.,1514,act_arr_time,1
+9:05 a.m.,8:50 a.m.,1513,act_arr_time,1
+1:14 p.m.,,1512,act_arr_time,1
+4:09 p.m.,4:08 p.m.,1511,act_arr_time,1
+4:47 p.m.,4:43 p.m.,1510,act_arr_time,1
+11:32 a.m.,,1509,act_arr_time,1
+7:10 p.m.,,1508,act_arr_time,1
+1:40 p.m.,1:36 p.m.,1507,act_arr_time,1
+7:39 p.m.,7:37 p.m.,1506,act_arr_time,1
+9:45 a.m.,9:29 a.m.,1505,act_arr_time,1
+1:27 p.m.,1:11 p.m.,1503,act_arr_time,1
+1:19 p.m.,,1502,act_arr_time,1
+9:14 a.m.,,1501,act_arr_time,1
+6:28 p.m.,6:25 p.m.,1500,act_arr_time,1
+5:26 a.m.,,1499,act_arr_time,1
+7:17 a.m.,7:04 a.m.,1498,act_arr_time,1
+6:55 a.m.,12/2/11 6:35 a.m.,1497,act_arr_time,1
+11:21 a.m.,11:11 a.m.,1496,act_arr_time,1
+4:56 p.m.,4:54 p.m.,1495,act_arr_time,1
+3:31 p.m.,,1494,act_arr_time,1
+5:17 p.m.,5:14 p.m.,1493,act_arr_time,1
+10:30 p.m.,10:31 p.m.,1492,act_arr_time,1
+9:43 a.m.,9:29 a.m.,1491,act_arr_time,1
+11:58 a.m.,11:30 a.m.,1490,act_arr_time,1
+9:28 a.m.,9:14 a.m.,1489,act_arr_time,1
+10:29 p.m.,,1488,act_arr_time,1
+9:32 a.m.,9:22 a.m.,1487,act_arr_time,1
+7:17 a.m.,,1486,act_arr_time,1
+5:42 p.m.,,1485,act_arr_time,1
+11:12 a.m.,,1484,act_arr_time,1
+11:44 a.m.,,1483,act_arr_time,1
+6:43 p.m.,,1482,act_arr_time,1
+11:58 a.m.,,1481,act_arr_time,1
+12:21 a.m.,12:21 a.m. (Estimated),1479,act_arr_time,1
+9:20 p.m.,9:19 p.m. (Estimated),1473,act_arr_time,1
+10:30 p.m.,10:30 p.m. (Estimated),1464,act_arr_time,1
+12:15 a.m.,11:49 p.m. (Estimated runway),1461,act_arr_time,1
+12:29 a.m.,12:01 a.m. (Estimated runway),1459,act_arr_time,1
+4:23 p.m.,,1425,act_arr_time,1
+3:43 p.m.,,1424,act_arr_time,1
+9:13 a.m.,,1423,act_arr_time,1
+4:09 p.m.,,1422,act_arr_time,1
+11:12 a.m.,11:12aDec 1,1420,act_arr_time,1
+6:19 a.m.,6:19aDec 1,1419,act_arr_time,1
+7:40 a.m.,7:40aDec 1,1417,act_arr_time,1
+11:06 a.m.,11:06aDec 1,1413,act_arr_time,1
+8:06 a.m.,8:06aDec 1,1409,act_arr_time,1
+10:16 a.m.,10:16aDec 1,1407,act_arr_time,1
+11:01 a.m.,11:01aDec 1,1404,act_arr_time,1
+11:06 a.m.,11:06aDec 1,1402,act_arr_time,1
+11:56 a.m.,,1399,act_arr_time,1
+9:20 p.m.,,1396,act_arr_time,1
+8:02 a.m.,8:02aDec 1,1394,act_arr_time,1
+6:40 p.m.,,1393,act_arr_time,1
+5:11 a.m.,,1392,act_arr_time,1
+8:45 a.m.,8:45aDec 1,1391,act_arr_time,1
+3:50 p.m.,,1389,act_arr_time,1
+11:44 a.m.,11:44aDec 1,1388,act_arr_time,1
+10:04 a.m.,10:04aDec 1,1387,act_arr_time,1
+11:50 p.m.,,1386,act_arr_time,1
+12:15 a.m.,,1385,act_arr_time,1
+12:29 a.m.,,1384,act_arr_time,1
+5:50 a.m.,,1383,act_arr_time,1
+10:47 a.m.,10:47aDec 1,1378,act_arr_time,1
+9:31 a.m.,9:31aDec 1,1372,act_arr_time,1
+7:51 a.m.,7:51aDec 1,1371,act_arr_time,1
+12:21 a.m.,,1368,act_arr_time,1
+7:25 p.m.,,1366,act_arr_time,1
+10:36 a.m.,10:36aDec 1,1365,act_arr_time,1
+9:52 p.m.,,1361,act_arr_time,1
+3:21 p.m.,,1356,act_arr_time,1
+11:56 a.m.,11:56aDec 1,1353,act_arr_time,1
+10:56 a.m.,10:56aDec 1,1352,act_arr_time,1
+10:27 a.m.,10:27aDec 1,1351,act_arr_time,1
+9:05 a.m.,9:05aDec 1,1349,act_arr_time,1
+11:32 a.m.,11:32aDec 1,1345,act_arr_time,1
+9:45 a.m.,9:45aDec 1,1341,act_arr_time,1
+9:56 a.m.,9:56aDec 1,1340,act_arr_time,1
+9:14 a.m.,,1337,act_arr_time,1
+5:26 a.m.,5:26aDec 1,1335,act_arr_time,1
+7:17 a.m.,7:17aDec 1,1334,act_arr_time,1
+6:55 a.m.,,1333,act_arr_time,1
+11:21 a.m.,,1332,act_arr_time,1
+10:30 p.m.,,1328,act_arr_time,1
+9:43 a.m.,,1327,act_arr_time,1
+11:58 a.m.,11:58aDec 1,1326,act_arr_time,1
+9:28 a.m.,9:28aDec 1,1325,act_arr_time,1
+10:29 p.m.,10:02 p.m.,1324,act_arr_time,1
+9:32 a.m.,9:32aDec 1,1323,act_arr_time,1
+3:14 p.m.,3:12 p.m.,1322,act_arr_time,1
+11:12 a.m.,10:52 a.m.,1321,act_arr_time,1
+6:19 a.m.,6:15 a.m.,1320,act_arr_time,1
+6:36 p.m.,,1319,act_arr_time,1
+7:40 a.m.,7:37 a.m.,1318,act_arr_time,1
+12:50 p.m.,12:37 p.m.,1317,act_arr_time,1
+5:38 p.m.,5:34 p.m.,1316,act_arr_time,1
+5:26 p.m.,,1315,act_arr_time,1
+2:27 p.m.,2:21 p.m.,1314,act_arr_time,1
+6:15 p.m.,6:11 p.m.,1313,act_arr_time,1
+8:06 a.m.,7:59 a.m.,1312,act_arr_time,1
+6:43 p.m.,6:30 p.m.,1311,act_arr_time,1
+10:16 a.m.,10:12 a.m.,1310,act_arr_time,1
+3:13 p.m.,2:49 p.m.,1309,act_arr_time,1
+12:09 p.m.,,1308,act_arr_time,1
+11:01 a.m.,10:58 a.m.,1307,act_arr_time,1
+1:43 p.m.,1:42 p.m.,1306,act_arr_time,1
+11:06 a.m.,11:04 a.m.,1305,act_arr_time,1
+5:43 p.m.,5:39 p.m.,1304,act_arr_time,1
+3:43 p.m.,3:36 p.m.,1303,act_arr_time,1
+11:56 a.m.,,1302,act_arr_time,1
+7:10 p.m.,,1301,act_arr_time,1
+4:44 p.m.,4:22 p.m.,1300,act_arr_time,1
+9:20 p.m.,9:12 p.m.,1299,act_arr_time,1
+2:00 p.m.,1:52 p.m.,1298,act_arr_time,1
+8:02 a.m.,7:50 a.m.,1297,act_arr_time,1
+6:40 p.m.,6:19 p.m.,1296,act_arr_time,1
+5:11 a.m.,,1295,act_arr_time,1
+8:45 a.m.,8:33 a.m.,1294,act_arr_time,1
+4:59 p.m.,,1293,act_arr_time,1
+3:50 p.m.,3:29 p.m.,1292,act_arr_time,1
+11:44 a.m.,11:33 a.m.,1290,act_arr_time,1
+10:04 a.m.,9:45 a.m.,1289,act_arr_time,1
+11:50 p.m.,11:35 p.m.,1288,act_arr_time,1
+12:15 a.m.,11:49 p.m.,1287,act_arr_time,1
+12:29 a.m.,12/2/11 12:01 a.m.,1286,act_arr_time,1
+5:50 a.m.,5:52 a.m.,1285,act_arr_time,1
+4:17 p.m.,,1284,act_arr_time,1
+4:23 p.m.,4:20 p.m.,1282,act_arr_time,1
+3:04 p.m.,2:58 p.m.,1281,act_arr_time,1
+10:47 a.m.,10:43 a.m.,1280,act_arr_time,1
+6:34 p.m.,,1279,act_arr_time,1
+9:53 p.m.,9:47 p.m.,1278,act_arr_time,1
+7:36 p.m.,7:23 p.m.,1277,act_arr_time,1
+6:38 p.m.,6:28 p.m.,1276,act_arr_time,1
+11:06 a.m.,10:43 a.m.,1275,act_arr_time,1
+7:55 p.m.,7:43 p.m.,1274,act_arr_time,1
+9:31 a.m.,9:26 a.m.,1273,act_arr_time,1
+7:51 a.m.,7:49 a.m.,1272,act_arr_time,1
+12:09 p.m.,,1271,act_arr_time,1
+7:58 p.m.,7:20 p.m.,1270,act_arr_time,1
+12:21 a.m.,,1269,act_arr_time,1
+3:16 p.m.,3:04 p.m.,1268,act_arr_time,1
+8:53 p.m.,8:38 p.m.,1267,act_arr_time,1
+10:36 a.m.,10:34 a.m.,1265,act_arr_time,1
+3:33 p.m.,,1264,act_arr_time,1
+5:34 p.m.,5:24 p.m.,1263,act_arr_time,1
+2:46 p.m.,2:39 p.m.,1262,act_arr_time,1
+9:52 p.m.,,1261,act_arr_time,1
+8:03 p.m.,,1260,act_arr_time,1
+1:15 p.m.,1:11 p.m.,1259,act_arr_time,1
+5:42 p.m.,5:22 p.m.,1258,act_arr_time,1
+2:10 p.m.,1:55 p.m.,1257,act_arr_time,1
+3:21 p.m.,3:09 p.m.,1256,act_arr_time,1
+1:30 p.m.,1:23 p.m.,1255,act_arr_time,1
+3:30 p.m.,3:13 p.m.,1254,act_arr_time,1
+11:56 a.m.,11:50 a.m.,1253,act_arr_time,1
+10:56 a.m.,,1252,act_arr_time,1
+10:27 a.m.,,1251,act_arr_time,1
+5:05 p.m.,5:00 p.m.,1250,act_arr_time,1
+9:05 a.m.,8:50 a.m.,1249,act_arr_time,1
+1:14 p.m.,,1248,act_arr_time,1
+4:09 p.m.,4:08 p.m.,1247,act_arr_time,1
+4:47 p.m.,4:43 p.m.,1246,act_arr_time,1
+11:32 a.m.,,1245,act_arr_time,1
+7:10 p.m.,,1244,act_arr_time,1
+1:40 p.m.,1:36 p.m.,1243,act_arr_time,1
+7:39 p.m.,7:37 p.m.,1242,act_arr_time,1
+9:45 a.m.,9:29 a.m.,1241,act_arr_time,1
+1:27 p.m.,1:11 p.m.,1239,act_arr_time,1
+1:19 p.m.,,1238,act_arr_time,1
+9:14 a.m.,,1237,act_arr_time,1
+6:28 p.m.,6:25 p.m.,1236,act_arr_time,1
+5:26 a.m.,,1235,act_arr_time,1
+7:17 a.m.,7:04 a.m.,1234,act_arr_time,1
+6:55 a.m.,12/2/11 6:35 a.m.,1233,act_arr_time,1
+11:21 a.m.,11:11 a.m.,1232,act_arr_time,1
+4:56 p.m.,4:54 p.m.,1231,act_arr_time,1
+3:31 p.m.,,1230,act_arr_time,1
+5:17 p.m.,5:14 p.m.,1229,act_arr_time,1
+10:30 p.m.,10:31 p.m.,1228,act_arr_time,1
+9:43 a.m.,9:29 a.m.,1227,act_arr_time,1
+11:58 a.m.,11:30 a.m.,1226,act_arr_time,1
+9:28 a.m.,9:14 a.m.,1225,act_arr_time,1
+10:29 p.m.,,1224,act_arr_time,1
+9:32 a.m.,9:22 a.m.,1223,act_arr_time,1
+11:12 a.m.,10:49 a.m.,1222,act_arr_time,1
+6:19 a.m.,,1221,act_arr_time,1
+6:15 p.m.,,1220,act_arr_time,1
+4:56 p.m.,,1219,act_arr_time,1
+7:25 p.m.,7:35 p.m.,1218,act_arr_time,1
+6:43 p.m.,6:36 p.m.,1217,act_arr_time,1
+12:09 p.m.,,1214,act_arr_time,1
+11:01 a.m.,,1213,act_arr_time,1
+1:43 p.m.,,1212,act_arr_time,1
+12:29 a.m.,Not Available,1211,act_arr_time,1
+11:06 a.m.,11:07 a.m.,1210,act_arr_time,1
+11:56 a.m.,12:10 p.m.,1208,act_arr_time,1
+4:44 p.m.,4:24 p.m.,1207,act_arr_time,1
+2:00 p.m.,2:02 p.m.,1206,act_arr_time,1
+6:40 p.m.,,1205,act_arr_time,1
+5:11 a.m.,,1204,act_arr_time,1
+8:45 a.m.,8:41 a.m.,1203,act_arr_time,1
+4:59 p.m.,4:55 p.m.,1202,act_arr_time,1
+5:42 p.m.,5:28 p.m.,1200,act_arr_time,1
+5:50 a.m.,5:42 a.m. (Estimated runway),1199,act_arr_time,1
+4:23 p.m.,,1198,act_arr_time,1
+6:34 p.m.,,1196,act_arr_time,1
+9:53 p.m.,9:49 p.m.,1195,act_arr_time,1
+7:58 p.m.,7:53 p.m.,1193,act_arr_time,1
+12:21 a.m.,Not Available,1192,act_arr_time,1
+8:53 p.m.,,1191,act_arr_time,1
+5:34 p.m.,,1189,act_arr_time,1
+2:46 p.m.,2:36 p.m.,1188,act_arr_time,1
+1:15 p.m.,1:14 p.m.,1187,act_arr_time,1
+3:21 p.m.,3:20 p.m.,1186,act_arr_time,1
+2:50 p.m.,2:52 p.m.,1185,act_arr_time,1
+11:56 a.m.,11:50 a.m.,1183,act_arr_time,1
+1:40 p.m.,,1182,act_arr_time,1
+5:05 p.m.,,1181,act_arr_time,1
+9:05 a.m.,9:00 a.m.,1180,act_arr_time,1
+8:03 p.m.,7:55 p.m.,1179,act_arr_time,1
+7:39 p.m.,,1178,act_arr_time,1
+9:56 a.m.,9:54 a.m.,1176,act_arr_time,1
+7:17 a.m.,7:10 a.m.,1175,act_arr_time,1
+10:30 p.m.,,1174,act_arr_time,1
+9:43 a.m.,,1173,act_arr_time,1
+10:29 p.m.,10:23 p.m.,1172,act_arr_time,1
+9:28 a.m.,9:09 a.m.,1171,act_arr_time,1
+9:32 a.m.,,1170,act_arr_time,1
+7:40 a.m.,7:32 a.m.,1165,act_arr_time,1
+12:50 p.m.,12:48 p.m.,1164,act_arr_time,1
+5:38 p.m.,6:17 p.m.,1163,act_arr_time,1
+6:15 p.m.,6:09 p.m.,1159,act_arr_time,1
+8:06 a.m.,7:57 a.m.,1157,act_arr_time,1
+10:16 a.m.,10:10 a.m.,1155,act_arr_time,1
+3:13 p.m.,3:01 p.m.,1154,act_arr_time,1
+11:01 a.m.,11:00 a.m.,1152,act_arr_time,1
+11:06 a.m.,11:07 a.m.,1150,act_arr_time,1
+5:43 p.m.,5:34 p.m.,1149,act_arr_time,1
+3:43 p.m.,3:36 p.m.,1148,act_arr_time,1
+11:56 a.m.,12:12 p.m.,1147,act_arr_time,1
+4:44 p.m.,4:24 p.m.,1145,act_arr_time,1
+9:20 p.m.,9:11 p.m.,1144,act_arr_time,1
+2:00 p.m.,2:02 p.m.,1143,act_arr_time,1
+6:40 p.m.,,1141,act_arr_time,1
+5:11 a.m.,,1140,act_arr_time,1
+3:50 p.m.,,1137,act_arr_time,1
+11:50 p.m.,,1133,act_arr_time,1
+12:15 a.m.,,1132,act_arr_time,1
+12:29 a.m.,,1131,act_arr_time,1
+5:50 a.m.,,1130,act_arr_time,1
+2:50 p.m.,2:52 p.m.,1128,act_arr_time,1
+10:47 a.m.,10:45 a.m.,1125,act_arr_time,1
+9:53 p.m.,9:49 p.m.,1123,act_arr_time,1
+6:38 p.m.,6:35 p.m.,1121,act_arr_time,1
+7:55 p.m.,7:53 p.m.,1120,act_arr_time,1
+9:31 a.m.,9:29 a.m.,1119,act_arr_time,1
+12:21 a.m.,,1115,act_arr_time,1
+8:53 p.m.,8:43 p.m.,1114,act_arr_time,1
+7:25 p.m.,,1113,act_arr_time,1
+10:36 a.m.,10:29 a.m.,1112,act_arr_time,1
+3:33 p.m.,3:25 p.m.,1111,act_arr_time,1
+9:52 p.m.,9:38 p.m.,1108,act_arr_time,1
+1:15 p.m.,1:14 p.m.,1106,act_arr_time,1
+2:10 p.m.,2:01 p.m.,1104,act_arr_time,1
+3:30 p.m.,3:19 p.m.,1101,act_arr_time,1
+11:56 a.m.,11:50 a.m.,1100,act_arr_time,1
+5:05 p.m.,5:03 p.m.,1097,act_arr_time,1
+4:47 p.m.,5:00 p.m.,1093,act_arr_time,1
+1:27 p.m.,1:18 p.m.,1086,act_arr_time,1
+9:14 a.m.,9:09 a.m.,1084,act_arr_time,1
+6:28 p.m.,6:25 p.m.,1083,act_arr_time,1
+6:55 a.m.,,1080,act_arr_time,1
+10:30 p.m.,,1075,act_arr_time,1
+9:32 a.m.,9:22 a.m.,1070,act_arr_time,1
+5:38 p.m.,Contact Airline,1063,act_arr_time,1
+12:09 p.m.,Contact Airline,1056,act_arr_time,1
+4:47 p.m.,Contact Airline,1054,act_arr_time,1
+7:10 p.m.,Contact Airline,1050,act_arr_time,1
+4:44 p.m.,Contact Airline,1049,act_arr_time,1
+9:20 p.m.,9:19 p.m.*,1048,act_arr_time,1
+2:00 p.m.,Contact Airline,1047,act_arr_time,1
+3:50 p.m.,Not Available,1043,act_arr_time,1
+11:50 p.m.,Not Available,1038,act_arr_time,1
+12:15 a.m.,Dec 02 Not Available,1037,act_arr_time,1
+12:29 a.m.,Not Available,1036,act_arr_time,1
+5:50 a.m.,Dec 02 Not Available,1035,act_arr_time,1
+10:47 a.m.,Contact Airline,1032,act_arr_time,1
+6:38 p.m.,Contact Airline,1030,act_arr_time,1
+12:21 a.m.,Dec 02 Contact Airline,1025,act_arr_time,1
+1:15 p.m.,Contact Airline,1018,act_arr_time,1
+5:05 p.m.,Contact Airline,1008,act_arr_time,1
+6:28 p.m.,Contact Airline,1001,act_arr_time,1
+6:55 a.m.,Dec 02 Not Available,998,act_arr_time,1
+5:17 p.m.,Contact Airline,996,act_arr_time,1
+7:25 p.m.,Not Available,994,act_arr_time,1
+10:30 p.m.,10:30 p.m.*,993,act_arr_time,1
+6:43 p.m.,6:30 p.m.,988,act_arr_time,1
+8:53 p.m.,8:38 p.m.,987,act_arr_time,1
+11:12 a.m.,10:52 a.m.,986,act_arr_time,1
+6:19 a.m.,6:09 a.m.,985,act_arr_time,1
+3:33 p.m.,3:26 p.m.,984,act_arr_time,1
+10:36 a.m.,10:29 a.m.,983,act_arr_time,1
+9:52 p.m.,8:46 p.m.,982,act_arr_time,1
+6:15 p.m.,6:11 p.m.,981,act_arr_time,1
+8:03 p.m.,7:43 p.m.,980,act_arr_time,1
+12:21 a.m.,12:02 a.m.,979,act_arr_time,1
+11:50 p.m.,11:35 p.m.,978,act_arr_time,1
+3:13 p.m.,2:49 p.m.,977,act_arr_time,1
+4:23 p.m.,4:20 p.m.,976,act_arr_time,1
+9:43 a.m.,9:44 a.m.,975,act_arr_time,1
+5:05 p.m.,4:57 p.m.,974,act_arr_time,1
+11:06 a.m.,10:43 a.m.,973,act_arr_time,1
+9:31 a.m.,9:26 a.m.,971,act_arr_time,1
+7:51 a.m.,7:49 a.m.,970,act_arr_time,1
+9:32 a.m.,9:22 a.m.,969,act_arr_time,1
+3:14 p.m.,3:09 p.m.,968,act_arr_time,1
+11:12 a.m.,11:00 a.m.,967,act_arr_time,1
+12:50 p.m.,12:48 p.m.,965,act_arr_time,1
+10:56 a.m.,10:47 a.m.,964,act_arr_time,1
+6:15 p.m.,,963,act_arr_time,1
+4:56 p.m.,,962,act_arr_time,1
+6:43 p.m.,6:36 p.m.,961,act_arr_time,1
+1:30 p.m.,1:27 p.m.,960,act_arr_time,1
+12:09 p.m.,,959,act_arr_time,1
+11:01 a.m.,,958,act_arr_time,1
+1:43 p.m.,1:40 p.m.,957,act_arr_time,1
+8:45 a.m.,,956,act_arr_time,1
+4:47 p.m.,,955,act_arr_time,1
+11:06 a.m.,11:04 a.m.,954,act_arr_time,1
+11:32 a.m.,11:26 a.m.,953,act_arr_time,1
+11:56 a.m.,12:10 p.m.,952,act_arr_time,1
+9:20 p.m.,9:19 p.m. (Estimated),951,act_arr_time,1
+2:00 p.m.,2:02 p.m.,950,act_arr_time,1
+8:02 a.m.,,949,act_arr_time,1
+6:40 p.m.,,948,act_arr_time,1
+5:11 a.m.,,947,act_arr_time,1
+9:13 a.m.,,946,act_arr_time,1
+5:42 p.m.,5:28 p.m.,945,act_arr_time,1
+11:44 a.m.,11:40 a.m.,944,act_arr_time,1
+11:50 p.m.,11:35 p.m. (Estimated runway),943,act_arr_time,1
+12:29 a.m.,12:01 a.m. (Estimated runway),942,act_arr_time,1
+4:23 p.m.,4:18 p.m.,940,act_arr_time,1
+3:04 p.m.,2:52 p.m.,939,act_arr_time,1
+10:47 a.m.,10:45 a.m.,938,act_arr_time,1
+6:34 p.m.,,937,act_arr_time,1
+9:53 p.m.,,936,act_arr_time,1
+7:36 p.m.,7:26 p.m.,935,act_arr_time,1
+6:38 p.m.,6:36 p.m.,934,act_arr_time,1
+12:09 p.m.,,933,act_arr_time,1
+12:21 a.m.,12:21 a.m. (Estimated),932,act_arr_time,1
+3:16 p.m.,3:10 p.m.,931,act_arr_time,1
+2:46 p.m.,2:36 p.m.,929,act_arr_time,1
+2:27 p.m.,2:17 p.m.,928,act_arr_time,1
+1:27 p.m.,1:11 p.m.,927,act_arr_time,1
+5:26 p.m.,5:09 p.m.,926,act_arr_time,1
+3:21 p.m.,3:20 p.m.,925,act_arr_time,1
+3:30 p.m.,3:19 p.m.,923,act_arr_time,1
+11:56 a.m.,11:50 a.m.,922,act_arr_time,1
+9:05 a.m.,9:00 a.m.,921,act_arr_time,1
+7:10 p.m.,,920,act_arr_time,1
+9:45 a.m.,,919,act_arr_time,1
+1:19 p.m.,,918,act_arr_time,1
+9:14 a.m.,9:09 a.m.,917,act_arr_time,1
+5:26 a.m.,,916,act_arr_time,1
+7:17 a.m.,,915,act_arr_time,1
+2:10 p.m.,2:01 p.m.,914,act_arr_time,1
+9:43 a.m.,,913,act_arr_time,1
+7:25 p.m.,7:35 p.m.,912,act_arr_time,1
+9:32 a.m.,9:22 a.m.,911,act_arr_time,1
+11:56 a.m.,11:45 a.m.,888,act_arr_time,1
+6:40 p.m.,,882,act_arr_time,1
+5:11 a.m.,,881,act_arr_time,1
+3:50 p.m.,,878,act_arr_time,1
+11:50 p.m.,,874,act_arr_time,1
+12:15 a.m.,,873,act_arr_time,1
+12:29 a.m.,,872,act_arr_time,1
+5:50 a.m.,,871,act_arr_time,1
+12:21 a.m.,,856,act_arr_time,1
+7:25 p.m.,,854,act_arr_time,1
+9:52 p.m.,8:56 p.m.,849,act_arr_time,1
+3:30 p.m.,3:20 p.m. (Runway),842,act_arr_time,1
+6:55 a.m.,,821,act_arr_time,1
+10:30 p.m.,,816,act_arr_time,1
+12:09 p.m.,,810,act_arr_time,1
+10:36 a.m.,Thu 10:28,809,act_arr_time,1
+9:53 p.m.,,808,act_arr_time,1
+6:55 a.m.,Thu 6:50,807,act_arr_time,1
+7:40 a.m.,Thu 7:31,806,act_arr_time,1
+7:25 p.m.,Thu 19:33,805,act_arr_time,1
+5:43 p.m.,Thu 17:40,804,act_arr_time,1
+10:29 p.m.,Thu 22:25,803,act_arr_time,1
+7:39 p.m.,,802,act_arr_time,1
+3:04 p.m.,,801,act_arr_time,1
+4:09 p.m.,,800,act_arr_time,1
+11:50 p.m.,,799,act_arr_time,1
+3:30 p.m.,,798,act_arr_time,1
+3:21 p.m.,,797,act_arr_time,1
+11:06 a.m.,11:06A,796,act_arr_time,1
+9:05 a.m.,9:04A,795,act_arr_time,1
+7:39 p.m.,7:39P,794,act_arr_time,1
+10:04 a.m.,10:08A,793,act_arr_time,1
+2:46 p.m.,2:46P,792,act_arr_time,1
+11:12 a.m.,10:52 a.m.,791,act_arr_time,1
+6:19 a.m.,6:13 a.m.,790,act_arr_time,1
+7:40 a.m.,7:37 a.m.,789,act_arr_time,1
+12:50 p.m.,12:37 p.m.,788,act_arr_time,1
+3:14 p.m.,3:12 p.m.,787,act_arr_time,1
+3:13 p.m.,2:49 p.m.,786,act_arr_time,1
+1:43 p.m.,1:42 p.m.,785,act_arr_time,1
+8:45 a.m.,8:33 a.m.,784,act_arr_time,1
+12:29 a.m.,,783,act_arr_time,1
+11:06 a.m.,11:04 a.m.,782,act_arr_time,1
+3:43 p.m.,3:36 p.m.,781,act_arr_time,1
+11:32 a.m.,11:27 a.m.,780,act_arr_time,1
+6:40 p.m.,,779,act_arr_time,1
+5:11 a.m.,5:24 a.m.,778,act_arr_time,1
+3:50 p.m.,,777,act_arr_time,1
+11:44 a.m.,11:33 a.m.,775,act_arr_time,1
+10:04 a.m.,9:45 a.m.,774,act_arr_time,1
+11:50 p.m.,,773,act_arr_time,1
+12:15 a.m.,,772,act_arr_time,1
+5:50 a.m.,,771,act_arr_time,1
+4:17 p.m.,4:05 p.m.,770,act_arr_time,1
+4:23 p.m.,4:20 p.m.,769,act_arr_time,1
+1:40 p.m.,1:36 p.m.,768,act_arr_time,1
+9:53 p.m.,9:47 p.m.,767,act_arr_time,1
+7:36 p.m.,7:23 p.m.,766,act_arr_time,1
+11:06 a.m.,10:43 a.m.,765,act_arr_time,1
+7:55 p.m.,7:43 p.m.,764,act_arr_time,1
+9:31 a.m.,9:26 a.m.,763,act_arr_time,1
+7:51 a.m.,7:49 a.m.,762,act_arr_time,1
+12:09 p.m.,12:02 p.m.,761,act_arr_time,1
+3:16 p.m.,3:04 p.m.,760,act_arr_time,1
+8:53 p.m.,8:38 p.m.,759,act_arr_time,1
+10:36 a.m.,10:34 a.m.,758,act_arr_time,1
+3:33 p.m.,3:26 p.m.,757,act_arr_time,1
+5:34 p.m.,,756,act_arr_time,1
+2:46 p.m.,2:39 p.m.,755,act_arr_time,1
+2:27 p.m.,2:21 p.m.,754,act_arr_time,1
+5:42 p.m.,5:22 p.m.,753,act_arr_time,1
+2:10 p.m.,1:55 p.m.,752,act_arr_time,1
+3:21 p.m.,3:07 p.m.,751,act_arr_time,1
+3:30 p.m.,3:13 p.m.,750,act_arr_time,1
+8:06 a.m.,7:59 a.m.,749,act_arr_time,1
+11:56 a.m.,11:50 a.m.,748,act_arr_time,1
+11:01 a.m.,10:58 a.m.,747,act_arr_time,1
+9:05 a.m.,8:50 a.m.,746,act_arr_time,1
+1:14 p.m.,1:06 p.m.,745,act_arr_time,1
+4:09 p.m.,4:08 p.m.,744,act_arr_time,1
+1:27 p.m.,1:19 p.m.,743,act_arr_time,1
+7:39 p.m.,7:37 p.m.,742,act_arr_time,1
+9:45 a.m.,9:29 a.m.,741,act_arr_time,1
+5:26 a.m.,5:25 a.m.,739,act_arr_time,1
+7:17 a.m.,7:04 a.m.,738,act_arr_time,1
+6:55 a.m.,,737,act_arr_time,1
+11:21 a.m.,11:16 a.m.,736,act_arr_time,1
+4:56 p.m.,4:54 p.m.,735,act_arr_time,1
+7:25 p.m.,,734,act_arr_time,1
+9:43 a.m.,9:39 a.m.,733,act_arr_time,1
+11:58 a.m.,11:30 a.m.,732,act_arr_time,1
+10:29 p.m.,10:22 p.m.,731,act_arr_time,1
+10:30 p.m.,10:28 p.m.,730,act_arr_time,1
+9:32 a.m.,9:22 a.m.,729,act_arr_time,1
+7:40 a.m.,7:32 a.m.,724,act_arr_time,1
+12:50 p.m.,12:48 p.m.,723,act_arr_time,1
+5:38 p.m.,6:17 p.m.,722,act_arr_time,1
+6:15 p.m.,6:09 p.m.,718,act_arr_time,1
+8:06 a.m.,7:57 a.m.,716,act_arr_time,1
+10:16 a.m.,10:10 a.m.,714,act_arr_time,1
+3:13 p.m.,3:01 p.m.,713,act_arr_time,1
+11:01 a.m.,11:00 a.m.,711,act_arr_time,1
+11:06 a.m.,11:07 a.m.,709,act_arr_time,1
+5:43 p.m.,5:34 p.m.,708,act_arr_time,1
+3:43 p.m.,3:36 p.m.,707,act_arr_time,1
+11:56 a.m.,12:12 p.m.,706,act_arr_time,1
+4:44 p.m.,4:24 p.m.,704,act_arr_time,1
+9:20 p.m.,9:11 p.m.,703,act_arr_time,1
+2:00 p.m.,2:02 p.m.,702,act_arr_time,1
+6:40 p.m.,,700,act_arr_time,1
+5:11 a.m.,,699,act_arr_time,1
+3:50 p.m.,,696,act_arr_time,1
+11:50 p.m.,,692,act_arr_time,1
+12:15 a.m.,,691,act_arr_time,1
+12:29 a.m.,,690,act_arr_time,1
+5:50 a.m.,,689,act_arr_time,1
+2:50 p.m.,2:52 p.m.,687,act_arr_time,1
+10:47 a.m.,10:45 a.m.,684,act_arr_time,1
+9:53 p.m.,9:49 p.m.,682,act_arr_time,1
+6:38 p.m.,6:35 p.m.,680,act_arr_time,1
+7:55 p.m.,7:53 p.m.,679,act_arr_time,1
+9:31 a.m.,9:29 a.m.,678,act_arr_time,1
+12:21 a.m.,,674,act_arr_time,1
+8:53 p.m.,8:43 p.m.,673,act_arr_time,1
+7:25 p.m.,,672,act_arr_time,1
+10:36 a.m.,10:29 a.m.,671,act_arr_time,1
+3:33 p.m.,3:25 p.m.,670,act_arr_time,1
+9:52 p.m.,9:38 p.m.,667,act_arr_time,1
+1:15 p.m.,1:14 p.m.,665,act_arr_time,1
+2:10 p.m.,2:01 p.m.,663,act_arr_time,1
+3:30 p.m.,3:19 p.m.,660,act_arr_time,1
+11:56 a.m.,11:50 a.m.,659,act_arr_time,1
+5:05 p.m.,5:03 p.m.,656,act_arr_time,1
+4:47 p.m.,5:00 p.m.,652,act_arr_time,1
+1:27 p.m.,1:18 p.m.,645,act_arr_time,1
+9:14 a.m.,9:09 a.m.,643,act_arr_time,1
+6:28 p.m.,6:25 p.m.,642,act_arr_time,1
+6:55 a.m.,,639,act_arr_time,1
+10:30 p.m.,,634,act_arr_time,1
+9:32 a.m.,9:22 a.m.,629,act_arr_time,1
+9:20 p.m.,9:19 p.m. (Estimated),610,act_arr_time,1
+6:40 p.m.,6:40 p.m. (Estimated),608,act_arr_time,1
+5:11 a.m.,,607,act_arr_time,1
+11:50 p.m.,11:35 p.m. (Estimated runway),600,act_arr_time,1
+12:15 a.m.,11:49 p.m. (Estimated runway),599,act_arr_time,1
+12:29 a.m.,12:01 a.m. (Estimated runway),598,act_arr_time,1
+5:50 a.m.,5:42 a.m. (Estimated runway),597,act_arr_time,1
+12:21 a.m.,12:21 a.m. (Estimated),582,act_arr_time,1
+9:52 p.m.,9:52 p.m. (Estimated),573,act_arr_time,1
+3:30 p.m.,3:20 p.m. (runway),568,act_arr_time,1
+6:55 a.m.,6:35 a.m. (Estimated runway),547,act_arr_time,1
+7:25 p.m.,7:25 p.m. (Estimated runway),544,act_arr_time,1
+10:30 p.m.,10:30 p.m. (Estimated),542,act_arr_time,1
+7:40 a.m.,7:32 a.m.,532,act_arr_time,1
+12:50 p.m.,12:48 p.m.,531,act_arr_time,1
+5:38 p.m.,6:17 p.m.,530,act_arr_time,1
+6:15 p.m.,6:09 p.m.,526,act_arr_time,1
+8:06 a.m.,7:57 a.m.,524,act_arr_time,1
+10:16 a.m.,10:10 a.m.,522,act_arr_time,1
+3:13 p.m.,3:01 p.m.,521,act_arr_time,1
+11:01 a.m.,11:00 a.m.,519,act_arr_time,1
+11:06 a.m.,11:07 a.m.,517,act_arr_time,1
+5:43 p.m.,5:34 p.m.,516,act_arr_time,1
+3:43 p.m.,3:36 p.m.,515,act_arr_time,1
+11:56 a.m.,12:12 p.m.,514,act_arr_time,1
+4:44 p.m.,4:24 p.m.,512,act_arr_time,1
+9:20 p.m.,9:11 p.m.,511,act_arr_time,1
+2:00 p.m.,2:02 p.m.,510,act_arr_time,1
+6:40 p.m.,,508,act_arr_time,1
+5:11 a.m.,,507,act_arr_time,1
+3:50 p.m.,,504,act_arr_time,1
+11:50 p.m.,,500,act_arr_time,1
+12:15 a.m.,,499,act_arr_time,1
+12:29 a.m.,,498,act_arr_time,1
+5:50 a.m.,,497,act_arr_time,1
+2:50 p.m.,2:52 p.m.,495,act_arr_time,1
+10:47 a.m.,10:45 a.m.,492,act_arr_time,1
+9:53 p.m.,9:49 p.m.,490,act_arr_time,1
+6:38 p.m.,6:35 p.m.,488,act_arr_time,1
+7:55 p.m.,7:53 p.m.,487,act_arr_time,1
+9:31 a.m.,9:29 a.m.,486,act_arr_time,1
+12:21 a.m.,,482,act_arr_time,1
+8:53 p.m.,8:43 p.m.,481,act_arr_time,1
+7:25 p.m.,,480,act_arr_time,1
+10:36 a.m.,10:29 a.m.,479,act_arr_time,1
+3:33 p.m.,3:25 p.m.,478,act_arr_time,1
+9:52 p.m.,9:38 p.m.,475,act_arr_time,1
+1:15 p.m.,1:14 p.m.,473,act_arr_time,1
+2:10 p.m.,2:01 p.m.,471,act_arr_time,1
+3:30 p.m.,3:19 p.m.,468,act_arr_time,1
+11:56 a.m.,11:50 a.m.,467,act_arr_time,1
+5:05 p.m.,5:03 p.m.,464,act_arr_time,1
+4:47 p.m.,5:00 p.m.,460,act_arr_time,1
+1:27 p.m.,1:18 p.m.,453,act_arr_time,1
+9:14 a.m.,9:09 a.m.,451,act_arr_time,1
+6:28 p.m.,6:25 p.m.,450,act_arr_time,1
+6:55 a.m.,,447,act_arr_time,1
+10:30 p.m.,,442,act_arr_time,1
+9:32 a.m.,9:22 a.m.,437,act_arr_time,1
+3:14 p.m.,3:12 p.m.,436,act_arr_time,1
+11:12 a.m.,10:52 a.m.,435,act_arr_time,1
+6:19 a.m.,6:15 a.m.,434,act_arr_time,1
+6:36 p.m.,,433,act_arr_time,1
+7:40 a.m.,7:37 a.m.,432,act_arr_time,1
+12:50 p.m.,12:37 p.m.,431,act_arr_time,1
+5:38 p.m.,5:34 p.m.,430,act_arr_time,1
+5:26 p.m.,,429,act_arr_time,1
+2:27 p.m.,2:21 p.m.,428,act_arr_time,1
+6:15 p.m.,6:11 p.m.,427,act_arr_time,1
+8:06 a.m.,7:59 a.m.,426,act_arr_time,1
+6:43 p.m.,6:30 p.m.,425,act_arr_time,1
+10:16 a.m.,10:12 a.m.,424,act_arr_time,1
+3:13 p.m.,2:49 p.m.,423,act_arr_time,1
+12:09 p.m.,,422,act_arr_time,1
+11:01 a.m.,10:58 a.m.,421,act_arr_time,1
+1:43 p.m.,1:42 p.m.,420,act_arr_time,1
+11:06 a.m.,11:04 a.m.,419,act_arr_time,1
+5:43 p.m.,5:39 p.m.,418,act_arr_time,1
+3:43 p.m.,3:36 p.m.,417,act_arr_time,1
+11:56 a.m.,,416,act_arr_time,1
+7:10 p.m.,,415,act_arr_time,1
+4:44 p.m.,4:22 p.m.,414,act_arr_time,1
+9:20 p.m.,9:12 p.m.,413,act_arr_time,1
+2:00 p.m.,1:52 p.m.,412,act_arr_time,1
+8:02 a.m.,7:50 a.m.,411,act_arr_time,1
+6:40 p.m.,6:19 p.m.,410,act_arr_time,1
+5:11 a.m.,,409,act_arr_time,1
+8:45 a.m.,8:33 a.m.,408,act_arr_time,1
+4:59 p.m.,,407,act_arr_time,1
+3:50 p.m.,3:29 p.m.,406,act_arr_time,1
+11:44 a.m.,11:33 a.m.,404,act_arr_time,1
+10:04 a.m.,9:45 a.m.,403,act_arr_time,1
+11:50 p.m.,11:35 p.m.,402,act_arr_time,1
+12:15 a.m.,11:49 p.m.,401,act_arr_time,1
+12:29 a.m.,12/2/11 12:01 a.m.,400,act_arr_time,1
+5:50 a.m.,5:52 a.m.,399,act_arr_time,1
+4:17 p.m.,,398,act_arr_time,1
+4:23 p.m.,4:20 p.m.,396,act_arr_time,1
+3:04 p.m.,2:58 p.m.,395,act_arr_time,1
+10:47 a.m.,10:43 a.m.,394,act_arr_time,1
+6:34 p.m.,,393,act_arr_time,1
+9:53 p.m.,9:47 p.m.,392,act_arr_time,1
+7:36 p.m.,7:23 p.m.,391,act_arr_time,1
+6:38 p.m.,6:28 p.m.,390,act_arr_time,1
+11:06 a.m.,10:43 a.m.,389,act_arr_time,1
+7:55 p.m.,7:43 p.m.,388,act_arr_time,1
+9:31 a.m.,9:26 a.m.,387,act_arr_time,1
+7:51 a.m.,7:49 a.m.,386,act_arr_time,1
+12:09 p.m.,,385,act_arr_time,1
+7:58 p.m.,7:20 p.m.,384,act_arr_time,1
+12:21 a.m.,,383,act_arr_time,1
+3:16 p.m.,3:04 p.m.,382,act_arr_time,1
+8:53 p.m.,8:38 p.m.,381,act_arr_time,1
+10:36 a.m.,10:34 a.m.,379,act_arr_time,1
+3:33 p.m.,,378,act_arr_time,1
+5:34 p.m.,5:24 p.m.,377,act_arr_time,1
+2:46 p.m.,2:39 p.m.,376,act_arr_time,1
+9:52 p.m.,,375,act_arr_time,1
+8:03 p.m.,,374,act_arr_time,1
+1:15 p.m.,1:11 p.m.,373,act_arr_time,1
+5:42 p.m.,5:22 p.m.,372,act_arr_time,1
+2:10 p.m.,1:55 p.m.,371,act_arr_time,1
+3:21 p.m.,3:09 p.m.,370,act_arr_time,1
+1:30 p.m.,1:23 p.m.,369,act_arr_time,1
+3:30 p.m.,3:13 p.m.,368,act_arr_time,1
+11:56 a.m.,11:50 a.m.,367,act_arr_time,1
+10:56 a.m.,,366,act_arr_time,1
+10:27 a.m.,,365,act_arr_time,1
+5:05 p.m.,5:00 p.m.,364,act_arr_time,1
+9:05 a.m.,8:50 a.m.,363,act_arr_time,1
+1:14 p.m.,,362,act_arr_time,1
+4:09 p.m.,4:08 p.m.,361,act_arr_time,1
+4:47 p.m.,4:43 p.m.,360,act_arr_time,1
+11:32 a.m.,,359,act_arr_time,1
+7:10 p.m.,,358,act_arr_time,1
+1:40 p.m.,1:36 p.m.,357,act_arr_time,1
+7:39 p.m.,7:37 p.m.,356,act_arr_time,1
+9:45 a.m.,9:29 a.m.,355,act_arr_time,1
+1:27 p.m.,1:11 p.m.,353,act_arr_time,1
+1:19 p.m.,,352,act_arr_time,1
+9:14 a.m.,,351,act_arr_time,1
+6:28 p.m.,6:25 p.m.,350,act_arr_time,1
+5:26 a.m.,,349,act_arr_time,1
+7:17 a.m.,7:04 a.m.,348,act_arr_time,1
+6:55 a.m.,12/2/11 6:35 a.m.,347,act_arr_time,1
+11:21 a.m.,11:11 a.m.,346,act_arr_time,1
+4:56 p.m.,4:54 p.m.,345,act_arr_time,1
+3:31 p.m.,,344,act_arr_time,1
+5:17 p.m.,5:14 p.m.,343,act_arr_time,1
+10:30 p.m.,10:31 p.m.,342,act_arr_time,1
+9:43 a.m.,9:29 a.m.,341,act_arr_time,1
+11:58 a.m.,11:30 a.m.,340,act_arr_time,1
+9:28 a.m.,9:14 a.m.,339,act_arr_time,1
+10:29 p.m.,,338,act_arr_time,1
+9:32 a.m.,9:22 a.m.,337,act_arr_time,1
+3:14 p.m.,,336,act_arr_time,1
+11:12 a.m.,10:49 a.m.,335,act_arr_time,1
+6:19 a.m.,,334,act_arr_time,1
+6:36 p.m.,,333,act_arr_time,1
+12:50 p.m.,,331,act_arr_time,1
+5:38 p.m.,,330,act_arr_time,1
+5:26 p.m.,,329,act_arr_time,1
+6:15 p.m.,,328,act_arr_time,1
+6:43 p.m.,,327,act_arr_time,1
+10:16 a.m.,,326,act_arr_time,1
+1:30 p.m.,1:23 p.m.,325,act_arr_time,1
+3:13 p.m.,2:49 p.m.,324,act_arr_time,1
+12:09 p.m.,,323,act_arr_time,1
+11:01 a.m.,,322,act_arr_time,1
+1:43 p.m.,,321,act_arr_time,1
+4:47 p.m.,,320,act_arr_time,1
+11:06 a.m.,11:04 a.m.,319,act_arr_time,1
+5:43 p.m.,,318,act_arr_time,1
+3:43 p.m.,,317,act_arr_time,1
+7:10 p.m.,,316,act_arr_time,1
+4:44 p.m.,,315,act_arr_time,1
+9:20 p.m.,,314,act_arr_time,1
+2:00 p.m.,,313,act_arr_time,1
+8:02 a.m.,,312,act_arr_time,1
+8:45 a.m.,,311,act_arr_time,1
+4:59 p.m.,,310,act_arr_time,1
+3:50 p.m.,,309,act_arr_time,1
+9:13 a.m.,,308,act_arr_time,1
+5:42 p.m.,,307,act_arr_time,1
+11:44 a.m.,11:39 a.m.,306,act_arr_time,1
+10:04 a.m.,9:56 a.m.,305,act_arr_time,1
+11:50 p.m.,11:54 p.m.,304,act_arr_time,1
+12:15 a.m.,,303,act_arr_time,1
+12:29 a.m.,11:56 p.m.,302,act_arr_time,1
+5:50 a.m.,5:49 a.m.,301,act_arr_time,1
+4:23 p.m.,,300,act_arr_time,1
+3:04 p.m.,2:52 p.m.,299,act_arr_time,1
+10:47 a.m.,,298,act_arr_time,1
+6:34 p.m.,,297,act_arr_time,1
+9:53 p.m.,,296,act_arr_time,1
+7:36 p.m.,,295,act_arr_time,1
+6:38 p.m.,,294,act_arr_time,1
+9:31 a.m.,9:23 a.m.,293,act_arr_time,1
+7:51 a.m.,,292,act_arr_time,1
+12:09 p.m.,,291,act_arr_time,1
+7:58 p.m.,,290,act_arr_time,1
+12:21 a.m.,,289,act_arr_time,1
+3:16 p.m.,3:09 p.m.,288,act_arr_time,1
+8:53 p.m.,,287,act_arr_time,1
+11:32 a.m.,,286,act_arr_time,1
+10:36 a.m.,10:34 a.m.,285,act_arr_time,1
+2:46 p.m.,2:36 p.m.,284,act_arr_time,1
+2:27 p.m.,2:17 p.m.,283,act_arr_time,1
+11:06 a.m.,10:52 a.m.,282,act_arr_time,1
+1:15 p.m.,,281,act_arr_time,1
+2:10 p.m.,,280,act_arr_time,1
+1:27 p.m.,1:11 p.m.,279,act_arr_time,1
+5:26 a.m.,,278,act_arr_time,1
+3:30 p.m.,3:13 p.m.,277,act_arr_time,1
+8:06 a.m.,,276,act_arr_time,1
+11:56 a.m.,11:50 a.m.,275,act_arr_time,1
+1:40 p.m.,,274,act_arr_time,1
+10:56 a.m.,,273,act_arr_time,1
+10:27 a.m.,,272,act_arr_time,1
+5:05 p.m.,,271,act_arr_time,1
+9:05 a.m.,8:50 a.m.,270,act_arr_time,1
+4:09 p.m.,,269,act_arr_time,1
+7:10 p.m.,,268,act_arr_time,1
+7:39 p.m.,,267,act_arr_time,1
+9:56 a.m.,,266,act_arr_time,1
+9:45 a.m.,,265,act_arr_time,1
+1:19 p.m.,,264,act_arr_time,1
+6:28 p.m.,,263,act_arr_time,1
+2:50 p.m.,,262,act_arr_time,1
+7:17 a.m.,,261,act_arr_time,1
+6:55 a.m.,7:02 a.m.,260,act_arr_time,1
+11:21 a.m.,,259,act_arr_time,1
+4:56 p.m.,,258,act_arr_time,1
+3:31 p.m.,,257,act_arr_time,1
+5:17 p.m.,,256,act_arr_time,1
+7:25 p.m.,7:35 p.m.,255,act_arr_time,1
+10:30 p.m.,,254,act_arr_time,1
+9:43 a.m.,,253,act_arr_time,1
+11:58 a.m.,11:34 a.m.,252,act_arr_time,1
+9:28 a.m.,9:09 a.m.,251,act_arr_time,1
+9:32 a.m.,,250,act_arr_time,1
+3:14 p.m.,3:09 p.m.,249,act_arr_time,1
+11:12 a.m.,11:00 a.m.,248,act_arr_time,1
+6:19 a.m.,6:07 a.m.,247,act_arr_time,1
+6:36 p.m.,6:33 p.m.,246,act_arr_time,1
+7:40 a.m.,7:32 a.m.,245,act_arr_time,1
+12:50 p.m.,12:48 p.m.,244,act_arr_time,1
+5:38 p.m.,5:35 p.m.,243,act_arr_time,1
+5:26 p.m.,5:09 p.m.,242,act_arr_time,1
+11:06 a.m.,10:53 a.m.,241,act_arr_time,1
+2:27 p.m.,2:18 p.m.,240,act_arr_time,1
+6:15 p.m.,6:09 p.m.,239,act_arr_time,1
+4:56 p.m.,4:52 p.m.,238,act_arr_time,1
+8:06 a.m.,7:57 a.m.,237,act_arr_time,1
+6:43 p.m.,6:36 p.m.,236,act_arr_time,1
+10:16 a.m.,10:10 a.m.,235,act_arr_time,1
+3:13 p.m.,3:01 p.m.,234,act_arr_time,1
+12:09 p.m.,12:00 p.m.,233,act_arr_time,1
+11:01 a.m.,11:00 a.m.,232,act_arr_time,1
+1:43 p.m.,1:40 p.m.,231,act_arr_time,1
+11:06 a.m.,11:07 a.m.,230,act_arr_time,1
+5:43 p.m.,5:34 p.m.,229,act_arr_time,1
+3:43 p.m.,3:36 p.m.,228,act_arr_time,1
+11:56 a.m.,12:10 p.m.,227,act_arr_time,1
+7:10 p.m.,6:59 p.m.,226,act_arr_time,1
+4:44 p.m.,4:24 p.m.,225,act_arr_time,1
+9:20 p.m.,9:11 p.m.,224,act_arr_time,1
+2:00 p.m.,2:02 p.m.,223,act_arr_time,1
+8:02 a.m.,7:58 a.m.,222,act_arr_time,1
+6:40 p.m.,,221,act_arr_time,1
+5:11 a.m.,,220,act_arr_time,1
+8:45 a.m.,8:41 a.m.,219,act_arr_time,1
+4:59 p.m.,4:55 p.m.,218,act_arr_time,1
+3:50 p.m.,Not Available,217,act_arr_time,1
+9:13 a.m.,9:11 a.m.,216,act_arr_time,1
+11:44 a.m.,11:40 a.m.,215,act_arr_time,1
+10:04 a.m.,9:58 a.m.,214,act_arr_time,1
+11:50 p.m.,Not Available,213,act_arr_time,1
+12:15 a.m.,Not Available,212,act_arr_time,1
+12:29 a.m.,Not Available,211,act_arr_time,1
+5:50 a.m.,,210,act_arr_time,1
+4:17 p.m.,4:06 p.m.,209,act_arr_time,1
+2:50 p.m.,2:52 p.m.,208,act_arr_time,1
+4:23 p.m.,4:18 p.m.,207,act_arr_time,1
+3:04 p.m.,2:56 p.m.,206,act_arr_time,1
+10:47 a.m.,10:45 a.m.,205,act_arr_time,1
+6:34 p.m.,6:13 p.m.,204,act_arr_time,1
+9:53 p.m.,9:49 p.m.,203,act_arr_time,1
+7:36 p.m.,7:26 p.m.,202,act_arr_time,1
+6:38 p.m.,6:36 p.m.,201,act_arr_time,1
+7:55 p.m.,7:53 p.m.,200,act_arr_time,1
+9:31 a.m.,9:29 a.m.,199,act_arr_time,1
+12:09 p.m.,12:03 p.m.,197,act_arr_time,1
+7:58 p.m.,7:53 p.m.,196,act_arr_time,1
+12:21 a.m.,Not Available,195,act_arr_time,1
+8:53 p.m.,8:43 p.m.,194,act_arr_time,1
+7:25 p.m.,Not Available,193,act_arr_time,1
+10:36 a.m.,10:29 a.m.,192,act_arr_time,1
+3:33 p.m.,3:25 p.m.,191,act_arr_time,1
+5:34 p.m.,,190,act_arr_time,1
+2:46 p.m.,2:37 p.m.,189,act_arr_time,1
+9:52 p.m.,9:38 p.m.,188,act_arr_time,1
+8:03 p.m.,7:55 p.m.,187,act_arr_time,1
+1:15 p.m.,1:14 p.m.,186,act_arr_time,1
+5:42 p.m.,5:28 p.m.,185,act_arr_time,1
+2:10 p.m.,2:01 p.m.,184,act_arr_time,1
+3:21 p.m.,3:20 p.m.,183,act_arr_time,1
+1:30 p.m.,1:27 p.m.,182,act_arr_time,1
+3:30 p.m.,3:19 p.m.,181,act_arr_time,1
+11:56 a.m.,11:50 a.m.,180,act_arr_time,1
+10:56 a.m.,10:47 a.m.,179,act_arr_time,1
+10:27 a.m.,10:18 a.m.,178,act_arr_time,1
+5:05 p.m.,5:03 p.m.,177,act_arr_time,1
+9:05 a.m.,9:00 a.m.,176,act_arr_time,1
+1:14 p.m.,1:12 p.m.,175,act_arr_time,1
+4:47 p.m.,4:45 p.m.,173,act_arr_time,1
+11:32 a.m.,11:26 a.m.,172,act_arr_time,1
+7:10 p.m.,6:59 p.m.,171,act_arr_time,1
+1:40 p.m.,1:34 p.m.,170,act_arr_time,1
+7:39 p.m.,7:35 p.m.,169,act_arr_time,1
+9:45 a.m.,9:42 a.m.,168,act_arr_time,1
+9:56 a.m.,9:54 a.m.,167,act_arr_time,1
+1:27 p.m.,1:18 p.m.,166,act_arr_time,1
+1:19 p.m.,1:09 p.m.,165,act_arr_time,1
+9:14 a.m.,9:09 a.m.,164,act_arr_time,1
+6:28 p.m.,6:25 p.m.,163,act_arr_time,1
+5:26 a.m.,5:23 a.m.,162,act_arr_time,1
+7:17 a.m.,7:10 a.m.,161,act_arr_time,1
+6:55 a.m.,Not Available,160,act_arr_time,1
+11:21 a.m.,11:18 a.m.,159,act_arr_time,1
+3:31 p.m.,3:25 p.m.,158,act_arr_time,1
+3:16 p.m.,3:10 p.m.,156,act_arr_time,1
+10:30 p.m.,10:39 p.m. (Estimated),155,act_arr_time,1
+9:43 a.m.,9:40 a.m.,154,act_arr_time,1
+11:58 a.m.,11:35 a.m.,153,act_arr_time,1
+9:28 a.m.,9:12 a.m.,152,act_arr_time,1
+10:29 p.m.,10:23 p.m.,151,act_arr_time,1
+9:32 a.m.,9:22 a.m.,150,act_arr_time,1
+3:14 p.m.,3:12 p.m.,149,act_arr_time,1
+11:12 a.m.,10:52 a.m.,148,act_arr_time,1
+6:19 a.m.,6:15 a.m.,147,act_arr_time,1
+6:36 p.m.,,146,act_arr_time,1
+7:40 a.m.,7:37 a.m.,145,act_arr_time,1
+12:50 p.m.,12:37 p.m.,144,act_arr_time,1
+5:38 p.m.,5:34 p.m.,143,act_arr_time,1
+5:26 p.m.,,142,act_arr_time,1
+2:27 p.m.,2:21 p.m.,141,act_arr_time,1
+6:15 p.m.,6:11 p.m.,140,act_arr_time,1
+8:06 a.m.,7:59 a.m.,139,act_arr_time,1
+6:43 p.m.,6:30 p.m.,138,act_arr_time,1
+10:16 a.m.,10:12 a.m.,137,act_arr_time,1
+3:13 p.m.,2:49 p.m.,136,act_arr_time,1
+12:09 p.m.,,135,act_arr_time,1
+11:01 a.m.,10:58 a.m.,134,act_arr_time,1
+1:43 p.m.,1:42 p.m.,133,act_arr_time,1
+11:06 a.m.,11:04 a.m.,132,act_arr_time,1
+5:43 p.m.,5:39 p.m.,131,act_arr_time,1
+3:43 p.m.,3:36 p.m.,130,act_arr_time,1
+11:56 a.m.,,129,act_arr_time,1
+7:10 p.m.,,128,act_arr_time,1
+4:44 p.m.,4:22 p.m.,127,act_arr_time,1
+9:20 p.m.,9:12 p.m.,126,act_arr_time,1
+2:00 p.m.,1:52 p.m.,125,act_arr_time,1
+8:02 a.m.,7:50 a.m.,124,act_arr_time,1
+6:40 p.m.,6:19 p.m.,123,act_arr_time,1
+5:11 a.m.,,122,act_arr_time,1
+8:45 a.m.,8:33 a.m.,121,act_arr_time,1
+4:59 p.m.,,120,act_arr_time,1
+3:50 p.m.,3:29 p.m.,119,act_arr_time,1
+11:44 a.m.,11:33 a.m.,117,act_arr_time,1
+10:04 a.m.,9:45 a.m.,116,act_arr_time,1
+11:50 p.m.,11:35 p.m.,115,act_arr_time,1
+12:15 a.m.,11:49 p.m.,114,act_arr_time,1
+12:29 a.m.,12/2/11 12:01 a.m.,113,act_arr_time,1
+5:50 a.m.,5:52 a.m.,112,act_arr_time,1
+4:17 p.m.,,111,act_arr_time,1
+4:23 p.m.,4:20 p.m.,109,act_arr_time,1
+3:04 p.m.,2:58 p.m.,108,act_arr_time,1
+10:47 a.m.,10:43 a.m.,107,act_arr_time,1
+6:34 p.m.,,106,act_arr_time,1
+9:53 p.m.,9:47 p.m.,105,act_arr_time,1
+7:36 p.m.,7:23 p.m.,104,act_arr_time,1
+6:38 p.m.,6:28 p.m.,103,act_arr_time,1
+11:06 a.m.,10:43 a.m.,102,act_arr_time,1
+7:55 p.m.,7:43 p.m.,101,act_arr_time,1
+9:31 a.m.,9:26 a.m.,100,act_arr_time,1
+7:51 a.m.,7:49 a.m.,99,act_arr_time,1
+12:09 p.m.,,98,act_arr_time,1
+7:58 p.m.,7:20 p.m.,97,act_arr_time,1
+12:21 a.m.,,96,act_arr_time,1
+3:16 p.m.,3:04 p.m.,95,act_arr_time,1
+8:53 p.m.,8:38 p.m.,94,act_arr_time,1
+10:36 a.m.,10:34 a.m.,92,act_arr_time,1
+3:33 p.m.,,91,act_arr_time,1
+5:34 p.m.,5:24 p.m.,90,act_arr_time,1
+2:46 p.m.,2:39 p.m.,89,act_arr_time,1
+9:52 p.m.,,88,act_arr_time,1
+8:03 p.m.,,87,act_arr_time,1
+1:15 p.m.,1:11 p.m.,86,act_arr_time,1
+5:42 p.m.,5:22 p.m.,85,act_arr_time,1
+2:10 p.m.,1:55 p.m.,84,act_arr_time,1
+3:21 p.m.,3:09 p.m.,83,act_arr_time,1
+1:30 p.m.,1:23 p.m.,82,act_arr_time,1
+3:30 p.m.,3:13 p.m.,81,act_arr_time,1
+11:56 a.m.,11:50 a.m.,80,act_arr_time,1
+10:56 a.m.,,79,act_arr_time,1
+10:27 a.m.,,78,act_arr_time,1
+5:05 p.m.,5:00 p.m.,77,act_arr_time,1
+9:05 a.m.,8:50 a.m.,76,act_arr_time,1
+1:14 p.m.,,75,act_arr_time,1
+4:09 p.m.,4:08 p.m.,74,act_arr_time,1
+4:47 p.m.,4:43 p.m.,73,act_arr_time,1
+11:32 a.m.,,72,act_arr_time,1
+7:10 p.m.,,71,act_arr_time,1
+1:40 p.m.,1:36 p.m.,70,act_arr_time,1
+7:39 p.m.,7:37 p.m.,69,act_arr_time,1
+9:45 a.m.,9:29 a.m.,68,act_arr_time,1
+1:27 p.m.,1:11 p.m.,66,act_arr_time,1
+1:19 p.m.,,65,act_arr_time,1
+9:14 a.m.,,64,act_arr_time,1
+6:28 p.m.,6:25 p.m.,63,act_arr_time,1
+5:26 a.m.,,62,act_arr_time,1
+7:17 a.m.,7:04 a.m.,61,act_arr_time,1
+6:55 a.m.,12/2/11 6:35 a.m.,60,act_arr_time,1
+11:21 a.m.,11:11 a.m.,59,act_arr_time,1
+4:56 p.m.,4:54 p.m.,58,act_arr_time,1
+3:31 p.m.,,57,act_arr_time,1
+5:17 p.m.,5:14 p.m.,56,act_arr_time,1
+10:30 p.m.,10:31 p.m.,55,act_arr_time,1
+9:43 a.m.,9:29 a.m.,54,act_arr_time,1
+11:58 a.m.,11:30 a.m.,53,act_arr_time,1
+9:28 a.m.,9:14 a.m.,52,act_arr_time,1
+10:29 p.m.,,51,act_arr_time,1
+9:32 a.m.,9:22 a.m.,50,act_arr_time,1
+9:20 p.m.,,37,act_arr_time,1
+3:50 p.m.,,36,act_arr_time,1
+11:50 p.m.,,33,act_arr_time,1
+12:15 a.m.,,32,act_arr_time,1
+5:50 a.m.,,31,act_arr_time,1
+6:55 a.m.,,5,act_arr_time,1
+7:25 p.m.,,2,act_arr_time,1
+10:30 p.m.,,1,act_arr_time,1
+10:45 a.m.,10:09 a.m.,2320,sched_arr_time,1
+6:40 a.m.,6:30 a.m.,2319,sched_arr_time,1
+7:05 p.m.,6:31 p.m.,2318,sched_arr_time,1
+12:55 p.m.,12:45 p.m.,2317,sched_arr_time,1
+6:17 p.m.,6:07 p.m.,2316,sched_arr_time,1
+3:30 p.m.,2:52 p.m.,2315,sched_arr_time,1
+6:40 p.m.,6:30 p.m.,2314,sched_arr_time,1
+6:30 p.m.,5:57 p.m.,2313,sched_arr_time,1
+2:35 p.m.,2:17 p.m.,2312,sched_arr_time,1
+2:15 p.m.,2:05 p.m.,2311,sched_arr_time,1
+11:35 a.m.,10:57 a.m.,2310,sched_arr_time,1
+5:55 p.m.,5:17 p.m.,2309,sched_arr_time,1
+4:05 p.m.,3:55 p.m.,2308,sched_arr_time,1
+9:20 p.m.,9:10 p.m.,2307,sched_arr_time,1
+6:40 p.m.,6:15 p.m.,2306,sched_arr_time,1
+5:11 a.m.,5:08 a.m.,2305,sched_arr_time,1
+3:50 p.m.,3:30 p.m.,2304,sched_arr_time,1
+11:50 a.m.,11:22 a.m.,2303,sched_arr_time,1
+10:34 a.m.,9:25 a.m.,2302,sched_arr_time,1
+11:50 p.m.,11:31 p.m.,2301,sched_arr_time,1
+12:15 a.m.,12:05 a.m.,2300,sched_arr_time,1
+12:29 a.m.,12:09 a.m.,2299,sched_arr_time,1
+4:17 p.m.,3:55 p.m.,2298,sched_arr_time,1
+4:31 p.m.,4:20 p.m.,2297,sched_arr_time,1
+2:59 p.m.,2:35 p.m.,2296,sched_arr_time,1
+9:45 p.m.,9:25 p.m.,2295,sched_arr_time,1
+6:23 p.m.,6:00 p.m.,2294,sched_arr_time,1
+8:05 p.m.,7:38 p.m.,2293,sched_arr_time,1
+9:35 a.m.,9:00 a.m.,2292,sched_arr_time,1
+7:30 a.m.,6:50 a.m.,2291,sched_arr_time,1
+12:18 p.m.,12:08 p.m.,2290,sched_arr_time,1
+12:21 a.m.,11:52 p.m.,2289,sched_arr_time,1
+3:15 p.m.,2:47 p.m.,2288,sched_arr_time,1
+9:10 p.m.,9:00 p.m.,2287,sched_arr_time,1
+7:25 p.m.,7:08 p.m.,2286,sched_arr_time,1
+10:35 a.m.,10:18 a.m.,2285,sched_arr_time,1
+4:00 p.m.,3:50 p.m.,2284,sched_arr_time,1
+2:45 p.m.,2:10 p.m.,2283,sched_arr_time,1
+2:25 p.m.,1:57 p.m.,2282,sched_arr_time,1
+8:56 p.m.,8:46 p.m.,2281,sched_arr_time,1
+11:10 a.m.,10:43 a.m.,2280,sched_arr_time,1
+8:22 p.m.,8:04 p.m.,2279,sched_arr_time,1
+1:45 p.m.,1:35 p.m.,2278,sched_arr_time,1
+6:15 p.m.,5:40 p.m.,2277,sched_arr_time,1
+3:19 p.m.,2:48 p.m.,2276,sched_arr_time,1
+2:45 p.m.,2:35 p.m.,2275,sched_arr_time,1
+7:45 a.m.,7:25 a.m.,2274,sched_arr_time,1
+2:35 p.m.,2:14 p.m.,2273,sched_arr_time,1
+8:00 a.m.,7:50 a.m.,2272,sched_arr_time,1
+12:10 p.m.,11:43 a.m.,2271,sched_arr_time,1
+11:05 a.m.,10:55 a.m.,2270,sched_arr_time,1
+4:57 p.m.,4:37 p.m.,2269,sched_arr_time,1
+9:20 a.m.,8:51 a.m.,2268,sched_arr_time,1
+1:17 p.m.,12:51 p.m.,2267,sched_arr_time,1
+3:50 p.m.,3:33 p.m.,2266,sched_arr_time,1
+12:35 p.m.,12:12 p.m.,2265,sched_arr_time,1
+7:55 p.m.,7:26 p.m.,2264,sched_arr_time,1
+9:55 a.m.,9:45 a.m.,2263,sched_arr_time,1
+9:21 a.m.,9:11 a.m.,2262,sched_arr_time,1
+6:46 p.m.,6:34 p.m.,2261,sched_arr_time,1
+6:55 a.m.,6:30 a.m.,2260,sched_arr_time,1
+10:30 p.m.,10:15 p.m.,2259,sched_arr_time,1
+9:54 a.m.,9:34 a.m.,2258,sched_arr_time,1
+10:15 p.m.,9:40 p.m.,2257,sched_arr_time,1
+9:25 a.m.,8:54 a.m.,2256,sched_arr_time,1
+9:40 a.m.,9:30 a.m.,2255,sched_arr_time,1
+4:49 p.m.,,2247,sched_arr_time,1
+5:25 p.m.,,2243,sched_arr_time,1
+10:40 a.m.,,2240,sched_arr_time,1
+11:53 a.m.,,2238,sched_arr_time,1
+11:45 a.m.,,2232,sched_arr_time,1
+7:03 p.m.,,2231,sched_arr_time,1
+4:53 p.m.,,2230,sched_arr_time,1
+9:20 p.m.,,2229,sched_arr_time,1
+1:40 p.m.,,2228,sched_arr_time,1
+8:27 a.m.,,2227,sched_arr_time,1
+5:11 a.m.,5:11 a.m.Dec 02,2225,sched_arr_time,1
+9:43 a.m.,,2224,sched_arr_time,1
+4:48 p.m.,,2223,sched_arr_time,1
+9:24 a.m.,,2221,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Dec 02,2217,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Dec 02,2216,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Dec 02,2215,sched_arr_time,1
+4:17 p.m.,,2214,sched_arr_time,1
+10:31 a.m.,,2210,sched_arr_time,1
+6:44 p.m.,,2209,sched_arr_time,1
+7:35 p.m.,,2207,sched_arr_time,1
+8:05 p.m.,,2205,sched_arr_time,1
+7:53 p.m.,,2201,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Dec 02,2200,sched_arr_time,1
+4:00 p.m.,,2196,sched_arr_time,1
+5:15 p.m.,,2195,sched_arr_time,1
+8:56 p.m.,,2193,sched_arr_time,1
+8:22 p.m.,,2192,sched_arr_time,1
+2:00 p.m.,,2189,sched_arr_time,1
+3:19 p.m.,,2188,sched_arr_time,1
+1:39 p.m.,,2187,sched_arr_time,1
+10:54 a.m.,,2184,sched_arr_time,1
+10:20 a.m.,,2183,sched_arr_time,1
+1:17 p.m.,,2180,sched_arr_time,1
+5:00 p.m.,,2178,sched_arr_time,1
+11:35 a.m.,,2177,sched_arr_time,1
+7:03 p.m.,,2176,sched_arr_time,1
+2:20 p.m.,,2175,sched_arr_time,1
+10:06 a.m.,,2172,sched_arr_time,1
+1:16 p.m.,,2170,sched_arr_time,1
+9:21 a.m.,,2169,sched_arr_time,1
+5:35 a.m.,,2167,sched_arr_time,1
+7:23 a.m.,,2166,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Dec 02,2165,sched_arr_time,1
+11:19 a.m.,,2164,sched_arr_time,1
+2:50 p.m.,,2163,sched_arr_time,1
+9:54 a.m.,,2159,sched_arr_time,1
+10:15 p.m.,,2156,sched_arr_time,1
+7:35 p.m.,,2153,sched_arr_time,1
+2:50 p.m.,,2150,sched_arr_time,1
+4:49 p.m.,,2142,sched_arr_time,1
+5:25 p.m.,,2138,sched_arr_time,1
+10:40 a.m.,,2135,sched_arr_time,1
+11:53 a.m.,,2133,sched_arr_time,1
+11:45 a.m.,,2127,sched_arr_time,1
+7:03 p.m.,,2126,sched_arr_time,1
+4:53 p.m.,,2125,sched_arr_time,1
+9:20 p.m.,,2124,sched_arr_time,1
+1:40 p.m.,,2123,sched_arr_time,1
+8:27 a.m.,,2122,sched_arr_time,1
+9:43 a.m.,,2119,sched_arr_time,1
+4:48 p.m.,,2118,sched_arr_time,1
+9:24 a.m.,,2116,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Fri 02-Dec-2011,2112,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Fri 02-Dec-2011,2111,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Fri 02-Dec-2011,2110,sched_arr_time,1
+4:17 p.m.,,2109,sched_arr_time,1
+2:59 p.m.,,2106,sched_arr_time,1
+10:31 a.m.,,2105,sched_arr_time,1
+6:44 p.m.,,2104,sched_arr_time,1
+7:35 p.m.,,2102,sched_arr_time,1
+8:05 p.m.,,2100,sched_arr_time,1
+7:53 p.m.,,2096,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Fri 02-Dec-2011,2095,sched_arr_time,1
+4:00 p.m.,,2091,sched_arr_time,1
+5:15 p.m.,,2090,sched_arr_time,1
+8:56 p.m.,,2088,sched_arr_time,1
+8:22 p.m.,,2087,sched_arr_time,1
+2:00 p.m.,,2084,sched_arr_time,1
+3:19 p.m.,,2083,sched_arr_time,1
+1:39 p.m.,,2082,sched_arr_time,1
+10:54 a.m.,,2079,sched_arr_time,1
+10:20 a.m.,,2078,sched_arr_time,1
+1:17 p.m.,,2075,sched_arr_time,1
+5:00 p.m.,,2073,sched_arr_time,1
+11:35 a.m.,,2072,sched_arr_time,1
+7:03 p.m.,,2071,sched_arr_time,1
+2:20 p.m.,,2070,sched_arr_time,1
+10:06 a.m.,,2067,sched_arr_time,1
+1:16 p.m.,,2065,sched_arr_time,1
+9:21 a.m.,,2064,sched_arr_time,1
+5:35 a.m.,,2062,sched_arr_time,1
+7:23 a.m.,,2061,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Fri 02-Dec-2011,2060,sched_arr_time,1
+11:19 a.m.,,2059,sched_arr_time,1
+2:50 p.m.,,2058,sched_arr_time,1
+9:54 a.m.,,2054,sched_arr_time,1
+10:15 p.m.,,2051,sched_arr_time,1
+4:49 p.m.,,2042,sched_arr_time,1
+5:25 p.m.,,2038,sched_arr_time,1
+10:40 a.m.,,2035,sched_arr_time,1
+11:53 a.m.,,2033,sched_arr_time,1
+11:45 a.m.,,2027,sched_arr_time,1
+7:03 p.m.,,2026,sched_arr_time,1
+4:53 p.m.,,2025,sched_arr_time,1
+9:20 p.m.,,2024,sched_arr_time,1
+1:40 p.m.,,2023,sched_arr_time,1
+8:27 a.m.,,2022,sched_arr_time,1
+5:11 a.m.,5:11 a.m.Dec 02,2020,sched_arr_time,1
+9:43 a.m.,,2019,sched_arr_time,1
+4:48 p.m.,,2018,sched_arr_time,1
+9:24 a.m.,,2016,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Dec 02,2012,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Dec 02,2011,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Dec 02,2010,sched_arr_time,1
+4:17 p.m.,,2009,sched_arr_time,1
+10:31 a.m.,,2005,sched_arr_time,1
+6:44 p.m.,,2004,sched_arr_time,1
+7:35 p.m.,,2002,sched_arr_time,1
+8:05 p.m.,,2000,sched_arr_time,1
+7:53 p.m.,,1996,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Dec 02,1995,sched_arr_time,1
+4:00 p.m.,,1991,sched_arr_time,1
+5:15 p.m.,,1990,sched_arr_time,1
+8:56 p.m.,,1988,sched_arr_time,1
+8:22 p.m.,,1987,sched_arr_time,1
+2:00 p.m.,,1984,sched_arr_time,1
+3:19 p.m.,,1983,sched_arr_time,1
+1:39 p.m.,,1982,sched_arr_time,1
+10:54 a.m.,,1979,sched_arr_time,1
+10:20 a.m.,,1978,sched_arr_time,1
+1:17 p.m.,,1975,sched_arr_time,1
+5:00 p.m.,,1973,sched_arr_time,1
+11:35 a.m.,,1972,sched_arr_time,1
+7:03 p.m.,,1971,sched_arr_time,1
+2:20 p.m.,,1970,sched_arr_time,1
+10:06 a.m.,,1967,sched_arr_time,1
+1:16 p.m.,,1965,sched_arr_time,1
+9:21 a.m.,,1964,sched_arr_time,1
+5:35 a.m.,,1962,sched_arr_time,1
+7:23 a.m.,,1961,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Dec 02,1960,sched_arr_time,1
+11:19 a.m.,,1959,sched_arr_time,1
+2:50 p.m.,,1958,sched_arr_time,1
+9:54 a.m.,,1954,sched_arr_time,1
+10:15 p.m.,,1951,sched_arr_time,1
+4:49 p.m.,,1850,sched_arr_time,1
+5:25 p.m.,,1846,sched_arr_time,1
+10:40 a.m.,,1843,sched_arr_time,1
+11:53 a.m.,,1841,sched_arr_time,1
+11:45 a.m.,,1835,sched_arr_time,1
+7:03 p.m.,,1834,sched_arr_time,1
+4:53 p.m.,,1833,sched_arr_time,1
+9:20 p.m.,,1832,sched_arr_time,1
+1:40 p.m.,,1831,sched_arr_time,1
+8:27 a.m.,,1830,sched_arr_time,1
+9:43 a.m.,,1827,sched_arr_time,1
+4:48 p.m.,,1826,sched_arr_time,1
+9:24 a.m.,,1824,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Fri 02-Dec-2011,1820,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Fri 02-Dec-2011,1819,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Fri 02-Dec-2011,1818,sched_arr_time,1
+4:17 p.m.,,1817,sched_arr_time,1
+2:59 p.m.,,1814,sched_arr_time,1
+10:31 a.m.,,1813,sched_arr_time,1
+6:44 p.m.,,1812,sched_arr_time,1
+7:35 p.m.,,1810,sched_arr_time,1
+8:05 p.m.,,1808,sched_arr_time,1
+7:53 p.m.,,1804,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Fri 02-Dec-2011,1803,sched_arr_time,1
+4:00 p.m.,,1799,sched_arr_time,1
+5:15 p.m.,,1798,sched_arr_time,1
+8:56 p.m.,,1796,sched_arr_time,1
+8:22 p.m.,,1795,sched_arr_time,1
+2:00 p.m.,,1792,sched_arr_time,1
+3:19 p.m.,,1791,sched_arr_time,1
+1:39 p.m.,,1790,sched_arr_time,1
+10:54 a.m.,,1787,sched_arr_time,1
+10:20 a.m.,,1786,sched_arr_time,1
+1:17 p.m.,,1783,sched_arr_time,1
+5:00 p.m.,,1781,sched_arr_time,1
+11:35 a.m.,,1780,sched_arr_time,1
+7:03 p.m.,,1779,sched_arr_time,1
+2:20 p.m.,,1778,sched_arr_time,1
+10:06 a.m.,,1775,sched_arr_time,1
+1:16 p.m.,,1773,sched_arr_time,1
+9:21 a.m.,,1772,sched_arr_time,1
+5:35 a.m.,,1770,sched_arr_time,1
+7:23 a.m.,,1769,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Fri 02-Dec-2011,1768,sched_arr_time,1
+11:19 a.m.,,1767,sched_arr_time,1
+2:50 p.m.,,1766,sched_arr_time,1
+9:54 a.m.,,1762,sched_arr_time,1
+10:15 p.m.,,1759,sched_arr_time,1
+5:11 a.m.,Fri Dec 2 5:11 a.m.,1747,sched_arr_time,1
+12:29 a.m.,Fri Dec 2 12:29 a.m.,1744,sched_arr_time,1
+10:45 a.m.,10:09 a.m.,1726,sched_arr_time,1
+6:40 a.m.,6:30 a.m.,1725,sched_arr_time,1
+7:05 p.m.,6:31 p.m.,1724,sched_arr_time,1
+12:55 p.m.,12:45 p.m.,1723,sched_arr_time,1
+6:17 p.m.,6:07 p.m.,1722,sched_arr_time,1
+3:30 p.m.,2:52 p.m.,1721,sched_arr_time,1
+6:40 p.m.,6:30 p.m.,1720,sched_arr_time,1
+6:30 p.m.,5:57 p.m.,1719,sched_arr_time,1
+2:35 p.m.,2:17 p.m.,1718,sched_arr_time,1
+2:15 p.m.,2:05 p.m.,1717,sched_arr_time,1
+11:35 a.m.,10:57 a.m.,1716,sched_arr_time,1
+5:55 p.m.,5:17 p.m.,1715,sched_arr_time,1
+4:05 p.m.,3:55 p.m.,1714,sched_arr_time,1
+9:20 p.m.,9:10 p.m.,1713,sched_arr_time,1
+6:40 p.m.,6:15 p.m.,1712,sched_arr_time,1
+5:11 a.m.,5:08 a.m.,1711,sched_arr_time,1
+3:50 p.m.,3:30 p.m.,1710,sched_arr_time,1
+11:50 a.m.,11:22 a.m.,1709,sched_arr_time,1
+10:34 a.m.,9:25 a.m.,1708,sched_arr_time,1
+11:50 p.m.,11:31 p.m.,1707,sched_arr_time,1
+12:15 a.m.,12:05 a.m.,1706,sched_arr_time,1
+12:29 a.m.,12:09 a.m.,1705,sched_arr_time,1
+4:17 p.m.,3:55 p.m.,1704,sched_arr_time,1
+4:31 p.m.,4:20 p.m.,1703,sched_arr_time,1
+2:59 p.m.,2:35 p.m.,1702,sched_arr_time,1
+9:45 p.m.,9:25 p.m.,1701,sched_arr_time,1
+6:23 p.m.,6:00 p.m.,1700,sched_arr_time,1
+8:05 p.m.,7:38 p.m.,1699,sched_arr_time,1
+9:35 a.m.,9:00 a.m.,1698,sched_arr_time,1
+7:30 a.m.,6:50 a.m.,1697,sched_arr_time,1
+12:18 p.m.,12:08 p.m.,1696,sched_arr_time,1
+12:21 a.m.,11:52 p.m.,1695,sched_arr_time,1
+3:15 p.m.,2:47 p.m.,1694,sched_arr_time,1
+9:10 p.m.,9:00 p.m.,1693,sched_arr_time,1
+7:25 p.m.,7:08 p.m.,1692,sched_arr_time,1
+10:35 a.m.,10:18 a.m.,1691,sched_arr_time,1
+4:00 p.m.,3:50 p.m.,1690,sched_arr_time,1
+2:45 p.m.,2:10 p.m.,1689,sched_arr_time,1
+2:25 p.m.,1:57 p.m.,1688,sched_arr_time,1
+8:56 p.m.,8:46 p.m.,1687,sched_arr_time,1
+11:10 a.m.,10:43 a.m.,1686,sched_arr_time,1
+8:22 p.m.,8:04 p.m.,1685,sched_arr_time,1
+1:45 p.m.,1:35 p.m.,1684,sched_arr_time,1
+6:15 p.m.,5:40 p.m.,1683,sched_arr_time,1
+3:19 p.m.,2:48 p.m.,1682,sched_arr_time,1
+2:45 p.m.,2:35 p.m.,1681,sched_arr_time,1
+7:45 a.m.,7:25 a.m.,1680,sched_arr_time,1
+2:35 p.m.,2:14 p.m.,1679,sched_arr_time,1
+8:00 a.m.,7:50 a.m.,1678,sched_arr_time,1
+12:10 p.m.,11:43 a.m.,1677,sched_arr_time,1
+11:05 a.m.,10:55 a.m.,1676,sched_arr_time,1
+4:57 p.m.,4:37 p.m.,1675,sched_arr_time,1
+9:20 a.m.,8:51 a.m.,1674,sched_arr_time,1
+1:17 p.m.,12:51 p.m.,1673,sched_arr_time,1
+3:50 p.m.,3:33 p.m.,1672,sched_arr_time,1
+12:35 p.m.,12:12 p.m.,1671,sched_arr_time,1
+7:55 p.m.,7:26 p.m.,1670,sched_arr_time,1
+9:55 a.m.,9:45 a.m.,1669,sched_arr_time,1
+9:21 a.m.,9:11 a.m.,1668,sched_arr_time,1
+6:46 p.m.,6:34 p.m.,1667,sched_arr_time,1
+6:55 a.m.,6:30 a.m.,1666,sched_arr_time,1
+10:30 p.m.,10:15 p.m.,1665,sched_arr_time,1
+9:54 a.m.,9:34 a.m.,1664,sched_arr_time,1
+10:15 p.m.,9:40 p.m.,1663,sched_arr_time,1
+9:25 a.m.,8:54 a.m.,1662,sched_arr_time,1
+9:40 a.m.,9:30 a.m.,1661,sched_arr_time,1
+7:53 p.m.,11/30 7:53 p.m.,1660,sched_arr_time,1
+5:15 p.m.,11/30 5:15 p.m.,1657,sched_arr_time,1
+10:30 p.m.,11/30 10:30 p.m.,1653,sched_arr_time,1
+5:25 p.m.,11/30 5:25 p.m.,1651,sched_arr_time,1
+6:40 p.m.,11/30 6:40 p.m.,1649,sched_arr_time,1
+9:10 p.m.,11/30 9:10 p.m.,1645,sched_arr_time,1
+7:35 p.m.,11/30 7:35 p.m.,1643,sched_arr_time,1
+9:45 p.m.,11/30 9:45 p.m.,1642,sched_arr_time,1
+7:45 a.m.,7:45aDec 1,1636,sched_arr_time,1
+10:40 a.m.,10:40aDec 1,1632,sched_arr_time,1
+10:45 a.m.,10:45aDec 1,1631,sched_arr_time,1
+11:53 a.m.,11:53aDec 1,1630,sched_arr_time,1
+9:43 a.m.,Not Available,1628,sched_arr_time,1
+9:20 p.m.,9:18 p.m.,1626,sched_arr_time,1
+5:11 a.m.,5:11aDec 2,1625,sched_arr_time,1
+6:15 p.m.,Not Available,1622,sched_arr_time,1
+11:50 a.m.,11:50aDec 1,1621,sched_arr_time,1
+10:34 a.m.,10:34aDec 1,1620,sched_arr_time,1
+12:15 a.m.,Dec 02 12:15 a.m.,1618,sched_arr_time,1
+12:29 a.m.,12:29aDec 2,1617,sched_arr_time,1
+10:31 a.m.,10:31aDec 1,1615,sched_arr_time,1
+11:10 a.m.,11:10aDec 1,1613,sched_arr_time,1
+9:35 a.m.,9:35aDec 1,1611,sched_arr_time,1
+7:30 a.m.,7:30aDec 1,1610,sched_arr_time,1
+8:56 p.m.,10:48 p.m.,1608,sched_arr_time,1
+3:19 p.m.,3:03 p.m.,1604,sched_arr_time,1
+8:00 a.m.,8:00aDec 1,1603,sched_arr_time,1
+9:20 a.m.,9:20aDec 1,1600,sched_arr_time,1
+9:55 a.m.,9:55aDec 1,1597,sched_arr_time,1
+5:35 a.m.,5:35aDec 1,1594,sched_arr_time,1
+6:55 a.m.,6:55aDec 2,1593,sched_arr_time,1
+11:19 a.m.,11:19aDec 1,1592,sched_arr_time,1
+9:54 a.m.,9:54aDec 1,1589,sched_arr_time,1
+3:30 p.m.,,1586,sched_arr_time,1
+10:45 a.m.,,1585,sched_arr_time,1
+6:40 a.m.,,1584,sched_arr_time,1
+7:45 a.m.,,1582,sched_arr_time,1
+12:55 p.m.,,1581,sched_arr_time,1
+6:17 p.m.,,1580,sched_arr_time,1
+2:25 p.m.,,1578,sched_arr_time,1
+6:40 p.m.,,1577,sched_arr_time,1
+8:00 a.m.,,1576,sched_arr_time,1
+6:30 p.m.,,1575,sched_arr_time,1
+10:40 a.m.,,1574,sched_arr_time,1
+2:35 p.m.,,1573,sched_arr_time,1
+11:05 a.m.,,1571,sched_arr_time,1
+2:15 p.m.,,1570,sched_arr_time,1
+11:35 a.m.,,1569,sched_arr_time,1
+5:55 p.m.,,1568,sched_arr_time,1
+4:05 p.m.,,1567,sched_arr_time,1
+4:53 p.m.,,1564,sched_arr_time,1
+9:20 p.m.,,1563,sched_arr_time,1
+1:40 p.m.,,1562,sched_arr_time,1
+8:27 a.m.,,1561,sched_arr_time,1
+6:40 p.m.,,1560,sched_arr_time,1
+5:11 a.m.,12/2/11 5:11 a.m.,1559,sched_arr_time,1
+9:43 a.m.,,1558,sched_arr_time,1
+3:50 p.m.,,1556,sched_arr_time,1
+9:24 a.m.,,1555,sched_arr_time,1
+11:50 a.m.,,1554,sched_arr_time,1
+10:34 a.m.,,1553,sched_arr_time,1
+11:50 p.m.,,1552,sched_arr_time,1
+12:15 a.m.,,1551,sched_arr_time,1
+12:29 a.m.,,1550,sched_arr_time,1
+5:50 a.m.,,1549,sched_arr_time,1
+2:45 p.m.,,1547,sched_arr_time,1
+4:31 p.m.,,1546,sched_arr_time,1
+2:59 p.m.,,1545,sched_arr_time,1
+10:31 a.m.,,1544,sched_arr_time,1
+9:45 p.m.,,1542,sched_arr_time,1
+7:35 p.m.,,1541,sched_arr_time,1
+6:23 p.m.,,1540,sched_arr_time,1
+11:10 a.m.,,1539,sched_arr_time,1
+8:05 p.m.,,1538,sched_arr_time,1
+9:35 a.m.,,1537,sched_arr_time,1
+7:30 a.m.,,1536,sched_arr_time,1
+7:53 p.m.,,1534,sched_arr_time,1
+12:21 a.m.,12/2/11 12:21 a.m.,1533,sched_arr_time,1
+3:15 p.m.,,1532,sched_arr_time,1
+9:10 p.m.,,1531,sched_arr_time,1
+7:25 p.m.,,1530,sched_arr_time,1
+10:35 a.m.,,1529,sched_arr_time,1
+5:15 p.m.,,1527,sched_arr_time,1
+2:45 p.m.,,1526,sched_arr_time,1
+1:45 p.m.,,1523,sched_arr_time,1
+6:15 p.m.,,1522,sched_arr_time,1
+2:00 p.m.,,1521,sched_arr_time,1
+3:19 p.m.,,1520,sched_arr_time,1
+1:39 p.m.,,1519,sched_arr_time,1
+2:35 p.m.,,1518,sched_arr_time,1
+12:10 p.m.,,1517,sched_arr_time,1
+4:57 p.m.,,1514,sched_arr_time,1
+9:20 a.m.,,1513,sched_arr_time,1
+3:50 p.m.,,1511,sched_arr_time,1
+5:00 p.m.,,1510,sched_arr_time,1
+2:20 p.m.,,1507,sched_arr_time,1
+7:55 p.m.,,1506,sched_arr_time,1
+9:55 a.m.,,1505,sched_arr_time,1
+10:06 a.m.,,1504,sched_arr_time,1
+12:35 p.m.,,1503,sched_arr_time,1
+6:46 p.m.,,1500,sched_arr_time,1
+7:23 a.m.,,1498,sched_arr_time,1
+6:55 a.m.,,1497,sched_arr_time,1
+11:19 a.m.,,1496,sched_arr_time,1
+5:25 p.m.,,1495,sched_arr_time,1
+5:05 p.m.,,1493,sched_arr_time,1
+10:30 p.m.,,1492,sched_arr_time,1
+9:54 a.m.,,1491,sched_arr_time,1
+11:55 a.m.,,1490,sched_arr_time,1
+9:25 a.m.,,1489,sched_arr_time,1
+9:40 a.m.,,1487,sched_arr_time,1
+4:05 p.m.,,1424,sched_arr_time,1
+10:45 a.m.,10:45aDec 1,1420,sched_arr_time,1
+6:40 a.m.,6:40aDec 1,1419,sched_arr_time,1
+7:45 a.m.,7:45aDec 1,1417,sched_arr_time,1
+11:10 a.m.,11:10aDec 1,1413,sched_arr_time,1
+8:00 a.m.,8:00aDec 1,1409,sched_arr_time,1
+10:40 a.m.,10:40aDec 1,1407,sched_arr_time,1
+11:53 a.m.,11:53aDec 1,1405,sched_arr_time,1
+11:05 a.m.,11:05aDec 1,1404,sched_arr_time,1
+11:35 a.m.,11:35aDec 1,1402,sched_arr_time,1
+11:45 a.m.,12:05 p.m.,1399,sched_arr_time,1
+9:20 p.m.,9:18 p.m.,1396,sched_arr_time,1
+8:27 a.m.,8:27aDec 1,1394,sched_arr_time,1
+5:11 a.m.,5:11aDec 2,1392,sched_arr_time,1
+9:43 a.m.,9:43aDec 1,1391,sched_arr_time,1
+11:50 a.m.,11:50aDec 1,1388,sched_arr_time,1
+10:34 a.m.,10:34aDec 1,1387,sched_arr_time,1
+12:15 a.m.,12:15aDec 2,1385,sched_arr_time,1
+12:29 a.m.,12:29aDec 2,1384,sched_arr_time,1
+5:50 a.m.,5:50aDec 2,1383,sched_arr_time,1
+10:31 a.m.,10:31aDec 1,1378,sched_arr_time,1
+9:35 a.m.,9:35aDec 1,1372,sched_arr_time,1
+7:30 a.m.,7:30aDec 1,1371,sched_arr_time,1
+12:21 a.m.,12:21aDec 2,1368,sched_arr_time,1
+10:35 a.m.,10:35aDec 1,1365,sched_arr_time,1
+8:56 p.m.,10:48 p.m.,1361,sched_arr_time,1
+3:19 p.m.,3:03 p.m.,1356,sched_arr_time,1
+10:54 a.m.,10:54aDec 1,1352,sched_arr_time,1
+10:20 a.m.,10:20aDec 1,1351,sched_arr_time,1
+9:20 a.m.,9:20aDec 1,1349,sched_arr_time,1
+11:35 a.m.,11:35aDec 1,1345,sched_arr_time,1
+9:55 a.m.,9:55aDec 1,1341,sched_arr_time,1
+10:06 a.m.,10:06aDec 1,1340,sched_arr_time,1
+9:21 a.m.,9:21aDec 2,1337,sched_arr_time,1
+5:35 a.m.,5:35aDec 1,1335,sched_arr_time,1
+7:23 a.m.,7:23aDec 1,1334,sched_arr_time,1
+6:55 a.m.,6:55aDec 2,1333,sched_arr_time,1
+11:19 a.m.,11:19aDec 1,1332,sched_arr_time,1
+9:54 a.m.,9:54aDec 1,1327,sched_arr_time,1
+11:55 a.m.,11:55aDec 1,1326,sched_arr_time,1
+9:25 a.m.,9:25aDec 1,1325,sched_arr_time,1
+9:40 a.m.,9:40aDec 1,1323,sched_arr_time,1
+3:30 p.m.,,1322,sched_arr_time,1
+10:45 a.m.,,1321,sched_arr_time,1
+6:40 a.m.,,1320,sched_arr_time,1
+7:45 a.m.,,1318,sched_arr_time,1
+12:55 p.m.,,1317,sched_arr_time,1
+6:17 p.m.,,1316,sched_arr_time,1
+2:25 p.m.,,1314,sched_arr_time,1
+6:40 p.m.,,1313,sched_arr_time,1
+8:00 a.m.,,1312,sched_arr_time,1
+6:30 p.m.,,1311,sched_arr_time,1
+10:40 a.m.,,1310,sched_arr_time,1
+2:35 p.m.,,1309,sched_arr_time,1
+11:05 a.m.,,1307,sched_arr_time,1
+2:15 p.m.,,1306,sched_arr_time,1
+11:35 a.m.,,1305,sched_arr_time,1
+5:55 p.m.,,1304,sched_arr_time,1
+4:05 p.m.,,1303,sched_arr_time,1
+4:53 p.m.,,1300,sched_arr_time,1
+9:20 p.m.,,1299,sched_arr_time,1
+1:40 p.m.,,1298,sched_arr_time,1
+8:27 a.m.,,1297,sched_arr_time,1
+6:40 p.m.,,1296,sched_arr_time,1
+5:11 a.m.,12/2/11 5:11 a.m.,1295,sched_arr_time,1
+9:43 a.m.,,1294,sched_arr_time,1
+3:50 p.m.,,1292,sched_arr_time,1
+9:24 a.m.,,1291,sched_arr_time,1
+11:50 a.m.,,1290,sched_arr_time,1
+10:34 a.m.,,1289,sched_arr_time,1
+11:50 p.m.,,1288,sched_arr_time,1
+12:15 a.m.,,1287,sched_arr_time,1
+12:29 a.m.,,1286,sched_arr_time,1
+5:50 a.m.,,1285,sched_arr_time,1
+2:45 p.m.,,1283,sched_arr_time,1
+4:31 p.m.,,1282,sched_arr_time,1
+2:59 p.m.,,1281,sched_arr_time,1
+10:31 a.m.,,1280,sched_arr_time,1
+9:45 p.m.,,1278,sched_arr_time,1
+7:35 p.m.,,1277,sched_arr_time,1
+6:23 p.m.,,1276,sched_arr_time,1
+11:10 a.m.,,1275,sched_arr_time,1
+8:05 p.m.,,1274,sched_arr_time,1
+9:35 a.m.,,1273,sched_arr_time,1
+7:30 a.m.,,1272,sched_arr_time,1
+7:53 p.m.,,1270,sched_arr_time,1
+12:21 a.m.,12/2/11 12:21 a.m.,1269,sched_arr_time,1
+3:15 p.m.,,1268,sched_arr_time,1
+9:10 p.m.,,1267,sched_arr_time,1
+7:25 p.m.,,1266,sched_arr_time,1
+10:35 a.m.,,1265,sched_arr_time,1
+5:15 p.m.,,1263,sched_arr_time,1
+2:45 p.m.,,1262,sched_arr_time,1
+1:45 p.m.,,1259,sched_arr_time,1
+6:15 p.m.,,1258,sched_arr_time,1
+2:00 p.m.,,1257,sched_arr_time,1
+3:19 p.m.,,1256,sched_arr_time,1
+1:39 p.m.,,1255,sched_arr_time,1
+2:35 p.m.,,1254,sched_arr_time,1
+12:10 p.m.,,1253,sched_arr_time,1
+4:57 p.m.,,1250,sched_arr_time,1
+9:20 a.m.,,1249,sched_arr_time,1
+3:50 p.m.,,1247,sched_arr_time,1
+5:00 p.m.,,1246,sched_arr_time,1
+2:20 p.m.,,1243,sched_arr_time,1
+7:55 p.m.,,1242,sched_arr_time,1
+9:55 a.m.,,1241,sched_arr_time,1
+10:06 a.m.,,1240,sched_arr_time,1
+12:35 p.m.,,1239,sched_arr_time,1
+6:46 p.m.,,1236,sched_arr_time,1
+7:23 a.m.,,1234,sched_arr_time,1
+6:55 a.m.,,1233,sched_arr_time,1
+11:19 a.m.,,1232,sched_arr_time,1
+5:25 p.m.,,1231,sched_arr_time,1
+5:05 p.m.,,1229,sched_arr_time,1
+10:30 p.m.,,1228,sched_arr_time,1
+9:54 a.m.,,1227,sched_arr_time,1
+11:55 a.m.,,1226,sched_arr_time,1
+9:25 a.m.,,1225,sched_arr_time,1
+9:40 a.m.,,1223,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Dec 02,1211,sched_arr_time,1
+11:45 a.m.,,1208,sched_arr_time,1
+4:53 p.m.,,1207,sched_arr_time,1
+1:40 p.m.,,1206,sched_arr_time,1
+6:40 p.m.,6:09 p.m.,1205,sched_arr_time,1
+9:43 a.m.,,1203,sched_arr_time,1
+4:48 p.m.,,1202,sched_arr_time,1
+7:53 p.m.,,1193,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Dec 02,1192,sched_arr_time,1
+5:15 p.m.,4:52 p.m.,1189,sched_arr_time,1
+3:19 p.m.,,1186,sched_arr_time,1
+8:22 p.m.,,1179,sched_arr_time,1
+10:06 a.m.,,1176,sched_arr_time,1
+7:23 a.m.,,1175,sched_arr_time,1
+10:15 p.m.,,1172,sched_arr_time,1
+4:49 p.m.,,1162,sched_arr_time,1
+5:25 p.m.,,1158,sched_arr_time,1
+10:40 a.m.,,1155,sched_arr_time,1
+11:53 a.m.,,1153,sched_arr_time,1
+11:45 a.m.,,1147,sched_arr_time,1
+7:03 p.m.,,1146,sched_arr_time,1
+4:53 p.m.,,1145,sched_arr_time,1
+9:20 p.m.,,1144,sched_arr_time,1
+1:40 p.m.,,1143,sched_arr_time,1
+8:27 a.m.,,1142,sched_arr_time,1
+5:11 a.m.,5:11 a.m.Dec 02,1140,sched_arr_time,1
+9:43 a.m.,,1139,sched_arr_time,1
+4:48 p.m.,,1138,sched_arr_time,1
+9:24 a.m.,,1136,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Dec 02,1132,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Dec 02,1131,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Dec 02,1130,sched_arr_time,1
+4:17 p.m.,,1129,sched_arr_time,1
+10:31 a.m.,,1125,sched_arr_time,1
+6:44 p.m.,,1124,sched_arr_time,1
+7:35 p.m.,,1122,sched_arr_time,1
+8:05 p.m.,,1120,sched_arr_time,1
+7:53 p.m.,,1116,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Dec 02,1115,sched_arr_time,1
+4:00 p.m.,,1111,sched_arr_time,1
+5:15 p.m.,,1110,sched_arr_time,1
+8:56 p.m.,,1108,sched_arr_time,1
+8:22 p.m.,,1107,sched_arr_time,1
+2:00 p.m.,,1104,sched_arr_time,1
+3:19 p.m.,,1103,sched_arr_time,1
+1:39 p.m.,,1102,sched_arr_time,1
+10:54 a.m.,,1099,sched_arr_time,1
+10:20 a.m.,,1098,sched_arr_time,1
+1:17 p.m.,,1095,sched_arr_time,1
+5:00 p.m.,,1093,sched_arr_time,1
+11:35 a.m.,,1092,sched_arr_time,1
+7:03 p.m.,,1091,sched_arr_time,1
+2:20 p.m.,,1090,sched_arr_time,1
+10:06 a.m.,,1087,sched_arr_time,1
+1:16 p.m.,,1085,sched_arr_time,1
+9:21 a.m.,,1084,sched_arr_time,1
+5:35 a.m.,,1082,sched_arr_time,1
+7:23 a.m.,,1081,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Dec 02,1080,sched_arr_time,1
+11:19 a.m.,,1079,sched_arr_time,1
+2:50 p.m.,,1078,sched_arr_time,1
+9:54 a.m.,,1074,sched_arr_time,1
+10:15 p.m.,,1071,sched_arr_time,1
+1:39 p.m.,Not Available,1058,sched_arr_time,1
+8:27 a.m.,Not Available,1046,sched_arr_time,1
+9:43 a.m.,Not Available,1045,sched_arr_time,1
+9:24 a.m.,Not Available,1042,sched_arr_time,1
+6:15 p.m.,Not Available,1041,sched_arr_time,1
+12:15 a.m.,Dec 02 12:15 a.m.,1037,sched_arr_time,1
+5:50 a.m.,Dec 02 5:50 a.m.,1035,sched_arr_time,1
+4:31 p.m.,Not Available,1034,sched_arr_time,1
+7:53 p.m.,Not Available,1026,sched_arr_time,1
+12:21 a.m.,Dec 02 12:21 a.m.,1025,sched_arr_time,1
+10:06 a.m.,Not Available,1003,sched_arr_time,1
+7:23 a.m.,Not Available,999,sched_arr_time,1
+6:55 a.m.,Dec 02 6:55 a.m.,998,sched_arr_time,1
+9:54 a.m.,Not Available,992,sched_arr_time,1
+11:55 a.m.,Not Available,991,sched_arr_time,1
+6:30 p.m.,5:57 p.m.,988,sched_arr_time,1
+9:10 p.m.,9:00 p.m.,987,sched_arr_time,1
+10:45 a.m.,10:09 a.m.,986,sched_arr_time,1
+6:40 a.m.,6:30 a.m.,985,sched_arr_time,1
+4:00 p.m.,3:50 p.m.,984,sched_arr_time,1
+10:35 a.m.,10:18 a.m.,983,sched_arr_time,1
+8:56 p.m.,8:46 p.m.,982,sched_arr_time,1
+6:40 p.m.,6:30 p.m.,981,sched_arr_time,1
+8:22 p.m.,8:04 p.m.,980,sched_arr_time,1
+12:21 a.m.,11:52 p.m.,979,sched_arr_time,1
+11:50 p.m.,11:31 p.m.,978,sched_arr_time,1
+2:35 p.m.,2:17 p.m.,977,sched_arr_time,1
+4:31 p.m.,4:20 p.m.,976,sched_arr_time,1
+9:54 a.m.,9:34 a.m.,975,sched_arr_time,1
+4:57 p.m.,4:37 p.m.,974,sched_arr_time,1
+11:10 a.m.,10:43 a.m.,973,sched_arr_time,1
+7:25 p.m.,7:08 p.m.,972,sched_arr_time,1
+9:35 a.m.,9:00 a.m.,971,sched_arr_time,1
+7:30 a.m.,6:50 a.m.,970,sched_arr_time,1
+9:40 a.m.,9:30 a.m.,969,sched_arr_time,1
+10:54 a.m.,,964,sched_arr_time,1
+1:39 p.m.,,960,sched_arr_time,1
+11:35 a.m.,,953,sched_arr_time,1
+11:45 a.m.,,952,sched_arr_time,1
+1:40 p.m.,,950,sched_arr_time,1
+6:40 p.m.,6:09 p.m.,948,sched_arr_time,1
+5:11 a.m.,5:11 a.m.Dec 02,947,sched_arr_time,1
+10:31 a.m.,,938,sched_arr_time,1
+7:35 p.m.,,935,sched_arr_time,1
+4:49 p.m.,,926,sched_arr_time,1
+3:19 p.m.,,925,sched_arr_time,1
+9:21 a.m.,,917,sched_arr_time,1
+2:00 p.m.,,914,sched_arr_time,1
+4:49 p.m.,,903,sched_arr_time,1
+5:25 p.m.,,899,sched_arr_time,1
+10:40 a.m.,,896,sched_arr_time,1
+11:53 a.m.,,894,sched_arr_time,1
+11:45 a.m.,,888,sched_arr_time,1
+7:03 p.m.,,887,sched_arr_time,1
+4:53 p.m.,,886,sched_arr_time,1
+9:20 p.m.,,885,sched_arr_time,1
+1:40 p.m.,,884,sched_arr_time,1
+8:27 a.m.,,883,sched_arr_time,1
+9:43 a.m.,,880,sched_arr_time,1
+4:48 p.m.,,879,sched_arr_time,1
+9:24 a.m.,,877,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Fri 02-Dec-2011,873,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Fri 02-Dec-2011,872,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Fri 02-Dec-2011,871,sched_arr_time,1
+4:17 p.m.,,870,sched_arr_time,1
+2:59 p.m.,,867,sched_arr_time,1
+10:31 a.m.,,866,sched_arr_time,1
+6:44 p.m.,,865,sched_arr_time,1
+7:35 p.m.,,863,sched_arr_time,1
+8:05 p.m.,,861,sched_arr_time,1
+7:53 p.m.,,857,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Fri 02-Dec-2011,856,sched_arr_time,1
+4:00 p.m.,,852,sched_arr_time,1
+5:15 p.m.,,851,sched_arr_time,1
+8:56 p.m.,,849,sched_arr_time,1
+8:22 p.m.,,848,sched_arr_time,1
+2:00 p.m.,,845,sched_arr_time,1
+3:19 p.m.,,844,sched_arr_time,1
+1:39 p.m.,,843,sched_arr_time,1
+10:54 a.m.,,840,sched_arr_time,1
+10:20 a.m.,,839,sched_arr_time,1
+1:17 p.m.,,836,sched_arr_time,1
+5:00 p.m.,,834,sched_arr_time,1
+11:35 a.m.,,833,sched_arr_time,1
+7:03 p.m.,,832,sched_arr_time,1
+2:20 p.m.,,831,sched_arr_time,1
+10:06 a.m.,,828,sched_arr_time,1
+1:16 p.m.,,826,sched_arr_time,1
+9:21 a.m.,,825,sched_arr_time,1
+5:35 a.m.,,823,sched_arr_time,1
+7:23 a.m.,,822,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Fri 02-Dec-2011,821,sched_arr_time,1
+11:19 a.m.,,820,sched_arr_time,1
+2:50 p.m.,,819,sched_arr_time,1
+9:54 a.m.,,815,sched_arr_time,1
+10:15 p.m.,,812,sched_arr_time,1
+12:18 p.m.,Thu 12:18,810,sched_arr_time,1
+10:35 a.m.,Thu 10:35,809,sched_arr_time,1
+9:45 p.m.,,808,sched_arr_time,1
+6:55 a.m.,Thu 6:55,807,sched_arr_time,1
+7:45 a.m.,Thu 7:45,806,sched_arr_time,1
+7:25 p.m.,Thu 19:25,805,sched_arr_time,1
+5:55 p.m.,Thu 17:55,804,sched_arr_time,1
+10:15 p.m.,Thu 22:15,803,sched_arr_time,1
+7:55 p.m.,,802,sched_arr_time,1
+2:59 p.m.,,801,sched_arr_time,1
+3:50 p.m.,,800,sched_arr_time,1
+11:50 p.m.,,799,sched_arr_time,1
+2:35 p.m.,,798,sched_arr_time,1
+3:19 p.m.,,797,sched_arr_time,1
+11:10 a.m.,11:10A 12-01-11,796,sched_arr_time,1
+9:20 a.m.,9:20A 12-01-11,795,sched_arr_time,1
+7:55 p.m.,7:55P 12-01-11,794,sched_arr_time,1
+10:34 a.m.,10:34A 12-01-11,793,sched_arr_time,1
+2:45 p.m.,2:45P 12-01-11,792,sched_arr_time,1
+10:45 a.m.,,791,sched_arr_time,1
+6:40 a.m.,,790,sched_arr_time,1
+7:45 a.m.,,789,sched_arr_time,1
+12:55 p.m.,,788,sched_arr_time,1
+3:30 p.m.,,787,sched_arr_time,1
+2:35 p.m.,,786,sched_arr_time,1
+2:15 p.m.,,785,sched_arr_time,1
+9:43 a.m.,,784,sched_arr_time,1
+12:29 a.m.,12/2/2011 12:29 a.m.,783,sched_arr_time,1
+11:35 a.m.,,782,sched_arr_time,1
+4:05 p.m.,,781,sched_arr_time,1
+11:35 a.m.,,780,sched_arr_time,1
+5:11 a.m.,,778,sched_arr_time,1
+9:24 a.m.,,776,sched_arr_time,1
+11:50 a.m.,,775,sched_arr_time,1
+10:34 a.m.,,774,sched_arr_time,1
+12:15 a.m.,12/2/2011 12:15 a.m.,772,sched_arr_time,1
+5:50 a.m.,12/2/2011 5:50 a.m.,771,sched_arr_time,1
+4:17 p.m.,,770,sched_arr_time,1
+4:31 p.m.,,769,sched_arr_time,1
+2:20 p.m.,,768,sched_arr_time,1
+9:45 p.m.,,767,sched_arr_time,1
+7:35 p.m.,,766,sched_arr_time,1
+11:10 a.m.,,765,sched_arr_time,1
+8:05 p.m.,,764,sched_arr_time,1
+9:35 a.m.,,763,sched_arr_time,1
+7:30 a.m.,,762,sched_arr_time,1
+12:18 p.m.,,761,sched_arr_time,1
+3:15 p.m.,,760,sched_arr_time,1
+9:10 p.m.,,759,sched_arr_time,1
+10:35 a.m.,,758,sched_arr_time,1
+4:00 p.m.,,757,sched_arr_time,1
+5:15 p.m.,4:52 p.m.,756,sched_arr_time,1
+2:45 p.m.,,755,sched_arr_time,1
+2:25 p.m.,,754,sched_arr_time,1
+6:15 p.m.,,753,sched_arr_time,1
+2:00 p.m.,,752,sched_arr_time,1
+3:19 p.m.,,751,sched_arr_time,1
+2:35 p.m.,,750,sched_arr_time,1
+8:00 a.m.,,749,sched_arr_time,1
+12:10 p.m.,,748,sched_arr_time,1
+11:05 a.m.,,747,sched_arr_time,1
+9:20 a.m.,,746,sched_arr_time,1
+1:17 p.m.,,745,sched_arr_time,1
+3:50 p.m.,,744,sched_arr_time,1
+12:35 p.m.,,743,sched_arr_time,1
+7:55 p.m.,,742,sched_arr_time,1
+9:55 a.m.,,741,sched_arr_time,1
+2:45 p.m.,,740,sched_arr_time,1
+5:35 a.m.,,739,sched_arr_time,1
+7:23 a.m.,,738,sched_arr_time,1
+6:55 a.m.,12/2/2011 6:55 a.m.,737,sched_arr_time,1
+11:19 a.m.,,736,sched_arr_time,1
+5:25 p.m.,,735,sched_arr_time,1
+9:54 a.m.,,733,sched_arr_time,1
+11:55 a.m.,,732,sched_arr_time,1
+10:15 p.m.,,731,sched_arr_time,1
+10:30 p.m.,,730,sched_arr_time,1
+9:40 a.m.,,729,sched_arr_time,1
+4:49 p.m.,,721,sched_arr_time,1
+5:25 p.m.,,717,sched_arr_time,1
+10:40 a.m.,,714,sched_arr_time,1
+11:53 a.m.,,712,sched_arr_time,1
+11:45 a.m.,,706,sched_arr_time,1
+7:03 p.m.,,705,sched_arr_time,1
+4:53 p.m.,,704,sched_arr_time,1
+9:20 p.m.,,703,sched_arr_time,1
+1:40 p.m.,,702,sched_arr_time,1
+8:27 a.m.,,701,sched_arr_time,1
+5:11 a.m.,5:11 a.m.Dec 02,699,sched_arr_time,1
+9:43 a.m.,,698,sched_arr_time,1
+4:48 p.m.,,697,sched_arr_time,1
+9:24 a.m.,,695,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Dec 02,691,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Dec 02,690,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Dec 02,689,sched_arr_time,1
+4:17 p.m.,,688,sched_arr_time,1
+10:31 a.m.,,684,sched_arr_time,1
+6:44 p.m.,,683,sched_arr_time,1
+7:35 p.m.,,681,sched_arr_time,1
+8:05 p.m.,,679,sched_arr_time,1
+7:53 p.m.,,675,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Dec 02,674,sched_arr_time,1
+4:00 p.m.,,670,sched_arr_time,1
+5:15 p.m.,,669,sched_arr_time,1
+8:56 p.m.,,667,sched_arr_time,1
+8:22 p.m.,,666,sched_arr_time,1
+2:00 p.m.,,663,sched_arr_time,1
+3:19 p.m.,,662,sched_arr_time,1
+1:39 p.m.,,661,sched_arr_time,1
+10:54 a.m.,,658,sched_arr_time,1
+10:20 a.m.,,657,sched_arr_time,1
+1:17 p.m.,,654,sched_arr_time,1
+5:00 p.m.,,652,sched_arr_time,1
+11:35 a.m.,,651,sched_arr_time,1
+7:03 p.m.,,650,sched_arr_time,1
+2:20 p.m.,,649,sched_arr_time,1
+10:06 a.m.,,646,sched_arr_time,1
+1:16 p.m.,,644,sched_arr_time,1
+9:21 a.m.,,643,sched_arr_time,1
+5:35 a.m.,,641,sched_arr_time,1
+7:23 a.m.,,640,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Dec 02,639,sched_arr_time,1
+11:19 a.m.,,638,sched_arr_time,1
+2:50 p.m.,,637,sched_arr_time,1
+9:54 a.m.,,633,sched_arr_time,1
+10:15 p.m.,,630,sched_arr_time,1
+4:49 p.m.,,529,sched_arr_time,1
+5:25 p.m.,,525,sched_arr_time,1
+10:40 a.m.,,522,sched_arr_time,1
+11:53 a.m.,,520,sched_arr_time,1
+11:45 a.m.,,514,sched_arr_time,1
+7:03 p.m.,,513,sched_arr_time,1
+4:53 p.m.,,512,sched_arr_time,1
+9:20 p.m.,,511,sched_arr_time,1
+1:40 p.m.,,510,sched_arr_time,1
+8:27 a.m.,,509,sched_arr_time,1
+5:11 a.m.,5:11 a.m.Dec 02,507,sched_arr_time,1
+9:43 a.m.,,506,sched_arr_time,1
+4:48 p.m.,,505,sched_arr_time,1
+9:24 a.m.,,503,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Dec 02,499,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Dec 02,498,sched_arr_time,1
+5:50 a.m.,5:50 a.m. Dec 02,497,sched_arr_time,1
+4:17 p.m.,,496,sched_arr_time,1
+10:31 a.m.,,492,sched_arr_time,1
+6:44 p.m.,,491,sched_arr_time,1
+7:35 p.m.,,489,sched_arr_time,1
+8:05 p.m.,,487,sched_arr_time,1
+7:53 p.m.,,483,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Dec 02,482,sched_arr_time,1
+4:00 p.m.,,478,sched_arr_time,1
+5:15 p.m.,,477,sched_arr_time,1
+8:56 p.m.,,475,sched_arr_time,1
+8:22 p.m.,,474,sched_arr_time,1
+2:00 p.m.,,471,sched_arr_time,1
+3:19 p.m.,,470,sched_arr_time,1
+1:39 p.m.,,469,sched_arr_time,1
+10:54 a.m.,,466,sched_arr_time,1
+10:20 a.m.,,465,sched_arr_time,1
+1:17 p.m.,,462,sched_arr_time,1
+5:00 p.m.,,460,sched_arr_time,1
+11:35 a.m.,,459,sched_arr_time,1
+7:03 p.m.,,458,sched_arr_time,1
+2:20 p.m.,,457,sched_arr_time,1
+10:06 a.m.,,454,sched_arr_time,1
+1:16 p.m.,,452,sched_arr_time,1
+9:21 a.m.,,451,sched_arr_time,1
+5:35 a.m.,,449,sched_arr_time,1
+7:23 a.m.,,448,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Dec 02,447,sched_arr_time,1
+11:19 a.m.,,446,sched_arr_time,1
+2:50 p.m.,,445,sched_arr_time,1
+9:54 a.m.,,441,sched_arr_time,1
+10:15 p.m.,,438,sched_arr_time,1
+3:30 p.m.,,436,sched_arr_time,1
+10:45 a.m.,,435,sched_arr_time,1
+6:40 a.m.,,434,sched_arr_time,1
+7:45 a.m.,,432,sched_arr_time,1
+12:55 p.m.,,431,sched_arr_time,1
+6:17 p.m.,,430,sched_arr_time,1
+2:25 p.m.,,428,sched_arr_time,1
+6:40 p.m.,,427,sched_arr_time,1
+8:00 a.m.,,426,sched_arr_time,1
+6:30 p.m.,,425,sched_arr_time,1
+10:40 a.m.,,424,sched_arr_time,1
+2:35 p.m.,,423,sched_arr_time,1
+11:05 a.m.,,421,sched_arr_time,1
+2:15 p.m.,,420,sched_arr_time,1
+11:35 a.m.,,419,sched_arr_time,1
+5:55 p.m.,,418,sched_arr_time,1
+4:05 p.m.,,417,sched_arr_time,1
+4:53 p.m.,,414,sched_arr_time,1
+9:20 p.m.,,413,sched_arr_time,1
+1:40 p.m.,,412,sched_arr_time,1
+8:27 a.m.,,411,sched_arr_time,1
+6:40 p.m.,,410,sched_arr_time,1
+5:11 a.m.,12/2/11 5:11 a.m.,409,sched_arr_time,1
+9:43 a.m.,,408,sched_arr_time,1
+3:50 p.m.,,406,sched_arr_time,1
+9:24 a.m.,,405,sched_arr_time,1
+11:50 a.m.,,404,sched_arr_time,1
+10:34 a.m.,,403,sched_arr_time,1
+11:50 p.m.,,402,sched_arr_time,1
+12:15 a.m.,,401,sched_arr_time,1
+12:29 a.m.,,400,sched_arr_time,1
+5:50 a.m.,,399,sched_arr_time,1
+2:45 p.m.,,397,sched_arr_time,1
+4:31 p.m.,,396,sched_arr_time,1
+2:59 p.m.,,395,sched_arr_time,1
+10:31 a.m.,,394,sched_arr_time,1
+9:45 p.m.,,392,sched_arr_time,1
+7:35 p.m.,,391,sched_arr_time,1
+6:23 p.m.,,390,sched_arr_time,1
+11:10 a.m.,,389,sched_arr_time,1
+8:05 p.m.,,388,sched_arr_time,1
+9:35 a.m.,,387,sched_arr_time,1
+7:30 a.m.,,386,sched_arr_time,1
+7:53 p.m.,,384,sched_arr_time,1
+12:21 a.m.,12/2/11 12:21 a.m.,383,sched_arr_time,1
+3:15 p.m.,,382,sched_arr_time,1
+9:10 p.m.,,381,sched_arr_time,1
+7:25 p.m.,,380,sched_arr_time,1
+10:35 a.m.,,379,sched_arr_time,1
+5:15 p.m.,,377,sched_arr_time,1
+2:45 p.m.,,376,sched_arr_time,1
+1:45 p.m.,,373,sched_arr_time,1
+6:15 p.m.,,372,sched_arr_time,1
+2:00 p.m.,,371,sched_arr_time,1
+3:19 p.m.,,370,sched_arr_time,1
+1:39 p.m.,,369,sched_arr_time,1
+2:35 p.m.,,368,sched_arr_time,1
+12:10 p.m.,,367,sched_arr_time,1
+4:57 p.m.,,364,sched_arr_time,1
+9:20 a.m.,,363,sched_arr_time,1
+3:50 p.m.,,361,sched_arr_time,1
+5:00 p.m.,,360,sched_arr_time,1
+2:20 p.m.,,357,sched_arr_time,1
+7:55 p.m.,,356,sched_arr_time,1
+9:55 a.m.,,355,sched_arr_time,1
+10:06 a.m.,,354,sched_arr_time,1
+12:35 p.m.,,353,sched_arr_time,1
+6:46 p.m.,,350,sched_arr_time,1
+7:23 a.m.,,348,sched_arr_time,1
+6:55 a.m.,,347,sched_arr_time,1
+11:19 a.m.,,346,sched_arr_time,1
+5:25 p.m.,,345,sched_arr_time,1
+5:05 p.m.,,343,sched_arr_time,1
+10:30 p.m.,,342,sched_arr_time,1
+9:54 a.m.,,341,sched_arr_time,1
+11:55 a.m.,,340,sched_arr_time,1
+9:25 a.m.,,339,sched_arr_time,1
+9:40 a.m.,,337,sched_arr_time,1
+4:49 p.m.,,242,sched_arr_time,1
+5:25 p.m.,,238,sched_arr_time,1
+10:40 a.m.,,235,sched_arr_time,1
+11:53 a.m.,,233,sched_arr_time,1
+11:45 a.m.,,227,sched_arr_time,1
+7:03 p.m.,,226,sched_arr_time,1
+4:53 p.m.,,225,sched_arr_time,1
+9:20 p.m.,,224,sched_arr_time,1
+1:40 p.m.,,223,sched_arr_time,1
+8:27 a.m.,,222,sched_arr_time,1
+6:40 p.m.,6:09 p.m.,221,sched_arr_time,1
+5:11 a.m.,5:11 a.m.Dec 02,220,sched_arr_time,1
+9:43 a.m.,,219,sched_arr_time,1
+4:48 p.m.,,218,sched_arr_time,1
+9:24 a.m.,,216,sched_arr_time,1
+12:15 a.m.,12:15 a.m. Dec 02,212,sched_arr_time,1
+12:29 a.m.,12:29 a.m. Dec 02,211,sched_arr_time,1
+5:50 a.m.,5:50 a.m.Dec 02,210,sched_arr_time,1
+4:17 p.m.,,209,sched_arr_time,1
+10:31 a.m.,,205,sched_arr_time,1
+6:44 p.m.,,204,sched_arr_time,1
+7:35 p.m.,,202,sched_arr_time,1
+8:05 p.m.,,200,sched_arr_time,1
+7:53 p.m.,,196,sched_arr_time,1
+12:21 a.m.,12:21 a.m. Dec 02,195,sched_arr_time,1
+4:00 p.m.,,191,sched_arr_time,1
+5:15 p.m.,4:52 p.m.,190,sched_arr_time,1
+8:56 p.m.,,188,sched_arr_time,1
+8:22 p.m.,,187,sched_arr_time,1
+2:00 p.m.,,184,sched_arr_time,1
+3:19 p.m.,,183,sched_arr_time,1
+1:39 p.m.,,182,sched_arr_time,1
+10:54 a.m.,,179,sched_arr_time,1
+10:20 a.m.,,178,sched_arr_time,1
+1:17 p.m.,,175,sched_arr_time,1
+5:00 p.m.,,173,sched_arr_time,1
+11:35 a.m.,,172,sched_arr_time,1
+7:03 p.m.,,171,sched_arr_time,1
+2:20 p.m.,,170,sched_arr_time,1
+10:06 a.m.,,167,sched_arr_time,1
+1:16 p.m.,,165,sched_arr_time,1
+9:21 a.m.,,164,sched_arr_time,1
+5:35 a.m.,,162,sched_arr_time,1
+7:23 a.m.,,161,sched_arr_time,1
+6:55 a.m.,6:55 a.m. Dec 02,160,sched_arr_time,1
+11:19 a.m.,,159,sched_arr_time,1
+2:50 p.m.,,158,sched_arr_time,1
+9:54 a.m.,,154,sched_arr_time,1
+10:15 p.m.,,151,sched_arr_time,1
+3:30 p.m.,,149,sched_arr_time,1
+10:45 a.m.,,148,sched_arr_time,1
+6:40 a.m.,,147,sched_arr_time,1
+7:45 a.m.,,145,sched_arr_time,1
+12:55 p.m.,,144,sched_arr_time,1
+6:17 p.m.,,143,sched_arr_time,1
+2:25 p.m.,,141,sched_arr_time,1
+6:40 p.m.,,140,sched_arr_time,1
+8:00 a.m.,,139,sched_arr_time,1
+6:30 p.m.,,138,sched_arr_time,1
+10:40 a.m.,,137,sched_arr_time,1
+2:35 p.m.,,136,sched_arr_time,1
+11:05 a.m.,,134,sched_arr_time,1
+2:15 p.m.,,133,sched_arr_time,1
+11:35 a.m.,,132,sched_arr_time,1
+5:55 p.m.,,131,sched_arr_time,1
+4:05 p.m.,,130,sched_arr_time,1
+4:53 p.m.,,127,sched_arr_time,1
+9:20 p.m.,,126,sched_arr_time,1
+1:40 p.m.,,125,sched_arr_time,1
+8:27 a.m.,,124,sched_arr_time,1
+6:40 p.m.,,123,sched_arr_time,1
+5:11 a.m.,12/2/11 5:11 a.m.,122,sched_arr_time,1
+9:43 a.m.,,121,sched_arr_time,1
+3:50 p.m.,,119,sched_arr_time,1
+9:24 a.m.,,118,sched_arr_time,1
+11:50 a.m.,,117,sched_arr_time,1
+10:34 a.m.,,116,sched_arr_time,1
+11:50 p.m.,,115,sched_arr_time,1
+12:15 a.m.,,114,sched_arr_time,1
+12:29 a.m.,,113,sched_arr_time,1
+5:50 a.m.,,112,sched_arr_time,1
+2:45 p.m.,,110,sched_arr_time,1
+4:31 p.m.,,109,sched_arr_time,1
+2:59 p.m.,,108,sched_arr_time,1
+10:31 a.m.,,107,sched_arr_time,1
+9:45 p.m.,,105,sched_arr_time,1
+7:35 p.m.,,104,sched_arr_time,1
+6:23 p.m.,,103,sched_arr_time,1
+11:10 a.m.,,102,sched_arr_time,1
+8:05 p.m.,,101,sched_arr_time,1
+9:35 a.m.,,100,sched_arr_time,1
+7:30 a.m.,,99,sched_arr_time,1
+7:53 p.m.,,97,sched_arr_time,1
+12:21 a.m.,12/2/11 12:21 a.m.,96,sched_arr_time,1
+3:15 p.m.,,95,sched_arr_time,1
+9:10 p.m.,,94,sched_arr_time,1
+7:25 p.m.,,93,sched_arr_time,1
+10:35 a.m.,,92,sched_arr_time,1
+5:15 p.m.,,90,sched_arr_time,1
+2:45 p.m.,,89,sched_arr_time,1
+1:45 p.m.,,86,sched_arr_time,1
+6:15 p.m.,,85,sched_arr_time,1
+2:00 p.m.,,84,sched_arr_time,1
+3:19 p.m.,,83,sched_arr_time,1
+1:39 p.m.,,82,sched_arr_time,1
+2:35 p.m.,,81,sched_arr_time,1
+12:10 p.m.,,80,sched_arr_time,1
+4:57 p.m.,,77,sched_arr_time,1
+9:20 a.m.,,76,sched_arr_time,1
+3:50 p.m.,,74,sched_arr_time,1
+5:00 p.m.,,73,sched_arr_time,1
+2:20 p.m.,,70,sched_arr_time,1
+7:55 p.m.,,69,sched_arr_time,1
+9:55 a.m.,,68,sched_arr_time,1
+10:06 a.m.,,67,sched_arr_time,1
+12:35 p.m.,,66,sched_arr_time,1
+6:46 p.m.,,63,sched_arr_time,1
+7:23 a.m.,,61,sched_arr_time,1
+6:55 a.m.,,60,sched_arr_time,1
+11:19 a.m.,,59,sched_arr_time,1
+5:25 p.m.,,58,sched_arr_time,1
+5:05 p.m.,,56,sched_arr_time,1
+10:30 p.m.,,55,sched_arr_time,1
+9:54 a.m.,,54,sched_arr_time,1
+11:55 a.m.,,53,sched_arr_time,1
+9:25 a.m.,,52,sched_arr_time,1
+9:40 a.m.,,50,sched_arr_time,1
+12:15 a.m.,12/02/2011 12:15 a.m.,32,sched_arr_time,1
+5:50 a.m.,12/02/2011 5:50 a.m.,31,sched_arr_time,1
+6:55 a.m.,12/02/2011 6:55 a.m.,5,sched_arr_time,1
+11:55 a.m.,11:43 a.m.,2371,act_dep_time,1
+1:30 p.m.,1:41 p.m. (Estimated runway),2362,act_dep_time,1
+8:25 p.m.,8:29 p.m. (Estimated runway),2358,act_dep_time,1
+9:00 p.m.,9:06 p.m. (Estimated runway),2357,act_dep_time,1
+4:25 p.m.,4:28 p.m. (Estimated runway),2356,act_dep_time,1
+11:55 p.m.,12:10 a.m. (Estimated runway),2355,act_dep_time,1
+3:11 a.m.,11:51 a.m.,2342,act_dep_time,1
+4:00 p.m.,3:58 p.m.,2329,act_dep_time,1
+11:25 p.m.,11:29 p.m. (Estimated runway),2328,act_dep_time,1
+3:27 p.m.,3:28 p.m.,2327,act_dep_time,1
+7:15 p.m.,7:15 p.m. (Estimated),2326,act_dep_time,1
+6:30 p.m.,6:47 p.m. (Estimated runway),2325,act_dep_time,1
+3:58 p.m.,4:14 p.m.,2318,act_dep_time,1
+10:54 a.m.,10:55 a.m.,2317,act_dep_time,1
+7:31 a.m.,7:32 a.m.,2315,act_dep_time,1
+7:22 a.m.,7:23 a.m.,2310,act_dep_time,1
+8:39 p.m.,8:40 p.m.,2307,act_dep_time,1
+5:30 p.m.,6:11 p.m.,2306,act_dep_time,1
+11:08 p.m.,11:35 p.m.,2305,act_dep_time,1
+1:30 p.m.,1:40 p.m.,2304,act_dep_time,1
+8:25 p.m.,8:29 p.m.,2301,act_dep_time,1
+9:00 p.m.,9:16 p.m.,2300,act_dep_time,1
+4:25 p.m.,4:35 p.m.,2299,act_dep_time,1
+1:48 p.m.,2:01 p.m.,2298,act_dep_time,1
+1:31 p.m.,1:48 p.m.,2297,act_dep_time,1
+4:28 p.m.,4:45 p.m.,2294,act_dep_time,1
+7:30 a.m.,7:31 a.m.,2292,act_dep_time,1
+9:14 a.m.,9:57 a.m.,2290,act_dep_time,1
+7:15 p.m.,7:25 p.m.,2289,act_dep_time,1
+12:11 p.m.,12:12 p.m.,2288,act_dep_time,1
+6:55 p.m.,6:56 p.m.,2287,act_dep_time,1
+6:30 p.m.,6:47 p.m.,2286,act_dep_time,1
+8:25 p.m.,7:27 p.m.,2281,act_dep_time,1
+5:22 p.m.,5:38 p.m.,2279,act_dep_time,1
+3:11 a.m.,12:07 p.m.,2278,act_dep_time,1
+2:26 p.m.,2:42 p.m.,2277,act_dep_time,1
+12:35 p.m.,12:56 p.m.,2276,act_dep_time,1
+12:41 p.m.,12:42 p.m.,2275,act_dep_time,1
+10:18 a.m.,10:19 a.m.,2271,act_dep_time,1
+8:04 a.m.,8:05 a.m.,2270,act_dep_time,1
+11:30 a.m.,11:45 a.m.,2269,act_dep_time,1
+11:56 a.m.,12:06 p.m.,2267,act_dep_time,1
+12:12 p.m.,12:13 p.m.,2266,act_dep_time,1
+7:29 a.m.,7:56 a.m.,2262,act_dep_time,1
+4:00 p.m.,4:10 p.m.,2261,act_dep_time,1
+11:25 p.m.,11:57 p.m.,2260,act_dep_time,1
+7:58 p.m.,7:59 p.m.,2259,act_dep_time,1
+8:42 a.m.,8:51 a.m.,2258,act_dep_time,1
+7:14 p.m.,7:42 p.m.,2257,act_dep_time,1
+7:31 a.m.,7:32 a.m.,2254,act_dep_time,1
+7:39 a.m.,7:40 a.m.,2253,act_dep_time,1
+6:10 a.m.,6:11 a.m.,2252,act_dep_time,1
+3:58 p.m.,4:15 p.m.,2251,act_dep_time,1
+6:57 a.m.,6:58 a.m.,2250,act_dep_time,1
+10:54 a.m.,10:55 a.m.,2249,act_dep_time,1
+3:31 p.m.,4:02 p.m.,2247,act_dep_time,1
+7:39 a.m.,7:40 a.m.,2246,act_dep_time,1
+11:40 a.m.,11:41 a.m.,2243,act_dep_time,1
+3:36 p.m.,3:38 p.m.,2241,act_dep_time,1
+1:19 p.m.,1:20 p.m.,2239,act_dep_time,1
+8:52 a.m.,9:05 a.m.,2238,act_dep_time,1
+8:04 a.m.,8:05 a.m.,2237,act_dep_time,1
+12:10 p.m.,12:11 p.m.,2236,act_dep_time,1
+7:22 a.m.,7:23 a.m.,2235,act_dep_time,1
+3:27 p.m.,3:28 p.m.,2234,act_dep_time,1
+9:16 a.m.,9:43 a.m.,2232,act_dep_time,1
+2:48 p.m.,2:59 p.m.,2231,act_dep_time,1
+2:55 p.m.,3:04 p.m.,2230,act_dep_time,1
+8:39 p.m.,8:40 p.m.,2229,act_dep_time,1
+11:15 a.m.,11:47 a.m.,2228,act_dep_time,1
+1:32 p.m.,1:45 p.m.,2227,act_dep_time,1
+5:30 p.m.,,2226,act_dep_time,1
+11:08 p.m.,,2225,act_dep_time,1
+7:27 a.m.,7:41 a.m.,2224,act_dep_time,1
+3:01 p.m.,3:17 p.m.,2223,act_dep_time,1
+1:30 p.m.,,2222,act_dep_time,1
+8:26 a.m.,8:37 a.m.,2221,act_dep_time,1
+8:51 a.m.,8:52 a.m.,2220,act_dep_time,1
+7:22 a.m.,7:23 a.m.,2219,act_dep_time,1
+8:25 p.m.,,2218,act_dep_time,1
+9:00 p.m.,,2217,act_dep_time,1
+4:25 p.m.,,2216,act_dep_time,1
+11:55 p.m.,,2215,act_dep_time,1
+1:48 p.m.,2:01 p.m.,2214,act_dep_time,1
+12:41 p.m.,12:42 p.m.,2213,act_dep_time,1
+1:31 p.m.,1:48 p.m.,2212,act_dep_time,1
+11:01 a.m.,11:02 a.m.,2211,act_dep_time,1
+7:05 a.m.,7:31 a.m.,2210,act_dep_time,1
+10:20 a.m.,10:37 a.m.,2209,act_dep_time,1
+4:15 p.m.,4:37 p.m.,2207,act_dep_time,1
+4:28 p.m.,4:46 p.m.,2206,act_dep_time,1
+5:08 p.m.,5:09 p.m.,2205,act_dep_time,1
+7:30 a.m.,7:31 a.m.,2204,act_dep_time,1
+6:56 a.m.,6:57 a.m.,2203,act_dep_time,1
+9:14 a.m.,9:58 a.m.,2202,act_dep_time,1
+2:10 p.m.,2:38 p.m.,2201,act_dep_time,1
+7:15 p.m.,,2200,act_dep_time,1
+6:55 p.m.,6:56 p.m.,2199,act_dep_time,1
+6:30 p.m.,,2198,act_dep_time,1
+7:21 a.m.,7:22 a.m.,2197,act_dep_time,1
+1:32 p.m.,1:43 p.m.,2195,act_dep_time,1
+11:05 a.m.,11:06 a.m.,2194,act_dep_time,1
+8:25 p.m.,8:36 p.m.,2193,act_dep_time,1
+5:22 p.m.,5:38 p.m.,2192,act_dep_time,1
+3:11 a.m.,12:08 p.m.,2191,act_dep_time,1
+2:26 p.m.,2:43 p.m.,2190,act_dep_time,1
+12:13 p.m.,12:14 p.m.,2189,act_dep_time,1
+12:35 p.m.,12:56 p.m.,2188,act_dep_time,1
+7:49 a.m.,8:07 a.m.,2187,act_dep_time,1
+10:18 a.m.,10:19 a.m.,2185,act_dep_time,1
+8:40 a.m.,9:01 a.m.,2184,act_dep_time,1
+6:02 a.m.,6:17 a.m.,2183,act_dep_time,1
+11:30 a.m.,11:45 a.m.,2182,act_dep_time,1
+6:08 a.m.,6:09 a.m.,2181,act_dep_time,1
+11:56 a.m.,12:06 p.m.,2180,act_dep_time,1
+12:12 p.m.,12:13 p.m.,2179,act_dep_time,1
+2:55 p.m.,3:04 p.m.,2178,act_dep_time,1
+8:00 a.m.,8:18 a.m.,2177,act_dep_time,1
+2:48 p.m.,2:59 p.m.,2176,act_dep_time,1
+4:29 p.m.,4:30 p.m.,2174,act_dep_time,1
+8:12 a.m.,8:26 a.m.,2172,act_dep_time,1
+10:10 a.m.,10:11 a.m.,2171,act_dep_time,1
+10:19 a.m.,10:35 a.m.,2170,act_dep_time,1
+7:29 a.m.,7:56 a.m.,2169,act_dep_time,1
+4:00 p.m.,4:10 p.m.,2168,act_dep_time,1
+12:41 a.m.,12:58 a.m.,2167,act_dep_time,1
+5:56 a.m.,6:10 a.m.,2166,act_dep_time,1
+11:25 p.m.,,2165,act_dep_time,1
+10:33 a.m.,10:53 a.m.,2164,act_dep_time,1
+11:32 a.m.,12:37 p.m.,2163,act_dep_time,1
+3:27 p.m.,3:50 p.m.,2162,act_dep_time,1
+12:11 p.m.,12:12 p.m.,2161,act_dep_time,1
+7:58 p.m.,7:59 p.m.,2160,act_dep_time,1
+8:42 a.m.,9:01 a.m.,2159,act_dep_time,1
+8:29 a.m.,8:49 a.m.,2158,act_dep_time,1
+7:14 p.m.,7:42 p.m.,2156,act_dep_time,1
+1:19 p.m.,,2154,act_dep_time,1
+4:15 p.m.,,2153,act_dep_time,1
+9:00 p.m.,,2152,act_dep_time,1
+11:56 a.m.,,2151,act_dep_time,1
+11:32 a.m.,,2150,act_dep_time,1
+11:55 a.m.,11:43 a.m.,2143,act_dep_time,1
+2:55 p.m.,2:52 p.m.,2125,act_dep_time,1
+5:30 p.m.,,2121,act_dep_time,1
+11:08 p.m.,,2120,act_dep_time,1
+1:30 p.m.,,2117,act_dep_time,1
+8:25 p.m.,,2113,act_dep_time,1
+9:00 p.m.,,2112,act_dep_time,1
+4:25 p.m.,,2111,act_dep_time,1
+11:55 p.m.,,2110,act_dep_time,1
+7:05 a.m.,7:07 a.m.,2105,act_dep_time,1
+7:15 p.m.,,2095,act_dep_time,1
+6:30 p.m.,,2093,act_dep_time,1
+3:11 a.m.,11:51 a.m.,2086,act_dep_time,1
+2:55 p.m.,2:46 p.m.,2073,act_dep_time,1
+4:00 p.m.,3:58 p.m.,2063,act_dep_time,1
+11:25 p.m.,,2060,act_dep_time,1
+3:27 p.m.,3:28 p.m.,2057,act_dep_time,1
+7:58 p.m.,,2055,act_dep_time,1
+7:31 a.m.,7:32 a.m.,2049,act_dep_time,1
+7:39 a.m.,7:40 a.m.,2048,act_dep_time,1
+6:10 a.m.,6:11 a.m.,2047,act_dep_time,1
+3:58 p.m.,4:15 p.m.,2046,act_dep_time,1
+6:57 a.m.,6:58 a.m.,2045,act_dep_time,1
+10:54 a.m.,10:55 a.m.,2044,act_dep_time,1
+3:31 p.m.,4:02 p.m.,2042,act_dep_time,1
+7:39 a.m.,7:40 a.m.,2041,act_dep_time,1
+11:40 a.m.,11:41 a.m.,2038,act_dep_time,1
+3:36 p.m.,3:38 p.m.,2036,act_dep_time,1
+1:19 p.m.,1:20 p.m.,2034,act_dep_time,1
+8:52 a.m.,9:05 a.m.,2033,act_dep_time,1
+8:04 a.m.,8:05 a.m.,2032,act_dep_time,1
+12:10 p.m.,12:11 p.m.,2031,act_dep_time,1
+7:22 a.m.,7:23 a.m.,2030,act_dep_time,1
+3:27 p.m.,3:28 p.m.,2029,act_dep_time,1
+9:16 a.m.,9:43 a.m.,2027,act_dep_time,1
+2:48 p.m.,2:59 p.m.,2026,act_dep_time,1
+2:55 p.m.,3:04 p.m.,2025,act_dep_time,1
+8:39 p.m.,8:40 p.m.,2024,act_dep_time,1
+11:15 a.m.,11:47 a.m.,2023,act_dep_time,1
+1:32 p.m.,1:45 p.m.,2022,act_dep_time,1
+5:30 p.m.,,2021,act_dep_time,1
+11:08 p.m.,,2020,act_dep_time,1
+7:27 a.m.,7:41 a.m.,2019,act_dep_time,1
+3:01 p.m.,3:17 p.m.,2018,act_dep_time,1
+1:30 p.m.,,2017,act_dep_time,1
+8:26 a.m.,8:37 a.m.,2016,act_dep_time,1
+8:51 a.m.,8:52 a.m.,2015,act_dep_time,1
+7:22 a.m.,7:23 a.m.,2014,act_dep_time,1
+8:25 p.m.,,2013,act_dep_time,1
+9:00 p.m.,,2012,act_dep_time,1
+4:25 p.m.,,2011,act_dep_time,1
+11:55 p.m.,,2010,act_dep_time,1
+1:48 p.m.,2:01 p.m.,2009,act_dep_time,1
+12:41 p.m.,12:42 p.m.,2008,act_dep_time,1
+1:31 p.m.,1:48 p.m.,2007,act_dep_time,1
+11:01 a.m.,11:02 a.m.,2006,act_dep_time,1
+7:05 a.m.,7:31 a.m.,2005,act_dep_time,1
+10:20 a.m.,10:37 a.m.,2004,act_dep_time,1
+4:15 p.m.,4:37 p.m.,2002,act_dep_time,1
+4:28 p.m.,4:46 p.m.,2001,act_dep_time,1
+5:08 p.m.,5:09 p.m.,2000,act_dep_time,1
+7:30 a.m.,7:31 a.m.,1999,act_dep_time,1
+6:56 a.m.,6:57 a.m.,1998,act_dep_time,1
+9:14 a.m.,9:58 a.m.,1997,act_dep_time,1
+2:10 p.m.,2:38 p.m.,1996,act_dep_time,1
+7:15 p.m.,,1995,act_dep_time,1
+6:55 p.m.,6:56 p.m.,1994,act_dep_time,1
+6:30 p.m.,,1993,act_dep_time,1
+7:21 a.m.,7:22 a.m.,1992,act_dep_time,1
+1:32 p.m.,1:43 p.m.,1990,act_dep_time,1
+11:05 a.m.,11:06 a.m.,1989,act_dep_time,1
+8:25 p.m.,8:36 p.m.,1988,act_dep_time,1
+5:22 p.m.,5:38 p.m.,1987,act_dep_time,1
+3:11 a.m.,12:08 p.m.,1986,act_dep_time,1
+2:26 p.m.,2:43 p.m.,1985,act_dep_time,1
+12:13 p.m.,12:14 p.m.,1984,act_dep_time,1
+12:35 p.m.,12:56 p.m.,1983,act_dep_time,1
+7:49 a.m.,8:07 a.m.,1982,act_dep_time,1
+10:18 a.m.,10:19 a.m.,1980,act_dep_time,1
+8:40 a.m.,9:01 a.m.,1979,act_dep_time,1
+6:02 a.m.,6:17 a.m.,1978,act_dep_time,1
+11:30 a.m.,11:45 a.m.,1977,act_dep_time,1
+6:08 a.m.,6:09 a.m.,1976,act_dep_time,1
+11:56 a.m.,12:06 p.m.,1975,act_dep_time,1
+12:12 p.m.,12:13 p.m.,1974,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1973,act_dep_time,1
+8:00 a.m.,8:18 a.m.,1972,act_dep_time,1
+2:48 p.m.,2:59 p.m.,1971,act_dep_time,1
+4:29 p.m.,4:30 p.m.,1969,act_dep_time,1
+8:12 a.m.,8:26 a.m.,1967,act_dep_time,1
+10:10 a.m.,10:11 a.m.,1966,act_dep_time,1
+10:19 a.m.,10:35 a.m.,1965,act_dep_time,1
+7:29 a.m.,7:56 a.m.,1964,act_dep_time,1
+4:00 p.m.,4:10 p.m.,1963,act_dep_time,1
+12:41 a.m.,12:58 a.m.,1962,act_dep_time,1
+5:56 a.m.,6:10 a.m.,1961,act_dep_time,1
+11:25 p.m.,,1960,act_dep_time,1
+10:33 a.m.,10:53 a.m.,1959,act_dep_time,1
+11:32 a.m.,12:37 p.m.,1958,act_dep_time,1
+3:27 p.m.,3:50 p.m.,1957,act_dep_time,1
+12:11 p.m.,12:12 p.m.,1956,act_dep_time,1
+7:58 p.m.,7:59 p.m.,1955,act_dep_time,1
+8:42 a.m.,9:01 a.m.,1954,act_dep_time,1
+8:29 a.m.,8:49 a.m.,1953,act_dep_time,1
+7:14 p.m.,7:42 p.m.,1951,act_dep_time,1
+11:55 a.m.,11:43 a.m.,1945,act_dep_time,1
+2:55 p.m.,2:52 p.m.,1932,act_dep_time,1
+5:30 p.m.,5:30 p.m. (Estimated),1929,act_dep_time,1
+11:08 p.m.,,1928,act_dep_time,1
+2:55 p.m.,2:46 p.m.,1922,act_dep_time,1
+8:25 p.m.,8:29 p.m. (Estimated runway),1921,act_dep_time,1
+9:00 p.m.,9:06 p.m. (Estimated runway),1920,act_dep_time,1
+4:25 p.m.,4:28 p.m. (Estimated runway),1919,act_dep_time,1
+11:55 p.m.,12:10 a.m. (Estimated runway),1918,act_dep_time,1
+7:05 a.m.,7:07 a.m.,1914,act_dep_time,1
+7:15 p.m.,7:15 p.m. (Estimated),1903,act_dep_time,1
+3:11 a.m.,11:51 a.m.,1893,act_dep_time,1
+4:00 p.m.,3:58 p.m.,1871,act_dep_time,1
+11:25 p.m.,11:29 p.m. (Estimated runway),1868,act_dep_time,1
+3:27 p.m.,3:28 p.m.,1866,act_dep_time,1
+6:30 p.m.,6:47 p.m. (Estimated runway),1865,act_dep_time,1
+11:55 a.m.,11:43 a.m.,1851,act_dep_time,1
+2:55 p.m.,2:52 p.m.,1833,act_dep_time,1
+5:30 p.m.,,1829,act_dep_time,1
+11:08 p.m.,,1828,act_dep_time,1
+1:30 p.m.,,1825,act_dep_time,1
+8:25 p.m.,,1821,act_dep_time,1
+9:00 p.m.,,1820,act_dep_time,1
+4:25 p.m.,,1819,act_dep_time,1
+11:55 p.m.,,1818,act_dep_time,1
+7:05 a.m.,7:07 a.m.,1813,act_dep_time,1
+7:15 p.m.,,1803,act_dep_time,1
+6:30 p.m.,,1801,act_dep_time,1
+3:11 a.m.,11:51 a.m.,1794,act_dep_time,1
+2:55 p.m.,2:46 p.m.,1781,act_dep_time,1
+4:00 p.m.,3:58 p.m.,1771,act_dep_time,1
+11:25 p.m.,,1768,act_dep_time,1
+3:27 p.m.,3:28 p.m.,1765,act_dep_time,1
+7:58 p.m.,,1763,act_dep_time,1
+9:16 a.m.,9:16 a.m. Delayed,1752,act_dep_time,1
+11:08 p.m.,11:08 p.m. On Time,1747,act_dep_time,1
+1:48 p.m.,1:48 p.m. Delayed,1743,act_dep_time,1
+4:28 p.m.,4:28 p.m. Delayed,1739,act_dep_time,1
+1:32 p.m.,1:32 p.m. Delayed,1737,act_dep_time,1
+12:35 p.m.,12:35 p.m. Delayed,1733,act_dep_time,1
+3:58 p.m.,4:14 p.m.,1724,act_dep_time,1
+10:54 a.m.,10:55 a.m.,1723,act_dep_time,1
+7:31 a.m.,7:32 a.m.,1721,act_dep_time,1
+7:22 a.m.,7:23 a.m.,1716,act_dep_time,1
+8:39 p.m.,8:40 p.m.,1713,act_dep_time,1
+5:30 p.m.,6:11 p.m.,1712,act_dep_time,1
+11:08 p.m.,11:35 p.m.,1711,act_dep_time,1
+1:30 p.m.,1:40 p.m.,1710,act_dep_time,1
+8:25 p.m.,8:29 p.m.,1707,act_dep_time,1
+9:00 p.m.,9:16 p.m.,1706,act_dep_time,1
+4:25 p.m.,4:35 p.m.,1705,act_dep_time,1
+1:48 p.m.,2:01 p.m.,1704,act_dep_time,1
+1:31 p.m.,1:48 p.m.,1703,act_dep_time,1
+4:28 p.m.,4:45 p.m.,1700,act_dep_time,1
+7:30 a.m.,7:31 a.m.,1698,act_dep_time,1
+9:14 a.m.,9:57 a.m.,1696,act_dep_time,1
+7:15 p.m.,7:25 p.m.,1695,act_dep_time,1
+12:11 p.m.,12:12 p.m.,1694,act_dep_time,1
+6:55 p.m.,6:56 p.m.,1693,act_dep_time,1
+6:30 p.m.,6:47 p.m.,1692,act_dep_time,1
+8:25 p.m.,7:27 p.m.,1687,act_dep_time,1
+5:22 p.m.,5:38 p.m.,1685,act_dep_time,1
+3:11 a.m.,12:07 p.m.,1684,act_dep_time,1
+2:26 p.m.,2:42 p.m.,1683,act_dep_time,1
+12:35 p.m.,12:56 p.m.,1682,act_dep_time,1
+12:41 p.m.,12:42 p.m.,1681,act_dep_time,1
+10:18 a.m.,10:19 a.m.,1677,act_dep_time,1
+8:04 a.m.,8:05 a.m.,1676,act_dep_time,1
+11:30 a.m.,11:45 a.m.,1675,act_dep_time,1
+11:56 a.m.,12:06 p.m.,1673,act_dep_time,1
+12:12 p.m.,12:13 p.m.,1672,act_dep_time,1
+7:29 a.m.,7:56 a.m.,1668,act_dep_time,1
+4:00 p.m.,4:10 p.m.,1667,act_dep_time,1
+11:25 p.m.,11:57 p.m.,1666,act_dep_time,1
+7:58 p.m.,7:59 p.m.,1665,act_dep_time,1
+8:42 a.m.,8:51 a.m.,1664,act_dep_time,1
+7:14 p.m.,7:42 p.m.,1663,act_dep_time,1
+2:10 p.m.,,1660,act_dep_time,1
+3:36 p.m.,,1659,act_dep_time,1
+8:56 a.m.,,1658,act_dep_time,1
+1:32 p.m.,,1657,act_dep_time,1
+11:05 a.m.,,1656,act_dep_time,1
+11:08 p.m.,,1655,act_dep_time,1
+10:54 a.m.,,1654,act_dep_time,1
+7:58 p.m.,,1653,act_dep_time,1
+12:13 p.m.,,1652,act_dep_time,1
+11:40 a.m.,,1651,act_dep_time,1
+11:55 p.m.,,1650,act_dep_time,1
+4:12 p.m.,,1649,act_dep_time,1
+12:41 p.m.,,1648,act_dep_time,1
+1:31 p.m.,,1647,act_dep_time,1
+8:04 a.m.,,1646,act_dep_time,1
+6:55 p.m.,,1645,act_dep_time,1
+1:19 p.m.,,1644,act_dep_time,1
+4:15 p.m.,,1643,act_dep_time,1
+8:23 p.m.,,1642,act_dep_time,1
+7:22 a.m.,,1641,act_dep_time,1
+2:44 p.m.,,1640,act_dep_time,1
+7:30 a.m.,,1639,act_dep_time,1
+6:56 a.m.,,1638,act_dep_time,1
+7:16 a.m.,,1637,act_dep_time,1
+6:57 a.m.,6:41aDec 1,1636,act_dep_time,1
+4:12 p.m.,3:52 p.m.,1634,act_dep_time,1
+11:40 a.m.,11:20aDec 1,1633,act_dep_time,1
+8:56 a.m.,8:32aDec 1,1632,act_dep_time,1
+7:39 a.m.,7:14aDec 1,1631,act_dep_time,1
+8:52 a.m.,8:52aDec 1,1630,act_dep_time,1
+12:10 p.m.,12:01 p.m.,1629,act_dep_time,1
+7:27 a.m.,7:41 a.m.,1628,act_dep_time,1
+3:27 p.m.,3:00 p.m.,1627,act_dep_time,1
+8:39 p.m.,8:30 p.m.,1626,act_dep_time,1
+11:08 p.m.,,1625,act_dep_time,1
+1:30 p.m.,Not Available,1623,act_dep_time,1
+2:26 p.m.,2:42 p.m.,1622,act_dep_time,1
+8:51 a.m.,8:31aDec 1,1621,act_dep_time,1
+7:22 a.m.,6:56aDec 1,1620,act_dep_time,1
+8:25 p.m.,,1619,act_dep_time,1
+9:00 p.m.,Not Available,1618,act_dep_time,1
+4:25 p.m.,,1617,act_dep_time,1
+6:55 p.m.,6:40 p.m.,1616,act_dep_time,1
+7:05 a.m.,7:07aDec 1,1615,act_dep_time,1
+8:23 p.m.,8:01 p.m.,1614,act_dep_time,1
+7:39 a.m.,7:22aDec 1,1613,act_dep_time,1
+5:08 p.m.,4:56 p.m.,1612,act_dep_time,1
+7:30 a.m.,7:10aDec 1,1611,act_dep_time,1
+6:56 a.m.,5:59aDec 1,1610,act_dep_time,1
+11:52 a.m.,11:33 a.m.,1609,act_dep_time,1
+3:11 a.m.,11:51aDec 1,1607,act_dep_time,1
+12:13 p.m.,11:47aDec 1,1606,act_dep_time,1
+10:10 a.m.,9:59 a.m.,1605,act_dep_time,1
+8:04 a.m.,7:28aDec 1,1603,act_dep_time,1
+10:18 a.m.,10:10 a.m.,1602,act_dep_time,1
+11:30 a.m.,11:30aDec 1,1601,act_dep_time,1
+6:08 a.m.,5:58aDec 1,1600,act_dep_time,1
+11:56 a.m.,11:56aDec 1,1599,act_dep_time,1
+7:25 a.m.,7:04aDec 1,1597,act_dep_time,1
+10:19 a.m.,10:19aDec 1,1596,act_dep_time,1
+4:00 p.m.,3:58 p.m.,1595,act_dep_time,1
+12:41 a.m.,12:41aDec 1,1594,act_dep_time,1
+11:25 p.m.,,1593,act_dep_time,1
+10:33 a.m.,,1592,act_dep_time,1
+3:27 p.m.,Contact Airline,1591,act_dep_time,1
+6:30 p.m.,,1590,act_dep_time,1
+8:42 a.m.,,1589,act_dep_time,1
+7:58 p.m.,7:45 p.m.,1587,act_dep_time,1
+7:31 a.m.,7:32 a.m.,1586,act_dep_time,1
+7:39 a.m.,7:40 a.m.,1585,act_dep_time,1
+6:10 a.m.,6:11 a.m.,1584,act_dep_time,1
+3:58 p.m.,,1583,act_dep_time,1
+6:57 a.m.,6:58 a.m.,1582,act_dep_time,1
+10:54 a.m.,10:55 a.m.,1581,act_dep_time,1
+3:31 p.m.,,1579,act_dep_time,1
+3:36 p.m.,3:38 p.m.,1575,act_dep_time,1
+8:56 a.m.,8:55 a.m.,1574,act_dep_time,1
+1:19 p.m.,1:20 p.m.,1573,act_dep_time,1
+8:52 a.m.,,1572,act_dep_time,1
+12:10 p.m.,12:11 p.m.,1570,act_dep_time,1
+3:27 p.m.,3:28 p.m.,1568,act_dep_time,1
+9:16 a.m.,,1566,act_dep_time,1
+2:48 p.m.,,1565,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1564,act_dep_time,1
+8:39 p.m.,8:40 p.m.,1563,act_dep_time,1
+11:15 a.m.,11:47 a.m.,1562,act_dep_time,1
+1:32 p.m.,1:50 p.m. (+8:00),1561,act_dep_time,1
+5:30 p.m.,5:38 p.m.,1560,act_dep_time,1
+11:08 p.m.,,1559,act_dep_time,1
+7:27 a.m.,7:41 a.m.,1558,act_dep_time,1
+3:01 p.m.,,1557,act_dep_time,1
+1:30 p.m.,1:41 p.m.,1556,act_dep_time,1
+8:26 a.m.,8:37 a.m.,1555,act_dep_time,1
+8:51 a.m.,8:52 a.m.,1554,act_dep_time,1
+7:22 a.m.,7:23 a.m.,1553,act_dep_time,1
+8:25 p.m.,8:29 p.m.,1552,act_dep_time,1
+9:00 p.m.,9:06 p.m.,1551,act_dep_time,1
+4:25 p.m.,4:28 p.m.,1550,act_dep_time,1
+11:55 p.m.,12:11 a.m.,1549,act_dep_time,1
+1:48 p.m.,,1548,act_dep_time,1
+12:41 p.m.,12:42 p.m.,1547,act_dep_time,1
+1:31 p.m.,1:48 p.m.,1546,act_dep_time,1
+11:01 a.m.,11:02 a.m.,1545,act_dep_time,1
+7:05 a.m.,7:30 a.m.,1544,act_dep_time,1
+10:20 a.m.,,1543,act_dep_time,1
+4:15 p.m.,4:37 p.m.,1541,act_dep_time,1
+4:28 p.m.,4:44 p.m.,1540,act_dep_time,1
+5:08 p.m.,5:09 p.m.,1538,act_dep_time,1
+7:30 a.m.,7:31 a.m.,1537,act_dep_time,1
+6:56 a.m.,6:57 a.m.,1536,act_dep_time,1
+9:14 a.m.,,1535,act_dep_time,1
+2:10 p.m.,2:04 p.m.,1534,act_dep_time,1
+7:15 p.m.,,1533,act_dep_time,1
+12:11 p.m.,12:12 p.m.,1532,act_dep_time,1
+6:55 p.m.,6:56 p.m.,1531,act_dep_time,1
+6:30 p.m.,6:47 p.m.,1530,act_dep_time,1
+7:21 a.m.,7:22 a.m.,1529,act_dep_time,1
+3:36 p.m.,,1528,act_dep_time,1
+1:32 p.m.,1:43 p.m.,1527,act_dep_time,1
+11:05 a.m.,11:06 a.m.,1526,act_dep_time,1
+8:25 p.m.,,1525,act_dep_time,1
+5:22 p.m.,,1524,act_dep_time,1
+3:11 a.m.,12:07 p.m.,1523,act_dep_time,1
+2:26 p.m.,2:43 p.m.,1522,act_dep_time,1
+12:13 p.m.,12:14 p.m.,1521,act_dep_time,1
+12:35 p.m.,12:56 p.m.,1520,act_dep_time,1
+7:49 a.m.,8:07 a.m.,1519,act_dep_time,1
+2:04 p.m.,2:03 p.m.,1518,act_dep_time,1
+10:18 a.m.,10:19 a.m.,1517,act_dep_time,1
+8:40 a.m.,,1516,act_dep_time,1
+6:02 a.m.,,1515,act_dep_time,1
+11:30 a.m.,11:45 a.m.,1514,act_dep_time,1
+6:08 a.m.,6:09 a.m.,1513,act_dep_time,1
+11:56 a.m.,,1512,act_dep_time,1
+12:12 p.m.,12:13 p.m.,1511,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1510,act_dep_time,1
+8:00 a.m.,,1509,act_dep_time,1
+2:48 p.m.,,1508,act_dep_time,1
+10:55 a.m.,10:54 a.m.,1507,act_dep_time,1
+8:12 a.m.,8:26 a.m.,1504,act_dep_time,1
+10:10 a.m.,10:11 a.m.,1503,act_dep_time,1
+10:19 a.m.,,1502,act_dep_time,1
+7:29 a.m.,,1501,act_dep_time,1
+4:00 p.m.,4:10 p.m.,1500,act_dep_time,1
+12:41 a.m.,,1499,act_dep_time,1
+5:56 a.m.,6:10 a.m.,1498,act_dep_time,1
+11:25 p.m.,11:29 p.m.,1497,act_dep_time,1
+10:33 a.m.,10:53 a.m.,1496,act_dep_time,1
+11:40 a.m.,11:41 a.m.,1495,act_dep_time,1
+11:32 a.m.,,1494,act_dep_time,1
+3:27 p.m.,3:50 p.m.,1493,act_dep_time,1
+7:58 p.m.,7:59 p.m.,1492,act_dep_time,1
+8:42 a.m.,9:00 a.m.,1491,act_dep_time,1
+8:29 a.m.,8:48 a.m.,1490,act_dep_time,1
+7:14 p.m.,,1488,act_dep_time,1
+5:56 a.m.,,1486,act_dep_time,1
+2:26 p.m.,,1485,act_dep_time,1
+7:39 a.m.,,1484,act_dep_time,1
+8:51 a.m.,,1483,act_dep_time,1
+3:36 p.m.,,1482,act_dep_time,1
+8:29 a.m.,,1481,act_dep_time,1
+7:15 p.m.,7:15 p.m. (Estimated),1479,act_dep_time,1
+2:55 p.m.,2:46 p.m.,1467,act_dep_time,1
+11:55 a.m.,11:43 a.m.,1466,act_dep_time,1
+9:00 p.m.,9:06 p.m. (Estimated runway),1461,act_dep_time,1
+4:25 p.m.,4:28 p.m. (Estimated runway),1459,act_dep_time,1
+1:31 p.m.,,1425,act_dep_time,1
+2:44 p.m.,,1424,act_dep_time,1
+8:26 a.m.,,1423,act_dep_time,1
+12:12 p.m.,,1422,act_dep_time,1
+7:31 a.m.,7:05aDec 1,1421,act_dep_time,1
+7:39 a.m.,7:14aDec 1,1420,act_dep_time,1
+6:10 a.m.,5:56aDec 1,1419,act_dep_time,1
+6:57 a.m.,6:41aDec 1,1417,act_dep_time,1
+10:54 a.m.,10:35aDec 1,1416,act_dep_time,1
+11:55 a.m.,11:43aDec 1,1415,act_dep_time,1
+7:39 a.m.,7:22aDec 1,1413,act_dep_time,1
+11:52 a.m.,11:33aDec 1,1412,act_dep_time,1
+4:12 p.m.,3:52 p.m.,1411,act_dep_time,1
+11:40 a.m.,11:20aDec 1,1410,act_dep_time,1
+8:04 a.m.,7:28aDec 1,1409,act_dep_time,1
+3:36 p.m.,3:09 p.m.,1408,act_dep_time,1
+8:56 a.m.,8:32aDec 1,1407,act_dep_time,1
+1:19 p.m.,1:06 p.m.,1406,act_dep_time,1
+8:52 a.m.,8:52aDec 1,1405,act_dep_time,1
+8:04 a.m.,7:51aDec 1,1404,act_dep_time,1
+12:10 p.m.,12:01 p.m.,1403,act_dep_time,1
+7:22 a.m.,7:10aDec 1,1402,act_dep_time,1
+3:27 p.m.,3:00 p.m.,1401,act_dep_time,1
+2:44 p.m.,2:32 p.m.,1400,act_dep_time,1
+9:16 a.m.,9:16aDec 1,1399,act_dep_time,1
+2:55 p.m.,2:52 p.m.,1397,act_dep_time,1
+8:39 p.m.,8:30 p.m.,1396,act_dep_time,1
+11:15 a.m.,11:15aDec 1,1395,act_dep_time,1
+5:30 p.m.,,1393,act_dep_time,1
+11:08 p.m.,,1392,act_dep_time,1
+7:27 a.m.,7:27aDec 1,1391,act_dep_time,1
+1:30 p.m.,,1389,act_dep_time,1
+8:51 a.m.,8:31aDec 1,1388,act_dep_time,1
+7:22 a.m.,6:56aDec 1,1387,act_dep_time,1
+8:25 p.m.,,1386,act_dep_time,1
+9:00 p.m.,,1385,act_dep_time,1
+4:25 p.m.,,1384,act_dep_time,1
+11:55 p.m.,,1383,act_dep_time,1
+12:41 p.m.,12:10 p.m.,1381,act_dep_time,1
+11:01 a.m.,10:47aDec 1,1379,act_dep_time,1
+7:05 a.m.,7:07aDec 1,1378,act_dep_time,1
+10:20 a.m.,10:20aDec 1,1377,act_dep_time,1
+8:23 p.m.,8:01 p.m.,1376,act_dep_time,1
+5:08 p.m.,4:56 p.m.,1373,act_dep_time,1
+7:30 a.m.,7:10aDec 1,1372,act_dep_time,1
+6:56 a.m.,5:59aDec 1,1371,act_dep_time,1
+9:14 a.m.,9:14aDec 1,1370,act_dep_time,1
+2:10 p.m.,2:37 p.m.,1369,act_dep_time,1
+7:15 p.m.,,1368,act_dep_time,1
+6:55 p.m.,6:40 p.m.,1367,act_dep_time,1
+6:30 p.m.,,1366,act_dep_time,1
+7:21 a.m.,7:08aDec 1,1365,act_dep_time,1
+3:36 p.m.,3:27 p.m.,1364,act_dep_time,1
+11:05 a.m.,10:46aDec 1,1362,act_dep_time,1
+3:11 a.m.,11:51aDec 1,1359,act_dep_time,1
+2:26 p.m.,2:42 p.m.,1358,act_dep_time,1
+12:13 p.m.,11:47aDec 1,1357,act_dep_time,1
+7:49 a.m.,7:49aDec 1,1355,act_dep_time,1
+2:04 p.m.,1:48 p.m.,1354,act_dep_time,1
+10:18 a.m.,10:10aDec 1,1353,act_dep_time,1
+8:40 a.m.,8:40aDec 1,1352,act_dep_time,1
+6:02 a.m.,6:02aDec 1,1351,act_dep_time,1
+11:30 a.m.,11:30aDec 1,1350,act_dep_time,1
+6:08 a.m.,5:58aDec 1,1349,act_dep_time,1
+11:56 a.m.,11:56aDec 1,1348,act_dep_time,1
+12:12 p.m.,11:54aDec 1,1347,act_dep_time,1
+2:55 p.m.,2:46 p.m.,1346,act_dep_time,1
+8:00 a.m.,8:00aDec 1,1345,act_dep_time,1
+10:55 a.m.,10:42aDec 1,1343,act_dep_time,1
+4:29 p.m.,4:16 p.m.,1342,act_dep_time,1
+7:25 a.m.,7:04aDec 1,1341,act_dep_time,1
+8:12 a.m.,8:12aDec 1,1340,act_dep_time,1
+10:10 a.m.,9:59aDec 1,1339,act_dep_time,1
+10:19 a.m.,10:19aDec 1,1338,act_dep_time,1
+7:29 a.m.,,1337,act_dep_time,1
+4:00 p.m.,3:58 p.m.,1336,act_dep_time,1
+12:41 a.m.,12:41aDec 1,1335,act_dep_time,1
+5:56 a.m.,6:09aDec 1,1334,act_dep_time,1
+11:25 p.m.,,1333,act_dep_time,1
+10:33 a.m.,,1332,act_dep_time,1
+11:32 a.m.,11:37aDec 1,1331,act_dep_time,1
+3:27 p.m.,3:28 p.m.,1330,act_dep_time,1
+12:11 p.m.,11:54aDec 1,1329,act_dep_time,1
+7:58 p.m.,7:45 p.m.,1328,act_dep_time,1
+8:42 a.m.,,1327,act_dep_time,1
+8:29 a.m.,8:48aDec 1,1326,act_dep_time,1
+6:54 a.m.,6:40aDec 1,1325,act_dep_time,1
+7:16 a.m.,7:02aDec 1,1323,act_dep_time,1
+7:31 a.m.,7:32 a.m.,1322,act_dep_time,1
+7:39 a.m.,7:40 a.m.,1321,act_dep_time,1
+6:10 a.m.,6:11 a.m.,1320,act_dep_time,1
+3:58 p.m.,,1319,act_dep_time,1
+6:57 a.m.,6:58 a.m.,1318,act_dep_time,1
+10:54 a.m.,10:55 a.m.,1317,act_dep_time,1
+3:31 p.m.,,1315,act_dep_time,1
+3:36 p.m.,3:38 p.m.,1311,act_dep_time,1
+8:56 a.m.,8:55 a.m.,1310,act_dep_time,1
+1:19 p.m.,1:20 p.m.,1309,act_dep_time,1
+8:52 a.m.,,1308,act_dep_time,1
+12:10 p.m.,12:11 p.m.,1306,act_dep_time,1
+3:27 p.m.,3:28 p.m.,1304,act_dep_time,1
+9:16 a.m.,,1302,act_dep_time,1
+2:48 p.m.,,1301,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1300,act_dep_time,1
+8:39 p.m.,8:40 p.m.,1299,act_dep_time,1
+11:15 a.m.,11:47 a.m.,1298,act_dep_time,1
+1:32 p.m.,1:50 p.m. (+8:00),1297,act_dep_time,1
+5:30 p.m.,5:38 p.m.,1296,act_dep_time,1
+11:08 p.m.,,1295,act_dep_time,1
+7:27 a.m.,7:41 a.m.,1294,act_dep_time,1
+3:01 p.m.,,1293,act_dep_time,1
+1:30 p.m.,1:41 p.m.,1292,act_dep_time,1
+8:26 a.m.,8:37 a.m.,1291,act_dep_time,1
+8:51 a.m.,8:52 a.m.,1290,act_dep_time,1
+7:22 a.m.,7:23 a.m.,1289,act_dep_time,1
+8:25 p.m.,8:29 p.m.,1288,act_dep_time,1
+9:00 p.m.,9:06 p.m.,1287,act_dep_time,1
+4:25 p.m.,4:28 p.m.,1286,act_dep_time,1
+11:55 p.m.,12:11 a.m.,1285,act_dep_time,1
+1:48 p.m.,,1284,act_dep_time,1
+12:41 p.m.,12:42 p.m.,1283,act_dep_time,1
+1:31 p.m.,1:48 p.m.,1282,act_dep_time,1
+11:01 a.m.,11:02 a.m.,1281,act_dep_time,1
+7:05 a.m.,7:30 a.m.,1280,act_dep_time,1
+10:20 a.m.,,1279,act_dep_time,1
+4:15 p.m.,4:37 p.m.,1277,act_dep_time,1
+4:28 p.m.,4:44 p.m.,1276,act_dep_time,1
+5:08 p.m.,5:09 p.m.,1274,act_dep_time,1
+7:30 a.m.,7:31 a.m.,1273,act_dep_time,1
+6:56 a.m.,6:57 a.m.,1272,act_dep_time,1
+9:14 a.m.,,1271,act_dep_time,1
+2:10 p.m.,2:04 p.m.,1270,act_dep_time,1
+7:15 p.m.,,1269,act_dep_time,1
+12:11 p.m.,12:12 p.m.,1268,act_dep_time,1
+6:55 p.m.,6:56 p.m.,1267,act_dep_time,1
+6:30 p.m.,6:47 p.m.,1266,act_dep_time,1
+7:21 a.m.,7:22 a.m.,1265,act_dep_time,1
+3:36 p.m.,,1264,act_dep_time,1
+1:32 p.m.,1:43 p.m.,1263,act_dep_time,1
+11:05 a.m.,11:06 a.m.,1262,act_dep_time,1
+8:25 p.m.,,1261,act_dep_time,1
+5:22 p.m.,,1260,act_dep_time,1
+3:11 a.m.,12:07 p.m.,1259,act_dep_time,1
+2:26 p.m.,2:43 p.m.,1258,act_dep_time,1
+12:13 p.m.,12:14 p.m.,1257,act_dep_time,1
+12:35 p.m.,12:56 p.m.,1256,act_dep_time,1
+7:49 a.m.,8:07 a.m.,1255,act_dep_time,1
+2:04 p.m.,2:03 p.m.,1254,act_dep_time,1
+10:18 a.m.,10:19 a.m.,1253,act_dep_time,1
+8:40 a.m.,,1252,act_dep_time,1
+6:02 a.m.,,1251,act_dep_time,1
+11:30 a.m.,11:45 a.m.,1250,act_dep_time,1
+6:08 a.m.,6:09 a.m.,1249,act_dep_time,1
+11:56 a.m.,,1248,act_dep_time,1
+12:12 p.m.,12:13 p.m.,1247,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1246,act_dep_time,1
+8:00 a.m.,,1245,act_dep_time,1
+2:48 p.m.,,1244,act_dep_time,1
+10:55 a.m.,10:54 a.m.,1243,act_dep_time,1
+8:12 a.m.,8:26 a.m.,1240,act_dep_time,1
+10:10 a.m.,10:11 a.m.,1239,act_dep_time,1
+10:19 a.m.,,1238,act_dep_time,1
+7:29 a.m.,,1237,act_dep_time,1
+4:00 p.m.,4:10 p.m.,1236,act_dep_time,1
+12:41 a.m.,,1235,act_dep_time,1
+5:56 a.m.,6:10 a.m.,1234,act_dep_time,1
+11:25 p.m.,11:29 p.m.,1233,act_dep_time,1
+10:33 a.m.,10:53 a.m.,1232,act_dep_time,1
+11:40 a.m.,11:41 a.m.,1231,act_dep_time,1
+11:32 a.m.,,1230,act_dep_time,1
+3:27 p.m.,3:50 p.m.,1229,act_dep_time,1
+7:58 p.m.,7:59 p.m.,1228,act_dep_time,1
+8:42 a.m.,9:00 a.m.,1227,act_dep_time,1
+8:29 a.m.,8:48 a.m.,1226,act_dep_time,1
+7:14 p.m.,,1224,act_dep_time,1
+7:39 a.m.,7:40 a.m.,1222,act_dep_time,1
+6:10 a.m.,,1221,act_dep_time,1
+4:12 p.m.,,1220,act_dep_time,1
+11:40 a.m.,,1219,act_dep_time,1
+6:30 p.m.,6:56 p.m.,1218,act_dep_time,1
+3:36 p.m.,3:38 p.m.,1217,act_dep_time,1
+8:52 a.m.,,1214,act_dep_time,1
+8:04 a.m.,,1213,act_dep_time,1
+12:10 p.m.,,1212,act_dep_time,1
+4:25 p.m.,Not Available,1211,act_dep_time,1
+7:22 a.m.,7:23 a.m.,1210,act_dep_time,1
+9:16 a.m.,9:43 a.m.,1208,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1207,act_dep_time,1
+11:15 a.m.,11:47 a.m.,1206,act_dep_time,1
+5:30 p.m.,,1205,act_dep_time,1
+11:08 p.m.,,1204,act_dep_time,1
+7:27 a.m.,7:41 a.m.,1203,act_dep_time,1
+3:01 p.m.,3:17 p.m.,1202,act_dep_time,1
+2:26 p.m.,2:43 p.m.,1200,act_dep_time,1
+11:55 p.m.,12:10 a.m. (Estimated runway),1199,act_dep_time,1
+1:31 p.m.,,1198,act_dep_time,1
+10:20 a.m.,,1196,act_dep_time,1
+2:10 p.m.,2:38 p.m.,1193,act_dep_time,1
+7:15 p.m.,Not Available,1192,act_dep_time,1
+6:55 p.m.,,1191,act_dep_time,1
+1:32 p.m.,,1189,act_dep_time,1
+11:05 a.m.,11:06 a.m.,1188,act_dep_time,1
+3:11 a.m.,12:08 p.m.,1187,act_dep_time,1
+12:35 p.m.,12:56 p.m.,1186,act_dep_time,1
+12:41 p.m.,12:42 p.m.,1185,act_dep_time,1
+10:18 a.m.,10:19 a.m.,1183,act_dep_time,1
+10:55 a.m.,,1182,act_dep_time,1
+11:30 a.m.,,1181,act_dep_time,1
+6:08 a.m.,6:09 a.m.,1180,act_dep_time,1
+5:22 p.m.,5:38 p.m.,1179,act_dep_time,1
+4:29 p.m.,,1178,act_dep_time,1
+8:12 a.m.,8:26 a.m.,1176,act_dep_time,1
+5:56 a.m.,6:10 a.m.,1175,act_dep_time,1
+7:58 p.m.,,1174,act_dep_time,1
+8:42 a.m.,,1173,act_dep_time,1
+7:14 p.m.,7:42 p.m.,1172,act_dep_time,1
+7:16 a.m.,,1170,act_dep_time,1
+7:31 a.m.,7:32 a.m.,1169,act_dep_time,1
+7:39 a.m.,7:40 a.m.,1168,act_dep_time,1
+6:10 a.m.,6:11 a.m.,1167,act_dep_time,1
+3:58 p.m.,4:15 p.m.,1166,act_dep_time,1
+6:57 a.m.,6:58 a.m.,1165,act_dep_time,1
+10:54 a.m.,10:55 a.m.,1164,act_dep_time,1
+3:31 p.m.,4:02 p.m.,1162,act_dep_time,1
+7:39 a.m.,7:40 a.m.,1161,act_dep_time,1
+11:40 a.m.,11:41 a.m.,1158,act_dep_time,1
+3:36 p.m.,3:38 p.m.,1156,act_dep_time,1
+1:19 p.m.,1:20 p.m.,1154,act_dep_time,1
+8:52 a.m.,9:05 a.m.,1153,act_dep_time,1
+8:04 a.m.,8:05 a.m.,1152,act_dep_time,1
+12:10 p.m.,12:11 p.m.,1151,act_dep_time,1
+7:22 a.m.,7:23 a.m.,1150,act_dep_time,1
+3:27 p.m.,3:28 p.m.,1149,act_dep_time,1
+9:16 a.m.,9:43 a.m.,1147,act_dep_time,1
+2:48 p.m.,2:59 p.m.,1146,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1145,act_dep_time,1
+8:39 p.m.,8:40 p.m.,1144,act_dep_time,1
+11:15 a.m.,11:47 a.m.,1143,act_dep_time,1
+1:32 p.m.,1:45 p.m.,1142,act_dep_time,1
+5:30 p.m.,,1141,act_dep_time,1
+11:08 p.m.,,1140,act_dep_time,1
+7:27 a.m.,7:41 a.m.,1139,act_dep_time,1
+3:01 p.m.,3:17 p.m.,1138,act_dep_time,1
+1:30 p.m.,,1137,act_dep_time,1
+8:26 a.m.,8:37 a.m.,1136,act_dep_time,1
+8:51 a.m.,8:52 a.m.,1135,act_dep_time,1
+7:22 a.m.,7:23 a.m.,1134,act_dep_time,1
+8:25 p.m.,,1133,act_dep_time,1
+9:00 p.m.,,1132,act_dep_time,1
+4:25 p.m.,,1131,act_dep_time,1
+11:55 p.m.,,1130,act_dep_time,1
+1:48 p.m.,2:01 p.m.,1129,act_dep_time,1
+12:41 p.m.,12:42 p.m.,1128,act_dep_time,1
+1:31 p.m.,1:48 p.m.,1127,act_dep_time,1
+11:01 a.m.,11:02 a.m.,1126,act_dep_time,1
+7:05 a.m.,7:31 a.m.,1125,act_dep_time,1
+10:20 a.m.,10:37 a.m.,1124,act_dep_time,1
+4:15 p.m.,4:37 p.m.,1122,act_dep_time,1
+4:28 p.m.,4:46 p.m.,1121,act_dep_time,1
+5:08 p.m.,5:09 p.m.,1120,act_dep_time,1
+7:30 a.m.,7:31 a.m.,1119,act_dep_time,1
+6:56 a.m.,6:57 a.m.,1118,act_dep_time,1
+9:14 a.m.,9:58 a.m.,1117,act_dep_time,1
+2:10 p.m.,2:38 p.m.,1116,act_dep_time,1
+7:15 p.m.,,1115,act_dep_time,1
+6:55 p.m.,6:56 p.m.,1114,act_dep_time,1
+6:30 p.m.,,1113,act_dep_time,1
+7:21 a.m.,7:22 a.m.,1112,act_dep_time,1
+1:32 p.m.,1:43 p.m.,1110,act_dep_time,1
+11:05 a.m.,11:06 a.m.,1109,act_dep_time,1
+8:25 p.m.,8:36 p.m.,1108,act_dep_time,1
+5:22 p.m.,5:38 p.m.,1107,act_dep_time,1
+3:11 a.m.,12:08 p.m.,1106,act_dep_time,1
+2:26 p.m.,2:43 p.m.,1105,act_dep_time,1
+12:13 p.m.,12:14 p.m.,1104,act_dep_time,1
+12:35 p.m.,12:56 p.m.,1103,act_dep_time,1
+7:49 a.m.,8:07 a.m.,1102,act_dep_time,1
+10:18 a.m.,10:19 a.m.,1100,act_dep_time,1
+8:40 a.m.,9:01 a.m.,1099,act_dep_time,1
+6:02 a.m.,6:17 a.m.,1098,act_dep_time,1
+11:30 a.m.,11:45 a.m.,1097,act_dep_time,1
+6:08 a.m.,6:09 a.m.,1096,act_dep_time,1
+11:56 a.m.,12:06 p.m.,1095,act_dep_time,1
+12:12 p.m.,12:13 p.m.,1094,act_dep_time,1
+2:55 p.m.,3:04 p.m.,1093,act_dep_time,1
+8:00 a.m.,8:18 a.m.,1092,act_dep_time,1
+2:48 p.m.,2:59 p.m.,1091,act_dep_time,1
+4:29 p.m.,4:30 p.m.,1089,act_dep_time,1
+8:12 a.m.,8:26 a.m.,1087,act_dep_time,1
+10:10 a.m.,10:11 a.m.,1086,act_dep_time,1
+10:19 a.m.,10:35 a.m.,1085,act_dep_time,1
+7:29 a.m.,7:56 a.m.,1084,act_dep_time,1
+4:00 p.m.,4:10 p.m.,1083,act_dep_time,1
+12:41 a.m.,12:58 a.m.,1082,act_dep_time,1
+5:56 a.m.,6:10 a.m.,1081,act_dep_time,1
+11:25 p.m.,,1080,act_dep_time,1
+10:33 a.m.,10:53 a.m.,1079,act_dep_time,1
+11:32 a.m.,12:37 p.m.,1078,act_dep_time,1
+3:27 p.m.,3:50 p.m.,1077,act_dep_time,1
+12:11 p.m.,12:12 p.m.,1076,act_dep_time,1
+7:58 p.m.,7:59 p.m.,1075,act_dep_time,1
+8:42 a.m.,9:01 a.m.,1074,act_dep_time,1
+8:29 a.m.,8:49 a.m.,1073,act_dep_time,1
+7:14 p.m.,7:42 p.m.,1071,act_dep_time,1
+7:39 a.m.,7:14 a.m.,1069,act_dep_time,1
+6:10 a.m.,5:56 a.m.,1068,act_dep_time,1
+6:57 a.m.,6:41 a.m.,1066,act_dep_time,1
+7:31 a.m.,7:05 a.m.,1065,act_dep_time,1
+10:54 a.m.,10:35 a.m.,1064,act_dep_time,1
+11:55 a.m.,Contact Airline,1063,act_dep_time,1
+4:12 p.m.,3:52 p.m.,1061,act_dep_time,1
+3:36 p.m.,3:09 p.m.,1060,act_dep_time,1
+8:56 a.m.,8:32 a.m.,1059,act_dep_time,1
+7:49 a.m.,8:07 a.m.,1058,act_dep_time,1
+1:19 p.m.,1:06 p.m.,1057,act_dep_time,1
+8:52 a.m.,Contact Airline,1056,act_dep_time,1
+12:10 p.m.,12:01 p.m.,1055,act_dep_time,1
+2:55 p.m.,Contact Airline,1054,act_dep_time,1
+7:22 a.m.,7:10 a.m.,1053,act_dep_time,1
+3:27 p.m.,3:00 p.m.,1052,act_dep_time,1
+2:44 p.m.,2:32 p.m.,1051,act_dep_time,1
+2:48 p.m.,Contact Airline,1050,act_dep_time,1
+2:55 p.m.,Contact Airline,1049,act_dep_time,1
+8:39 p.m.,8:30 p.m.,1048,act_dep_time,1
+11:15 a.m.,Contact Airline,1047,act_dep_time,1
+1:32 p.m.,1:50 p.m.,1046,act_dep_time,1
+7:27 a.m.,7:41 a.m.,1045,act_dep_time,1
+1:30 p.m.,Not Available,1043,act_dep_time,1
+8:26 a.m.,8:35 a.m.,1042,act_dep_time,1
+2:26 p.m.,2:42 p.m.,1041,act_dep_time,1
+8:51 a.m.,8:31 a.m.,1040,act_dep_time,1
+7:22 a.m.,6:56 a.m.,1039,act_dep_time,1
+8:25 p.m.,Not Available,1038,act_dep_time,1
+9:00 p.m.,Not Available,1037,act_dep_time,1
+4:25 p.m.,Not Available,1036,act_dep_time,1
+11:55 p.m.,Not Available,1035,act_dep_time,1
+1:31 p.m.,1:47 p.m.,1034,act_dep_time,1
+11:01 a.m.,10:47 a.m.,1033,act_dep_time,1
+7:05 a.m.,Contact Airline,1032,act_dep_time,1
+8:23 p.m.,8:01 p.m.,1031,act_dep_time,1
+4:28 p.m.,Contact Airline,1030,act_dep_time,1
+7:30 a.m.,7:10 a.m.,1029,act_dep_time,1
+6:56 a.m.,5:59 a.m.,1028,act_dep_time,1
+2:10 p.m.,2:37 p.m.,1026,act_dep_time,1
+7:15 p.m.,Contact Airline,1025,act_dep_time,1
+6:55 p.m.,6:40 p.m.,1024,act_dep_time,1
+7:21 a.m.,7:08 a.m.,1022,act_dep_time,1
+11:05 a.m.,10:46 a.m.,1021,act_dep_time,1
+11:52 a.m.,11:33 a.m.,1020,act_dep_time,1
+7:39 a.m.,7:22 a.m.,1019,act_dep_time,1
+3:11 a.m.,Contact Airline,1018,act_dep_time,1
+12:13 p.m.,11:47 a.m.,1017,act_dep_time,1
+10:10 a.m.,9:59 a.m.,1016,act_dep_time,1
+2:04 p.m.,1:48 p.m.,1015,act_dep_time,1
+8:04 a.m.,7:28 a.m.,1014,act_dep_time,1
+10:18 a.m.,10:10 a.m.,1013,act_dep_time,1
+8:04 a.m.,7:51 a.m.,1012,act_dep_time,1
+10:55 a.m.,10:42 a.m.,1011,act_dep_time,1
+11:30 a.m.,Contact Airline,1008,act_dep_time,1
+6:08 a.m.,5:58 a.m.,1007,act_dep_time,1
+12:12 p.m.,11:54 a.m.,1006,act_dep_time,1
+4:29 p.m.,4:16 p.m.,1004,act_dep_time,1
+8:12 a.m.,8:24 a.m.,1003,act_dep_time,1
+7:25 a.m.,7:04 a.m.,1002,act_dep_time,1
+4:00 p.m.,Contact Airline,1001,act_dep_time,1
+12:41 p.m.,12:10 p.m.,1000,act_dep_time,1
+5:56 a.m.,6:09 a.m.,999,act_dep_time,1
+11:25 p.m.,Not Available,998,act_dep_time,1
+11:40 a.m.,11:20 a.m.,997,act_dep_time,1
+3:27 p.m.,Contact Airline,996,act_dep_time,1
+12:11 p.m.,11:54 a.m.,995,act_dep_time,1
+6:30 p.m.,Not Available,994,act_dep_time,1
+7:58 p.m.,7:45 p.m.,993,act_dep_time,1
+8:42 a.m.,9:00 a.m.,992,act_dep_time,1
+8:29 a.m.,8:48 a.m.,991,act_dep_time,1
+6:54 a.m.,6:40 a.m.,990,act_dep_time,1
+7:16 a.m.,7:02 a.m.,989,act_dep_time,1
+6:55 p.m.,6:56 p.m.,987,act_dep_time,1
+8:25 p.m.,7:27 p.m.,982,act_dep_time,1
+5:22 p.m.,5:38 p.m.,980,act_dep_time,1
+7:15 p.m.,7:25 p.m.,979,act_dep_time,1
+8:25 p.m.,8:29 p.m.,978,act_dep_time,1
+1:31 p.m.,1:48 p.m.,976,act_dep_time,1
+8:42 a.m.,8:51 a.m.,975,act_dep_time,1
+11:30 a.m.,11:45 a.m.,974,act_dep_time,1
+6:30 p.m.,6:47 p.m.,972,act_dep_time,1
+7:30 a.m.,7:31 a.m.,971,act_dep_time,1
+7:31 a.m.,7:32 a.m.,968,act_dep_time,1
+7:39 a.m.,7:40 a.m.,967,act_dep_time,1
+10:54 a.m.,10:55 a.m.,965,act_dep_time,1
+8:40 a.m.,9:01 a.m.,964,act_dep_time,1
+4:12 p.m.,,963,act_dep_time,1
+11:40 a.m.,,962,act_dep_time,1
+3:36 p.m.,3:38 p.m.,961,act_dep_time,1
+7:49 a.m.,8:07 a.m.,960,act_dep_time,1
+8:52 a.m.,,959,act_dep_time,1
+8:04 a.m.,,958,act_dep_time,1
+12:10 p.m.,12:11 p.m.,957,act_dep_time,1
+7:27 a.m.,,956,act_dep_time,1
+2:55 p.m.,,955,act_dep_time,1
+7:22 a.m.,7:23 a.m.,954,act_dep_time,1
+8:00 a.m.,8:18 a.m.,953,act_dep_time,1
+9:16 a.m.,9:43 a.m.,952,act_dep_time,1
+11:15 a.m.,11:47 a.m.,950,act_dep_time,1
+1:32 p.m.,,949,act_dep_time,1
+5:30 p.m.,,948,act_dep_time,1
+11:08 p.m.,,947,act_dep_time,1
+8:26 a.m.,,946,act_dep_time,1
+2:26 p.m.,2:43 p.m.,945,act_dep_time,1
+8:51 a.m.,8:52 a.m.,944,act_dep_time,1
+8:25 p.m.,8:29 p.m. (Estimated runway),943,act_dep_time,1
+4:25 p.m.,4:28 p.m. (Estimated runway),942,act_dep_time,1
+1:31 p.m.,1:48 p.m.,940,act_dep_time,1
+11:01 a.m.,11:02 a.m.,939,act_dep_time,1
+7:05 a.m.,7:31 a.m.,938,act_dep_time,1
+10:20 a.m.,,937,act_dep_time,1
+8:23 p.m.,,936,act_dep_time,1
+4:15 p.m.,4:37 p.m.,935,act_dep_time,1
+4:28 p.m.,4:46 p.m.,934,act_dep_time,1
+9:14 a.m.,,933,act_dep_time,1
+7:15 p.m.,7:15 p.m. (Estimated),932,act_dep_time,1
+12:11 p.m.,12:12 p.m.,931,act_dep_time,1
+11:05 a.m.,11:06 a.m.,929,act_dep_time,1
+10:10 a.m.,10:11 a.m.,927,act_dep_time,1
+3:31 p.m.,4:02 p.m.,926,act_dep_time,1
+12:35 p.m.,12:56 p.m.,925,act_dep_time,1
+10:18 a.m.,10:19 a.m.,922,act_dep_time,1
+6:08 a.m.,6:09 a.m.,921,act_dep_time,1
+2:48 p.m.,,920,act_dep_time,1
+7:25 a.m.,,919,act_dep_time,1
+10:19 a.m.,,918,act_dep_time,1
+7:29 a.m.,7:56 a.m.,917,act_dep_time,1
+12:41 a.m.,,916,act_dep_time,1
+5:56 a.m.,,915,act_dep_time,1
+12:13 p.m.,12:14 p.m.,914,act_dep_time,1
+8:42 a.m.,,913,act_dep_time,1
+6:30 p.m.,6:56 p.m.,912,act_dep_time,1
+11:55 a.m.,11:43 a.m.,904,act_dep_time,1
+2:55 p.m.,2:52 p.m.,886,act_dep_time,1
+5:30 p.m.,,882,act_dep_time,1
+11:08 p.m.,,881,act_dep_time,1
+1:30 p.m.,,878,act_dep_time,1
+8:25 p.m.,,874,act_dep_time,1
+9:00 p.m.,,873,act_dep_time,1
+4:25 p.m.,,872,act_dep_time,1
+11:55 p.m.,,871,act_dep_time,1
+7:05 a.m.,7:07 a.m.,866,act_dep_time,1
+7:15 p.m.,,856,act_dep_time,1
+6:30 p.m.,,854,act_dep_time,1
+3:11 a.m.,11:51 a.m.,847,act_dep_time,1
+2:55 p.m.,2:46 p.m.,834,act_dep_time,1
+4:00 p.m.,3:58 p.m.,824,act_dep_time,1
+11:25 p.m.,,821,act_dep_time,1
+3:27 p.m.,3:28 p.m.,818,act_dep_time,1
+7:58 p.m.,,816,act_dep_time,1
+9:14 a.m.,,810,act_dep_time,1
+7:21 a.m.,,809,act_dep_time,1
+8:23 p.m.,,808,act_dep_time,1
+11:25 p.m.,,807,act_dep_time,1
+6:57 a.m.,,806,act_dep_time,1
+6:30 p.m.,,805,act_dep_time,1
+3:27 p.m.,,804,act_dep_time,1
+7:14 p.m.,,803,act_dep_time,1
+4:29 p.m.,,802,act_dep_time,1
+11:01 a.m.,,801,act_dep_time,1
+12:12 p.m.,,800,act_dep_time,1
+8:25 p.m.,,799,act_dep_time,1
+2:04 p.m.,,798,act_dep_time,1
+12:35 p.m.,12:30,797,act_dep_time,1
+7:39 a.m.,,796,act_dep_time,1
+6:08 a.m.,,795,act_dep_time,1
+4:29 p.m.,,794,act_dep_time,1
+7:22 a.m.,,793,act_dep_time,1
+11:05 a.m.,,792,act_dep_time,1
+7:39 a.m.,7:40 a.m.,791,act_dep_time,1
+6:10 a.m.,6:11 a.m.,790,act_dep_time,1
+6:57 a.m.,6:58 a.m.,789,act_dep_time,1
+10:54 a.m.,10:55 a.m.,788,act_dep_time,1
+7:31 a.m.,7:32 a.m.,787,act_dep_time,1
+1:19 p.m.,1:20 p.m.,786,act_dep_time,1
+12:10 p.m.,12:11 p.m.,785,act_dep_time,1
+7:27 a.m.,7:41 a.m.,784,act_dep_time,1
+4:25 p.m.,,783,act_dep_time,1
+7:22 a.m.,7:23 a.m.,782,act_dep_time,1
+8:00 a.m.,8:17 a.m.,780,act_dep_time,1
+5:30 p.m.,,779,act_dep_time,1
+11:08 p.m.,11/30/2011 11:34 p.m.,778,act_dep_time,1
+1:30 p.m.,,777,act_dep_time,1
+8:26 a.m.,8:37 a.m.,776,act_dep_time,1
+8:51 a.m.,8:52 a.m.,775,act_dep_time,1
+7:22 a.m.,7:23 a.m.,774,act_dep_time,1
+8:25 p.m.,,773,act_dep_time,1
+9:00 p.m.,,772,act_dep_time,1
+11:55 p.m.,,771,act_dep_time,1
+1:48 p.m.,1:59 p.m.,770,act_dep_time,1
+1:31 p.m.,1:46 p.m.,769,act_dep_time,1
+4:15 p.m.,4:35 p.m.,766,act_dep_time,1
+7:39 a.m.,7:40 a.m.,765,act_dep_time,1
+5:08 p.m.,5:09 p.m.,764,act_dep_time,1
+7:30 a.m.,7:31 a.m.,763,act_dep_time,1
+6:56 a.m.,6:57 a.m.,762,act_dep_time,1
+9:14 a.m.,9:56 a.m.,761,act_dep_time,1
+12:11 p.m.,12:12 p.m.,760,act_dep_time,1
+6:55 p.m.,6:56 p.m.,759,act_dep_time,1
+7:21 a.m.,7:22 a.m.,758,act_dep_time,1
+1:32 p.m.,,756,act_dep_time,1
+11:05 a.m.,11:06 a.m.,755,act_dep_time,1
+2:26 p.m.,2:41 p.m.,753,act_dep_time,1
+12:13 p.m.,12:14 p.m.,752,act_dep_time,1
+12:35 p.m.,12:55 p.m.,751,act_dep_time,1
+10:18 a.m.,10:19 a.m.,748,act_dep_time,1
+8:04 a.m.,8:05 a.m.,747,act_dep_time,1
+6:08 a.m.,6:09 a.m.,746,act_dep_time,1
+11:56 a.m.,12:05 p.m.,745,act_dep_time,1
+12:12 p.m.,12:13 p.m.,744,act_dep_time,1
+10:10 a.m.,10:11 a.m.,743,act_dep_time,1
+4:29 p.m.,4:30 p.m.,742,act_dep_time,1
+12:41 p.m.,12:42 p.m.,740,act_dep_time,1
+12:41 a.m.,12:57 a.m.,739,act_dep_time,1
+5:56 a.m.,6:09 a.m.,738,act_dep_time,1
+11:25 p.m.,,737,act_dep_time,1
+10:33 a.m.,10:53 a.m.,736,act_dep_time,1
+11:40 a.m.,11:41 a.m.,735,act_dep_time,1
+6:30 p.m.,,734,act_dep_time,1
+8:42 a.m.,9:01 a.m.,733,act_dep_time,1
+8:29 a.m.,8:47 a.m.,732,act_dep_time,1
+7:14 p.m.,7:41 p.m.,731,act_dep_time,1
+7:58 p.m.,7:59 p.m.,730,act_dep_time,1
+7:31 a.m.,7:32 a.m.,728,act_dep_time,1
+7:39 a.m.,7:40 a.m.,727,act_dep_time,1
+6:10 a.m.,6:11 a.m.,726,act_dep_time,1
+3:58 p.m.,4:15 p.m.,725,act_dep_time,1
+6:57 a.m.,6:58 a.m.,724,act_dep_time,1
+10:54 a.m.,10:55 a.m.,723,act_dep_time,1
+3:31 p.m.,4:02 p.m.,721,act_dep_time,1
+7:39 a.m.,7:40 a.m.,720,act_dep_time,1
+11:40 a.m.,11:41 a.m.,717,act_dep_time,1
+3:36 p.m.,3:38 p.m.,715,act_dep_time,1
+1:19 p.m.,1:20 p.m.,713,act_dep_time,1
+8:52 a.m.,9:05 a.m.,712,act_dep_time,1
+8:04 a.m.,8:05 a.m.,711,act_dep_time,1
+12:10 p.m.,12:11 p.m.,710,act_dep_time,1
+7:22 a.m.,7:23 a.m.,709,act_dep_time,1
+3:27 p.m.,3:28 p.m.,708,act_dep_time,1
+9:16 a.m.,9:43 a.m.,706,act_dep_time,1
+2:48 p.m.,2:59 p.m.,705,act_dep_time,1
+2:55 p.m.,3:04 p.m.,704,act_dep_time,1
+8:39 p.m.,8:40 p.m.,703,act_dep_time,1
+11:15 a.m.,11:47 a.m.,702,act_dep_time,1
+1:32 p.m.,1:45 p.m.,701,act_dep_time,1
+5:30 p.m.,,700,act_dep_time,1
+11:08 p.m.,,699,act_dep_time,1
+7:27 a.m.,7:41 a.m.,698,act_dep_time,1
+3:01 p.m.,3:17 p.m.,697,act_dep_time,1
+1:30 p.m.,,696,act_dep_time,1
+8:26 a.m.,8:37 a.m.,695,act_dep_time,1
+8:51 a.m.,8:52 a.m.,694,act_dep_time,1
+7:22 a.m.,7:23 a.m.,693,act_dep_time,1
+8:25 p.m.,,692,act_dep_time,1
+9:00 p.m.,,691,act_dep_time,1
+4:25 p.m.,,690,act_dep_time,1
+11:55 p.m.,,689,act_dep_time,1
+1:48 p.m.,2:01 p.m.,688,act_dep_time,1
+12:41 p.m.,12:42 p.m.,687,act_dep_time,1
+1:31 p.m.,1:48 p.m.,686,act_dep_time,1
+11:01 a.m.,11:02 a.m.,685,act_dep_time,1
+7:05 a.m.,7:31 a.m.,684,act_dep_time,1
+10:20 a.m.,10:37 a.m.,683,act_dep_time,1
+4:15 p.m.,4:37 p.m.,681,act_dep_time,1
+4:28 p.m.,4:46 p.m.,680,act_dep_time,1
+5:08 p.m.,5:09 p.m.,679,act_dep_time,1
+7:30 a.m.,7:31 a.m.,678,act_dep_time,1
+6:56 a.m.,6:57 a.m.,677,act_dep_time,1
+9:14 a.m.,9:58 a.m.,676,act_dep_time,1
+2:10 p.m.,2:38 p.m.,675,act_dep_time,1
+7:15 p.m.,,674,act_dep_time,1
+6:55 p.m.,6:56 p.m.,673,act_dep_time,1
+6:30 p.m.,,672,act_dep_time,1
+7:21 a.m.,7:22 a.m.,671,act_dep_time,1
+1:32 p.m.,1:43 p.m.,669,act_dep_time,1
+11:05 a.m.,11:06 a.m.,668,act_dep_time,1
+8:25 p.m.,8:36 p.m.,667,act_dep_time,1
+5:22 p.m.,5:38 p.m.,666,act_dep_time,1
+3:11 a.m.,12:08 p.m.,665,act_dep_time,1
+2:26 p.m.,2:43 p.m.,664,act_dep_time,1
+12:13 p.m.,12:14 p.m.,663,act_dep_time,1
+12:35 p.m.,12:56 p.m.,662,act_dep_time,1
+7:49 a.m.,8:07 a.m.,661,act_dep_time,1
+10:18 a.m.,10:19 a.m.,659,act_dep_time,1
+8:40 a.m.,9:01 a.m.,658,act_dep_time,1
+6:02 a.m.,6:17 a.m.,657,act_dep_time,1
+11:30 a.m.,11:45 a.m.,656,act_dep_time,1
+6:08 a.m.,6:09 a.m.,655,act_dep_time,1
+11:56 a.m.,12:06 p.m.,654,act_dep_time,1
+12:12 p.m.,12:13 p.m.,653,act_dep_time,1
+2:55 p.m.,3:04 p.m.,652,act_dep_time,1
+8:00 a.m.,8:18 a.m.,651,act_dep_time,1
+2:48 p.m.,2:59 p.m.,650,act_dep_time,1
+4:29 p.m.,4:30 p.m.,648,act_dep_time,1
+8:12 a.m.,8:26 a.m.,646,act_dep_time,1
+10:10 a.m.,10:11 a.m.,645,act_dep_time,1
+10:19 a.m.,10:35 a.m.,644,act_dep_time,1
+7:29 a.m.,7:56 a.m.,643,act_dep_time,1
+4:00 p.m.,4:10 p.m.,642,act_dep_time,1
+12:41 a.m.,12:58 a.m.,641,act_dep_time,1
+5:56 a.m.,6:10 a.m.,640,act_dep_time,1
+11:25 p.m.,,639,act_dep_time,1
+10:33 a.m.,10:53 a.m.,638,act_dep_time,1
+11:32 a.m.,12:37 p.m.,637,act_dep_time,1
+3:27 p.m.,3:50 p.m.,636,act_dep_time,1
+12:11 p.m.,12:12 p.m.,635,act_dep_time,1
+7:58 p.m.,7:59 p.m.,634,act_dep_time,1
+8:42 a.m.,9:01 a.m.,633,act_dep_time,1
+8:29 a.m.,8:49 a.m.,632,act_dep_time,1
+7:14 p.m.,7:42 p.m.,630,act_dep_time,1
+11:55 a.m.,11:43 a.m.,624,act_dep_time,1
+2:55 p.m.,2:52 p.m.,611,act_dep_time,1
+5:30 p.m.,5:30 p.m. (Estimated),608,act_dep_time,1
+11:08 p.m.,,607,act_dep_time,1
+2:55 p.m.,2:46 p.m.,601,act_dep_time,1
+8:25 p.m.,8:29 p.m. (Estimated runway),600,act_dep_time,1
+9:00 p.m.,9:06 p.m. (Estimated runway),599,act_dep_time,1
+4:25 p.m.,4:28 p.m. (Estimated runway),598,act_dep_time,1
+11:55 p.m.,12:10 a.m. (Estimated runway),597,act_dep_time,1
+7:05 a.m.,7:07 a.m.,593,act_dep_time,1
+7:15 p.m.,7:15 p.m. (Estimated),582,act_dep_time,1
+3:11 a.m.,11:51 a.m.,572,act_dep_time,1
+4:00 p.m.,3:58 p.m.,550,act_dep_time,1
+11:25 p.m.,11:29 p.m. (Estimated runway),547,act_dep_time,1
+3:27 p.m.,3:28 p.m.,545,act_dep_time,1
+6:30 p.m.,6:47 p.m. (Estimated runway),544,act_dep_time,1
+7:31 a.m.,7:32 a.m.,536,act_dep_time,1
+7:39 a.m.,7:40 a.m.,535,act_dep_time,1
+6:10 a.m.,6:11 a.m.,534,act_dep_time,1
+3:58 p.m.,4:15 p.m.,533,act_dep_time,1
+6:57 a.m.,6:58 a.m.,532,act_dep_time,1
+10:54 a.m.,10:55 a.m.,531,act_dep_time,1
+3:31 p.m.,4:02 p.m.,529,act_dep_time,1
+7:39 a.m.,7:40 a.m.,528,act_dep_time,1
+11:40 a.m.,11:41 a.m.,525,act_dep_time,1
+3:36 p.m.,3:38 p.m.,523,act_dep_time,1
+1:19 p.m.,1:20 p.m.,521,act_dep_time,1
+8:52 a.m.,9:05 a.m.,520,act_dep_time,1
+8:04 a.m.,8:05 a.m.,519,act_dep_time,1
+12:10 p.m.,12:11 p.m.,518,act_dep_time,1
+7:22 a.m.,7:23 a.m.,517,act_dep_time,1
+3:27 p.m.,3:28 p.m.,516,act_dep_time,1
+9:16 a.m.,9:43 a.m.,514,act_dep_time,1
+2:48 p.m.,2:59 p.m.,513,act_dep_time,1
+2:55 p.m.,3:04 p.m.,512,act_dep_time,1
+8:39 p.m.,8:40 p.m.,511,act_dep_time,1
+11:15 a.m.,11:47 a.m.,510,act_dep_time,1
+1:32 p.m.,1:45 p.m.,509,act_dep_time,1
+5:30 p.m.,,508,act_dep_time,1
+11:08 p.m.,,507,act_dep_time,1
+7:27 a.m.,7:41 a.m.,506,act_dep_time,1
+3:01 p.m.,3:17 p.m.,505,act_dep_time,1
+1:30 p.m.,,504,act_dep_time,1
+8:26 a.m.,8:37 a.m.,503,act_dep_time,1
+8:51 a.m.,8:52 a.m.,502,act_dep_time,1
+7:22 a.m.,7:23 a.m.,501,act_dep_time,1
+8:25 p.m.,,500,act_dep_time,1
+9:00 p.m.,,499,act_dep_time,1
+4:25 p.m.,,498,act_dep_time,1
+11:55 p.m.,,497,act_dep_time,1
+1:48 p.m.,2:01 p.m.,496,act_dep_time,1
+12:41 p.m.,12:42 p.m.,495,act_dep_time,1
+1:31 p.m.,1:48 p.m.,494,act_dep_time,1
+11:01 a.m.,11:02 a.m.,493,act_dep_time,1
+7:05 a.m.,7:31 a.m.,492,act_dep_time,1
+10:20 a.m.,10:37 a.m.,491,act_dep_time,1
+4:15 p.m.,4:37 p.m.,489,act_dep_time,1
+4:28 p.m.,4:46 p.m.,488,act_dep_time,1
+5:08 p.m.,5:09 p.m.,487,act_dep_time,1
+7:30 a.m.,7:31 a.m.,486,act_dep_time,1
+6:56 a.m.,6:57 a.m.,485,act_dep_time,1
+9:14 a.m.,9:58 a.m.,484,act_dep_time,1
+2:10 p.m.,2:38 p.m.,483,act_dep_time,1
+7:15 p.m.,,482,act_dep_time,1
+6:55 p.m.,6:56 p.m.,481,act_dep_time,1
+6:30 p.m.,,480,act_dep_time,1
+7:21 a.m.,7:22 a.m.,479,act_dep_time,1
+1:32 p.m.,1:43 p.m.,477,act_dep_time,1
+11:05 a.m.,11:06 a.m.,476,act_dep_time,1
+8:25 p.m.,8:36 p.m.,475,act_dep_time,1
+5:22 p.m.,5:38 p.m.,474,act_dep_time,1
+3:11 a.m.,12:08 p.m.,473,act_dep_time,1
+2:26 p.m.,2:43 p.m.,472,act_dep_time,1
+12:13 p.m.,12:14 p.m.,471,act_dep_time,1
+12:35 p.m.,12:56 p.m.,470,act_dep_time,1
+7:49 a.m.,8:07 a.m.,469,act_dep_time,1
+10:18 a.m.,10:19 a.m.,467,act_dep_time,1
+8:40 a.m.,9:01 a.m.,466,act_dep_time,1
+6:02 a.m.,6:17 a.m.,465,act_dep_time,1
+11:30 a.m.,11:45 a.m.,464,act_dep_time,1
+6:08 a.m.,6:09 a.m.,463,act_dep_time,1
+11:56 a.m.,12:06 p.m.,462,act_dep_time,1
+12:12 p.m.,12:13 p.m.,461,act_dep_time,1
+2:55 p.m.,3:04 p.m.,460,act_dep_time,1
+8:00 a.m.,8:18 a.m.,459,act_dep_time,1
+2:48 p.m.,2:59 p.m.,458,act_dep_time,1
+4:29 p.m.,4:30 p.m.,456,act_dep_time,1
+8:12 a.m.,8:26 a.m.,454,act_dep_time,1
+10:10 a.m.,10:11 a.m.,453,act_dep_time,1
+10:19 a.m.,10:35 a.m.,452,act_dep_time,1
+7:29 a.m.,7:56 a.m.,451,act_dep_time,1
+4:00 p.m.,4:10 p.m.,450,act_dep_time,1
+12:41 a.m.,12:58 a.m.,449,act_dep_time,1
+5:56 a.m.,6:10 a.m.,448,act_dep_time,1
+11:25 p.m.,,447,act_dep_time,1
+10:33 a.m.,10:53 a.m.,446,act_dep_time,1
+11:32 a.m.,12:37 p.m.,445,act_dep_time,1
+3:27 p.m.,3:50 p.m.,444,act_dep_time,1
+12:11 p.m.,12:12 p.m.,443,act_dep_time,1
+7:58 p.m.,7:59 p.m.,442,act_dep_time,1
+8:42 a.m.,9:01 a.m.,441,act_dep_time,1
+8:29 a.m.,8:49 a.m.,440,act_dep_time,1
+7:14 p.m.,7:42 p.m.,438,act_dep_time,1
+7:31 a.m.,7:32 a.m.,436,act_dep_time,1
+7:39 a.m.,7:40 a.m.,435,act_dep_time,1
+6:10 a.m.,6:11 a.m.,434,act_dep_time,1
+3:58 p.m.,,433,act_dep_time,1
+6:57 a.m.,6:58 a.m.,432,act_dep_time,1
+10:54 a.m.,10:55 a.m.,431,act_dep_time,1
+3:31 p.m.,,429,act_dep_time,1
+3:36 p.m.,3:38 p.m.,425,act_dep_time,1
+8:56 a.m.,8:55 a.m.,424,act_dep_time,1
+1:19 p.m.,1:20 p.m.,423,act_dep_time,1
+8:52 a.m.,,422,act_dep_time,1
+12:10 p.m.,12:11 p.m.,420,act_dep_time,1
+3:27 p.m.,3:28 p.m.,418,act_dep_time,1
+9:16 a.m.,,416,act_dep_time,1
+2:48 p.m.,,415,act_dep_time,1
+2:55 p.m.,3:04 p.m.,414,act_dep_time,1
+8:39 p.m.,8:40 p.m.,413,act_dep_time,1
+11:15 a.m.,11:47 a.m.,412,act_dep_time,1
+1:32 p.m.,1:50 p.m. (+8:00),411,act_dep_time,1
+5:30 p.m.,5:38 p.m.,410,act_dep_time,1
+11:08 p.m.,,409,act_dep_time,1
+7:27 a.m.,7:41 a.m.,408,act_dep_time,1
+3:01 p.m.,,407,act_dep_time,1
+1:30 p.m.,1:41 p.m.,406,act_dep_time,1
+8:26 a.m.,8:37 a.m.,405,act_dep_time,1
+8:51 a.m.,8:52 a.m.,404,act_dep_time,1
+7:22 a.m.,7:23 a.m.,403,act_dep_time,1
+8:25 p.m.,8:29 p.m.,402,act_dep_time,1
+9:00 p.m.,9:06 p.m.,401,act_dep_time,1
+4:25 p.m.,4:28 p.m.,400,act_dep_time,1
+11:55 p.m.,12:11 a.m.,399,act_dep_time,1
+1:48 p.m.,,398,act_dep_time,1
+12:41 p.m.,12:42 p.m.,397,act_dep_time,1
+1:31 p.m.,1:48 p.m.,396,act_dep_time,1
+11:01 a.m.,11:02 a.m.,395,act_dep_time,1
+7:05 a.m.,7:30 a.m.,394,act_dep_time,1
+10:20 a.m.,,393,act_dep_time,1
+4:15 p.m.,4:37 p.m.,391,act_dep_time,1
+4:28 p.m.,4:44 p.m.,390,act_dep_time,1
+5:08 p.m.,5:09 p.m.,388,act_dep_time,1
+7:30 a.m.,7:31 a.m.,387,act_dep_time,1
+6:56 a.m.,6:57 a.m.,386,act_dep_time,1
+9:14 a.m.,,385,act_dep_time,1
+2:10 p.m.,2:04 p.m.,384,act_dep_time,1
+7:15 p.m.,,383,act_dep_time,1
+12:11 p.m.,12:12 p.m.,382,act_dep_time,1
+6:55 p.m.,6:56 p.m.,381,act_dep_time,1
+6:30 p.m.,6:47 p.m.,380,act_dep_time,1
+7:21 a.m.,7:22 a.m.,379,act_dep_time,1
+3:36 p.m.,,378,act_dep_time,1
+1:32 p.m.,1:43 p.m.,377,act_dep_time,1
+11:05 a.m.,11:06 a.m.,376,act_dep_time,1
+8:25 p.m.,,375,act_dep_time,1
+5:22 p.m.,,374,act_dep_time,1
+3:11 a.m.,12:07 p.m.,373,act_dep_time,1
+2:26 p.m.,2:43 p.m.,372,act_dep_time,1
+12:13 p.m.,12:14 p.m.,371,act_dep_time,1
+12:35 p.m.,12:56 p.m.,370,act_dep_time,1
+7:49 a.m.,8:07 a.m.,369,act_dep_time,1
+2:04 p.m.,2:03 p.m.,368,act_dep_time,1
+10:18 a.m.,10:19 a.m.,367,act_dep_time,1
+8:40 a.m.,,366,act_dep_time,1
+6:02 a.m.,,365,act_dep_time,1
+11:30 a.m.,11:45 a.m.,364,act_dep_time,1
+6:08 a.m.,6:09 a.m.,363,act_dep_time,1
+11:56 a.m.,,362,act_dep_time,1
+12:12 p.m.,12:13 p.m.,361,act_dep_time,1
+2:55 p.m.,3:04 p.m.,360,act_dep_time,1
+8:00 a.m.,,359,act_dep_time,1
+2:48 p.m.,,358,act_dep_time,1
+10:55 a.m.,10:54 a.m.,357,act_dep_time,1
+8:12 a.m.,8:26 a.m.,354,act_dep_time,1
+10:10 a.m.,10:11 a.m.,353,act_dep_time,1
+10:19 a.m.,,352,act_dep_time,1
+7:29 a.m.,,351,act_dep_time,1
+4:00 p.m.,4:10 p.m.,350,act_dep_time,1
+12:41 a.m.,,349,act_dep_time,1
+5:56 a.m.,6:10 a.m.,348,act_dep_time,1
+11:25 p.m.,11:29 p.m.,347,act_dep_time,1
+10:33 a.m.,10:53 a.m.,346,act_dep_time,1
+11:40 a.m.,11:41 a.m.,345,act_dep_time,1
+11:32 a.m.,,344,act_dep_time,1
+3:27 p.m.,3:50 p.m.,343,act_dep_time,1
+7:58 p.m.,7:59 p.m.,342,act_dep_time,1
+8:42 a.m.,9:00 a.m.,341,act_dep_time,1
+8:29 a.m.,8:48 a.m.,340,act_dep_time,1
+7:14 p.m.,,338,act_dep_time,1
+7:31 a.m.,,336,act_dep_time,1
+7:39 a.m.,7:40 a.m.,335,act_dep_time,1
+6:10 a.m.,,334,act_dep_time,1
+3:58 p.m.,,333,act_dep_time,1
+6:57 a.m.,6:58 a.m.,332,act_dep_time,1
+10:54 a.m.,,331,act_dep_time,1
+11:55 a.m.,,330,act_dep_time,1
+3:31 p.m.,,329,act_dep_time,1
+4:12 p.m.,,328,act_dep_time,1
+3:36 p.m.,,327,act_dep_time,1
+8:56 a.m.,,326,act_dep_time,1
+7:49 a.m.,8:07 a.m.,325,act_dep_time,1
+1:19 p.m.,1:20 p.m.,324,act_dep_time,1
+8:52 a.m.,,323,act_dep_time,1
+8:04 a.m.,,322,act_dep_time,1
+12:10 p.m.,,321,act_dep_time,1
+2:55 p.m.,,320,act_dep_time,1
+7:22 a.m.,7:23 a.m.,319,act_dep_time,1
+3:27 p.m.,,318,act_dep_time,1
+2:44 p.m.,,317,act_dep_time,1
+2:48 p.m.,,316,act_dep_time,1
+2:55 p.m.,,315,act_dep_time,1
+8:39 p.m.,,314,act_dep_time,1
+11:15 a.m.,,313,act_dep_time,1
+1:32 p.m.,,312,act_dep_time,1
+7:27 a.m.,,311,act_dep_time,1
+3:01 p.m.,,310,act_dep_time,1
+1:30 p.m.,,309,act_dep_time,1
+8:26 a.m.,,308,act_dep_time,1
+2:26 p.m.,,307,act_dep_time,1
+8:51 a.m.,8:52 a.m.,306,act_dep_time,1
+7:22 a.m.,7:23 a.m.,305,act_dep_time,1
+8:25 p.m.,8:44 p.m.,304,act_dep_time,1
+9:00 p.m.,,303,act_dep_time,1
+4:25 p.m.,4:30 p.m.,302,act_dep_time,1
+11:55 p.m.,12:11 a.m.,301,act_dep_time,1
+1:31 p.m.,,300,act_dep_time,1
+11:01 a.m.,11:02 a.m.,299,act_dep_time,1
+7:05 a.m.,,298,act_dep_time,1
+10:20 a.m.,,297,act_dep_time,1
+8:23 p.m.,,296,act_dep_time,1
+4:15 p.m.,,295,act_dep_time,1
+4:28 p.m.,,294,act_dep_time,1
+7:30 a.m.,7:31 a.m.,293,act_dep_time,1
+6:56 a.m.,,292,act_dep_time,1
+9:14 a.m.,,291,act_dep_time,1
+2:10 p.m.,,290,act_dep_time,1
+7:15 p.m.,,289,act_dep_time,1
+12:11 p.m.,12:12 p.m.,288,act_dep_time,1
+6:55 p.m.,,287,act_dep_time,1
+8:00 a.m.,,286,act_dep_time,1
+7:21 a.m.,7:22 a.m.,285,act_dep_time,1
+11:05 a.m.,11:06 a.m.,284,act_dep_time,1
+7:39 a.m.,7:40 a.m.,282,act_dep_time,1
+3:11 a.m.,,281,act_dep_time,1
+12:13 p.m.,,280,act_dep_time,1
+10:10 a.m.,10:11 a.m.,279,act_dep_time,1
+12:41 a.m.,,278,act_dep_time,1
+8:04 a.m.,,276,act_dep_time,1
+10:18 a.m.,10:19 a.m.,275,act_dep_time,1
+10:55 a.m.,,274,act_dep_time,1
+8:40 a.m.,,273,act_dep_time,1
+6:02 a.m.,,272,act_dep_time,1
+11:30 a.m.,,271,act_dep_time,1
+6:08 a.m.,6:09 a.m.,270,act_dep_time,1
+12:12 p.m.,,269,act_dep_time,1
+2:48 p.m.,,268,act_dep_time,1
+4:29 p.m.,,267,act_dep_time,1
+8:12 a.m.,,266,act_dep_time,1
+7:25 a.m.,,265,act_dep_time,1
+10:19 a.m.,,264,act_dep_time,1
+4:00 p.m.,,263,act_dep_time,1
+12:41 p.m.,,262,act_dep_time,1
+5:56 a.m.,,261,act_dep_time,1
+11:25 p.m.,11:58 p.m.,260,act_dep_time,1
+10:33 a.m.,,259,act_dep_time,1
+11:40 a.m.,,258,act_dep_time,1
+11:32 a.m.,,257,act_dep_time,1
+3:27 p.m.,,256,act_dep_time,1
+6:30 p.m.,6:56 p.m.,255,act_dep_time,1
+7:58 p.m.,,254,act_dep_time,1
+8:42 a.m.,,253,act_dep_time,1
+8:29 a.m.,8:49 a.m.,252,act_dep_time,1
+7:16 a.m.,,250,act_dep_time,1
+7:31 a.m.,7:32 a.m.,249,act_dep_time,1
+7:39 a.m.,7:40 a.m.,248,act_dep_time,1
+6:10 a.m.,6:11 a.m.,247,act_dep_time,1
+3:58 p.m.,4:15 p.m.,246,act_dep_time,1
+6:57 a.m.,6:58 a.m.,245,act_dep_time,1
+10:54 a.m.,10:55 a.m.,244,act_dep_time,1
+3:31 p.m.,4:02 p.m.,242,act_dep_time,1
+7:39 a.m.,7:40 a.m.,241,act_dep_time,1
+11:40 a.m.,11:41 a.m.,238,act_dep_time,1
+3:36 p.m.,3:38 p.m.,236,act_dep_time,1
+1:19 p.m.,1:20 p.m.,234,act_dep_time,1
+8:52 a.m.,9:05 a.m.,233,act_dep_time,1
+8:04 a.m.,8:05 a.m.,232,act_dep_time,1
+12:10 p.m.,12:11 p.m.,231,act_dep_time,1
+7:22 a.m.,7:23 a.m.,230,act_dep_time,1
+3:27 p.m.,3:28 p.m.,229,act_dep_time,1
+9:16 a.m.,9:43 a.m.,227,act_dep_time,1
+2:48 p.m.,2:59 p.m.,226,act_dep_time,1
+2:55 p.m.,3:04 p.m.,225,act_dep_time,1
+8:39 p.m.,8:40 p.m.,224,act_dep_time,1
+11:15 a.m.,11:47 a.m.,223,act_dep_time,1
+1:32 p.m.,12:45 a.m.,222,act_dep_time,1
+5:30 p.m.,,221,act_dep_time,1
+11:08 p.m.,,220,act_dep_time,1
+7:27 a.m.,7:41 a.m.,219,act_dep_time,1
+3:01 p.m.,3:17 p.m.,218,act_dep_time,1
+1:30 p.m.,Not Available,217,act_dep_time,1
+8:26 a.m.,8:37 a.m.,216,act_dep_time,1
+8:51 a.m.,8:52 a.m.,215,act_dep_time,1
+7:22 a.m.,7:23 a.m.,214,act_dep_time,1
+8:25 p.m.,Not Available,213,act_dep_time,1
+9:00 p.m.,Not Available,212,act_dep_time,1
+4:25 p.m.,Not Available,211,act_dep_time,1
+11:55 p.m.,,210,act_dep_time,1
+1:48 p.m.,2:01 p.m.,209,act_dep_time,1
+12:41 p.m.,12:42 p.m.,208,act_dep_time,1
+1:31 p.m.,1:48 p.m.,207,act_dep_time,1
+11:01 a.m.,11:02 a.m.,206,act_dep_time,1
+7:05 a.m.,7:31 a.m.,205,act_dep_time,1
+10:20 a.m.,10:37 a.m.,204,act_dep_time,1
+4:15 p.m.,4:37 p.m.,202,act_dep_time,1
+4:28 p.m.,4:46 p.m.,201,act_dep_time,1
+5:08 p.m.,5:09 p.m.,200,act_dep_time,1
+7:30 a.m.,7:31 a.m.,199,act_dep_time,1
+6:56 a.m.,6:57 a.m.,198,act_dep_time,1
+9:14 a.m.,9:58 a.m.,197,act_dep_time,1
+2:10 p.m.,2:38 p.m.,196,act_dep_time,1
+7:15 p.m.,Not Available,195,act_dep_time,1
+6:55 p.m.,6:56 p.m.,194,act_dep_time,1
+6:30 p.m.,Not Available,193,act_dep_time,1
+7:21 a.m.,7:22 a.m.,192,act_dep_time,1
+1:32 p.m.,,190,act_dep_time,1
+11:05 a.m.,11:06 a.m.,189,act_dep_time,1
+8:25 p.m.,8:36 p.m.,188,act_dep_time,1
+5:22 p.m.,5:38 p.m.,187,act_dep_time,1
+3:11 a.m.,12:08 p.m.,186,act_dep_time,1
+2:26 p.m.,2:43 p.m.,185,act_dep_time,1
+12:13 p.m.,12:14 p.m.,184,act_dep_time,1
+12:35 p.m.,12:56 p.m.,183,act_dep_time,1
+7:49 a.m.,8:07 a.m.,182,act_dep_time,1
+10:18 a.m.,10:19 a.m.,180,act_dep_time,1
+8:40 a.m.,9:01 a.m.,179,act_dep_time,1
+6:02 a.m.,6:17 a.m.,178,act_dep_time,1
+11:30 a.m.,11:45 a.m.,177,act_dep_time,1
+6:08 a.m.,6:09 a.m.,176,act_dep_time,1
+11:56 a.m.,12:06 p.m.,175,act_dep_time,1
+12:12 p.m.,12:13 p.m.,174,act_dep_time,1
+2:55 p.m.,3:04 p.m.,173,act_dep_time,1
+8:00 a.m.,8:18 a.m.,172,act_dep_time,1
+2:48 p.m.,2:59 p.m.,171,act_dep_time,1
+4:29 p.m.,4:30 p.m.,169,act_dep_time,1
+8:12 a.m.,8:26 a.m.,167,act_dep_time,1
+10:10 a.m.,10:11 a.m.,166,act_dep_time,1
+10:19 a.m.,10:35 a.m.,165,act_dep_time,1
+7:29 a.m.,7:56 a.m.,164,act_dep_time,1
+4:00 p.m.,4:10 p.m.,163,act_dep_time,1
+12:41 a.m.,12:58 a.m.,162,act_dep_time,1
+5:56 a.m.,6:10 a.m.,161,act_dep_time,1
+11:25 p.m.,Not Available,160,act_dep_time,1
+10:33 a.m.,10:53 a.m.,159,act_dep_time,1
+11:32 a.m.,12:37 p.m.,158,act_dep_time,1
+3:27 p.m.,3:50 p.m.,157,act_dep_time,1
+12:11 p.m.,12:12 p.m.,156,act_dep_time,1
+7:58 p.m.,7:59 p.m.,155,act_dep_time,1
+8:42 a.m.,9:01 a.m.,154,act_dep_time,1
+8:29 a.m.,8:49 a.m.,153,act_dep_time,1
+7:14 p.m.,7:42 p.m.,151,act_dep_time,1
+7:31 a.m.,7:32 a.m.,149,act_dep_time,1
+7:39 a.m.,7:40 a.m.,148,act_dep_time,1
+6:10 a.m.,6:11 a.m.,147,act_dep_time,1
+3:58 p.m.,,146,act_dep_time,1
+6:57 a.m.,6:58 a.m.,145,act_dep_time,1
+10:54 a.m.,10:55 a.m.,144,act_dep_time,1
+3:31 p.m.,,142,act_dep_time,1
+3:36 p.m.,3:38 p.m.,138,act_dep_time,1
+8:56 a.m.,8:55 a.m.,137,act_dep_time,1
+1:19 p.m.,1:20 p.m.,136,act_dep_time,1
+8:52 a.m.,,135,act_dep_time,1
+12:10 p.m.,12:11 p.m.,133,act_dep_time,1
+3:27 p.m.,3:28 p.m.,131,act_dep_time,1
+9:16 a.m.,,129,act_dep_time,1
+2:48 p.m.,,128,act_dep_time,1
+2:55 p.m.,3:04 p.m.,127,act_dep_time,1
+8:39 p.m.,8:40 p.m.,126,act_dep_time,1
+11:15 a.m.,11:47 a.m.,125,act_dep_time,1
+1:32 p.m.,1:50 p.m. (+8:00),124,act_dep_time,1
+5:30 p.m.,5:38 p.m.,123,act_dep_time,1
+11:08 p.m.,,122,act_dep_time,1
+7:27 a.m.,7:41 a.m.,121,act_dep_time,1
+3:01 p.m.,,120,act_dep_time,1
+1:30 p.m.,1:41 p.m.,119,act_dep_time,1
+8:26 a.m.,8:37 a.m.,118,act_dep_time,1
+8:51 a.m.,8:52 a.m.,117,act_dep_time,1
+7:22 a.m.,7:23 a.m.,116,act_dep_time,1
+8:25 p.m.,8:29 p.m.,115,act_dep_time,1
+9:00 p.m.,9:06 p.m.,114,act_dep_time,1
+4:25 p.m.,4:28 p.m.,113,act_dep_time,1
+11:55 p.m.,12:11 a.m.,112,act_dep_time,1
+1:48 p.m.,,111,act_dep_time,1
+12:41 p.m.,12:42 p.m.,110,act_dep_time,1
+1:31 p.m.,1:48 p.m.,109,act_dep_time,1
+11:01 a.m.,11:02 a.m.,108,act_dep_time,1
+7:05 a.m.,7:30 a.m.,107,act_dep_time,1
+10:20 a.m.,,106,act_dep_time,1
+4:15 p.m.,4:37 p.m.,104,act_dep_time,1
+4:28 p.m.,4:44 p.m.,103,act_dep_time,1
+5:08 p.m.,5:09 p.m.,101,act_dep_time,1
+7:30 a.m.,7:31 a.m.,100,act_dep_time,1
+6:56 a.m.,6:57 a.m.,99,act_dep_time,1
+9:14 a.m.,,98,act_dep_time,1
+2:10 p.m.,2:04 p.m.,97,act_dep_time,1
+7:15 p.m.,,96,act_dep_time,1
+12:11 p.m.,12:12 p.m.,95,act_dep_time,1
+6:55 p.m.,6:56 p.m.,94,act_dep_time,1
+6:30 p.m.,6:47 p.m.,93,act_dep_time,1
+7:21 a.m.,7:22 a.m.,92,act_dep_time,1
+3:36 p.m.,,91,act_dep_time,1
+1:32 p.m.,1:43 p.m.,90,act_dep_time,1
+11:05 a.m.,11:06 a.m.,89,act_dep_time,1
+8:25 p.m.,,88,act_dep_time,1
+5:22 p.m.,,87,act_dep_time,1
+3:11 a.m.,12:07 p.m.,86,act_dep_time,1
+2:26 p.m.,2:43 p.m.,85,act_dep_time,1
+12:13 p.m.,12:14 p.m.,84,act_dep_time,1
+12:35 p.m.,12:56 p.m.,83,act_dep_time,1
+7:49 a.m.,8:07 a.m.,82,act_dep_time,1
+2:04 p.m.,2:03 p.m.,81,act_dep_time,1
+10:18 a.m.,10:19 a.m.,80,act_dep_time,1
+8:40 a.m.,,79,act_dep_time,1
+6:02 a.m.,,78,act_dep_time,1
+11:30 a.m.,11:45 a.m.,77,act_dep_time,1
+6:08 a.m.,6:09 a.m.,76,act_dep_time,1
+11:56 a.m.,,75,act_dep_time,1
+12:12 p.m.,12:13 p.m.,74,act_dep_time,1
+2:55 p.m.,3:04 p.m.,73,act_dep_time,1
+8:00 a.m.,,72,act_dep_time,1
+2:48 p.m.,,71,act_dep_time,1
+10:55 a.m.,10:54 a.m.,70,act_dep_time,1
+8:12 a.m.,8:26 a.m.,67,act_dep_time,1
+10:10 a.m.,10:11 a.m.,66,act_dep_time,1
+10:19 a.m.,,65,act_dep_time,1
+7:29 a.m.,,64,act_dep_time,1
+4:00 p.m.,4:10 p.m.,63,act_dep_time,1
+12:41 a.m.,,62,act_dep_time,1
+5:56 a.m.,6:10 a.m.,61,act_dep_time,1
+11:25 p.m.,11:29 p.m.,60,act_dep_time,1
+10:33 a.m.,10:53 a.m.,59,act_dep_time,1
+11:40 a.m.,11:41 a.m.,58,act_dep_time,1
+11:32 a.m.,,57,act_dep_time,1
+3:27 p.m.,3:50 p.m.,56,act_dep_time,1
+7:58 p.m.,7:59 p.m.,55,act_dep_time,1
+8:42 a.m.,9:00 a.m.,54,act_dep_time,1
+8:29 a.m.,8:48 a.m.,53,act_dep_time,1
+7:14 p.m.,,51,act_dep_time,1
+1:30 p.m.,,36,act_dep_time,1
+8:25 p.m.,,33,act_dep_time,1
+9:00 p.m.,,32,act_dep_time,1
+11:55 p.m.,,31,act_dep_time,1
+11:25 p.m.,,5,act_dep_time,1
+6:30 p.m.,,2,act_dep_time,1
+12:00 a.m.,12:00 p.m.,2342,sched_dep_time,1
+7:10 p.m.,7:27 p.m.,2281,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,2278,sched_dep_time,1
+2:55 p.m.,,2247,sched_dep_time,1
+11:25 a.m.,,2243,sched_dep_time,1
+8:35 a.m.,,2240,sched_dep_time,1
+9:05 a.m.,,2238,sched_dep_time,1
+8:55 a.m.,,2232,sched_dep_time,1
+2:30 p.m.,,2231,sched_dep_time,1
+2:55 p.m.,,2230,sched_dep_time,1
+8:20 p.m.,,2229,sched_dep_time,1
+11:15 a.m.,,2228,sched_dep_time,1
+1:45 p.m.,,2227,sched_dep_time,1
+7:35 a.m.,,2224,sched_dep_time,1
+2:53 p.m.,,2223,sched_dep_time,1
+8:29 a.m.,,2221,sched_dep_time,1
+1:29 p.m.,,2214,sched_dep_time,1
+7:05 a.m.,,2210,sched_dep_time,1
+10:25 a.m.,,2209,sched_dep_time,1
+4:16 p.m.,,2207,sched_dep_time,1
+4:55 p.m.,,2205,sched_dep_time,1
+1:55 p.m.,,2201,sched_dep_time,1
+3:35 p.m.,,2196,sched_dep_time,1
+12:57 p.m.,,2195,sched_dep_time,1
+7:10 p.m.,,2193,sched_dep_time,1
+5:25 p.m.,,2192,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,2191,sched_dep_time,1
+11:45 a.m.,,2189,sched_dep_time,1
+12:30 p.m.,,2188,sched_dep_time,1
+7:53 a.m.,,2187,sched_dep_time,1
+8:40 a.m.,,2184,sched_dep_time,1
+6:00 a.m.,,2183,sched_dep_time,1
+11:40 a.m.,,2180,sched_dep_time,1
+2:55 p.m.,,2178,sched_dep_time,1
+8:05 a.m.,,2177,sched_dep_time,1
+2:30 p.m.,,2176,sched_dep_time,1
+10:45 a.m.,,2175,sched_dep_time,1
+8:15 a.m.,,2172,sched_dep_time,1
+9:45 a.m.,,2170,sched_dep_time,1
+7:35 a.m.,,2169,sched_dep_time,1
+12:30 a.m.,,2167,sched_dep_time,1
+6:00 a.m.,,2166,sched_dep_time,1
+10:39 a.m.,,2164,sched_dep_time,1
+11:25 a.m.,,2163,sched_dep_time,1
+8:41 a.m.,,2159,sched_dep_time,1
+7:00 p.m.,,2156,sched_dep_time,1
+1:05 p.m.,,2154,sched_dep_time,1
+9:00 p.m.,,2152,sched_dep_time,1
+11:40 a.m.,,2151,sched_dep_time,1
+2:55 p.m.,,2142,sched_dep_time,1
+11:25 a.m.,,2138,sched_dep_time,1
+8:35 a.m.,,2135,sched_dep_time,1
+9:05 a.m.,,2133,sched_dep_time,1
+8:55 a.m.,,2127,sched_dep_time,1
+2:30 p.m.,,2126,sched_dep_time,1
+2:55 p.m.,,2125,sched_dep_time,1
+8:20 p.m.,,2124,sched_dep_time,1
+11:15 a.m.,,2123,sched_dep_time,1
+1:45 p.m.,,2122,sched_dep_time,1
+7:35 a.m.,,2119,sched_dep_time,1
+2:53 p.m.,,2118,sched_dep_time,1
+8:29 a.m.,,2116,sched_dep_time,1
+1:29 p.m.,,2109,sched_dep_time,1
+10:40 a.m.,,2106,sched_dep_time,1
+7:05 a.m.,,2105,sched_dep_time,1
+10:25 a.m.,,2104,sched_dep_time,1
+4:16 p.m.,,2102,sched_dep_time,1
+4:55 p.m.,,2100,sched_dep_time,1
+1:55 p.m.,,2096,sched_dep_time,1
+3:35 p.m.,,2091,sched_dep_time,1
+12:57 p.m.,,2090,sched_dep_time,1
+7:10 p.m.,,2088,sched_dep_time,1
+5:25 p.m.,,2087,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,2086,sched_dep_time,1
+11:45 a.m.,,2084,sched_dep_time,1
+12:30 p.m.,,2083,sched_dep_time,1
+7:53 a.m.,,2082,sched_dep_time,1
+8:40 a.m.,,2079,sched_dep_time,1
+6:00 a.m.,,2078,sched_dep_time,1
+11:40 a.m.,,2075,sched_dep_time,1
+2:55 p.m.,,2073,sched_dep_time,1
+8:05 a.m.,,2072,sched_dep_time,1
+2:30 p.m.,,2071,sched_dep_time,1
+10:45 a.m.,,2070,sched_dep_time,1
+8:15 a.m.,,2067,sched_dep_time,1
+9:45 a.m.,,2065,sched_dep_time,1
+7:35 a.m.,,2064,sched_dep_time,1
+12:30 a.m.,,2062,sched_dep_time,1
+6:00 a.m.,,2061,sched_dep_time,1
+10:39 a.m.,,2059,sched_dep_time,1
+11:25 a.m.,,2058,sched_dep_time,1
+8:41 a.m.,,2054,sched_dep_time,1
+7:00 p.m.,,2051,sched_dep_time,1
+2:55 p.m.,,2042,sched_dep_time,1
+11:25 a.m.,,2038,sched_dep_time,1
+8:35 a.m.,,2035,sched_dep_time,1
+9:05 a.m.,,2033,sched_dep_time,1
+8:55 a.m.,,2027,sched_dep_time,1
+2:30 p.m.,,2026,sched_dep_time,1
+2:55 p.m.,,2025,sched_dep_time,1
+8:20 p.m.,,2024,sched_dep_time,1
+11:15 a.m.,,2023,sched_dep_time,1
+1:45 p.m.,,2022,sched_dep_time,1
+7:35 a.m.,,2019,sched_dep_time,1
+2:53 p.m.,,2018,sched_dep_time,1
+8:29 a.m.,,2016,sched_dep_time,1
+1:29 p.m.,,2009,sched_dep_time,1
+7:05 a.m.,,2005,sched_dep_time,1
+10:25 a.m.,,2004,sched_dep_time,1
+4:16 p.m.,,2002,sched_dep_time,1
+4:55 p.m.,,2000,sched_dep_time,1
+1:55 p.m.,,1996,sched_dep_time,1
+3:35 p.m.,,1991,sched_dep_time,1
+12:57 p.m.,,1990,sched_dep_time,1
+7:10 p.m.,,1988,sched_dep_time,1
+5:25 p.m.,,1987,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1986,sched_dep_time,1
+11:45 a.m.,,1984,sched_dep_time,1
+12:30 p.m.,,1983,sched_dep_time,1
+7:53 a.m.,,1982,sched_dep_time,1
+8:40 a.m.,,1979,sched_dep_time,1
+6:00 a.m.,,1978,sched_dep_time,1
+11:40 a.m.,,1975,sched_dep_time,1
+2:55 p.m.,,1973,sched_dep_time,1
+8:05 a.m.,,1972,sched_dep_time,1
+2:30 p.m.,,1971,sched_dep_time,1
+10:45 a.m.,,1970,sched_dep_time,1
+8:15 a.m.,,1967,sched_dep_time,1
+9:45 a.m.,,1965,sched_dep_time,1
+7:35 a.m.,,1964,sched_dep_time,1
+12:30 a.m.,,1962,sched_dep_time,1
+6:00 a.m.,,1961,sched_dep_time,1
+10:39 a.m.,,1959,sched_dep_time,1
+11:25 a.m.,,1958,sched_dep_time,1
+8:41 a.m.,,1954,sched_dep_time,1
+7:00 p.m.,,1951,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1893,sched_dep_time,1
+2:55 p.m.,,1850,sched_dep_time,1
+11:25 a.m.,,1846,sched_dep_time,1
+8:35 a.m.,,1843,sched_dep_time,1
+9:05 a.m.,,1841,sched_dep_time,1
+8:55 a.m.,,1835,sched_dep_time,1
+2:30 p.m.,,1834,sched_dep_time,1
+2:55 p.m.,,1833,sched_dep_time,1
+8:20 p.m.,,1832,sched_dep_time,1
+11:15 a.m.,,1831,sched_dep_time,1
+1:45 p.m.,,1830,sched_dep_time,1
+7:35 a.m.,,1827,sched_dep_time,1
+2:53 p.m.,,1826,sched_dep_time,1
+8:29 a.m.,,1824,sched_dep_time,1
+1:29 p.m.,,1817,sched_dep_time,1
+10:40 a.m.,,1814,sched_dep_time,1
+7:05 a.m.,,1813,sched_dep_time,1
+10:25 a.m.,,1812,sched_dep_time,1
+4:16 p.m.,,1810,sched_dep_time,1
+4:55 p.m.,,1808,sched_dep_time,1
+1:55 p.m.,,1804,sched_dep_time,1
+3:35 p.m.,,1799,sched_dep_time,1
+12:57 p.m.,,1798,sched_dep_time,1
+7:10 p.m.,,1796,sched_dep_time,1
+5:25 p.m.,,1795,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1794,sched_dep_time,1
+11:45 a.m.,,1792,sched_dep_time,1
+12:30 p.m.,,1791,sched_dep_time,1
+7:53 a.m.,,1790,sched_dep_time,1
+8:40 a.m.,,1787,sched_dep_time,1
+6:00 a.m.,,1786,sched_dep_time,1
+11:40 a.m.,,1783,sched_dep_time,1
+2:55 p.m.,,1781,sched_dep_time,1
+8:05 a.m.,,1780,sched_dep_time,1
+2:30 p.m.,,1779,sched_dep_time,1
+10:45 a.m.,,1778,sched_dep_time,1
+8:15 a.m.,,1775,sched_dep_time,1
+9:45 a.m.,,1773,sched_dep_time,1
+7:35 a.m.,,1772,sched_dep_time,1
+12:30 a.m.,,1770,sched_dep_time,1
+6:00 a.m.,,1769,sched_dep_time,1
+10:39 a.m.,,1767,sched_dep_time,1
+11:25 a.m.,,1766,sched_dep_time,1
+8:41 a.m.,,1762,sched_dep_time,1
+7:00 p.m.,,1759,sched_dep_time,1
+7:10 p.m.,7:27 p.m.,1687,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1684,sched_dep_time,1
+1:55 p.m.,11/30 1:55 p.m.,1660,sched_dep_time,1
+12:57 p.m.,11/30 12:57 p.m.,1657,sched_dep_time,1
+11:08 p.m.,11/30 11:08 p.m.,1655,sched_dep_time,1
+7:45 p.m.,11/30 7:45 p.m.,1653,sched_dep_time,1
+11:25 a.m.,11/30 11:25 a.m.,1651,sched_dep_time,1
+11:55 p.m.,11/30 11:55 p.m.,1650,sched_dep_time,1
+4:00 p.m.,11/30 4:00 p.m.,1649,sched_dep_time,1
+6:45 p.m.,11/30 6:45 p.m.,1645,sched_dep_time,1
+4:16 p.m.,11/30 4:16 p.m.,1643,sched_dep_time,1
+8:00 p.m.,11/30 8:00 p.m.,1642,sched_dep_time,1
+6:45 a.m.,6:45aDec 1,1636,sched_dep_time,1
+11:25 a.m.,11:25aDec 1,1633,sched_dep_time,1
+8:35 a.m.,8:35aDec 1,1632,sched_dep_time,1
+7:10 a.m.,7:10aDec 1,1631,sched_dep_time,1
+9:05 a.m.,9:05aDec 1,1630,sched_dep_time,1
+7:35 a.m.,Not Available,1628,sched_dep_time,1
+2:30 p.m.,Not Available,1622,sched_dep_time,1
+8:35 a.m.,8:35aDec 1,1621,sched_dep_time,1
+6:59 a.m.,6:59aDec 1,1620,sched_dep_time,1
+7:05 a.m.,7:05aDec 1,1615,sched_dep_time,1
+7:25 a.m.,7:25aDec 1,1613,sched_dep_time,1
+7:10 a.m.,7:10aDec 1,1611,sched_dep_time,1
+6:00 a.m.,6:00aDec 1,1610,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1607,sched_dep_time,1
+11:45 a.m.,11:45aDec 1,1606,sched_dep_time,1
+7:30 a.m.,7:30aDec 1,1603,sched_dep_time,1
+11:05 a.m.,11:05aDec 1,1601,sched_dep_time,1
+6:00 a.m.,6:00aDec 1,1600,sched_dep_time,1
+11:40 a.m.,11:40aDec 1,1599,sched_dep_time,1
+7:00 a.m.,7:00aDec 1,1597,sched_dep_time,1
+9:45 a.m.,9:45aDec 1,1596,sched_dep_time,1
+12:30 a.m.,12:30aDec 1,1594,sched_dep_time,1
+10:39 a.m.,10:39aDec 1,1592,sched_dep_time,1
+8:41 a.m.,8:41aDec 1,1589,sched_dep_time,1
+7:10 a.m.,,1586,sched_dep_time,1
+7:10 a.m.,,1585,sched_dep_time,1
+6:00 a.m.,,1584,sched_dep_time,1
+6:45 a.m.,,1582,sched_dep_time,1
+10:40 a.m.,,1581,sched_dep_time,1
+11:55 a.m.,,1580,sched_dep_time,1
+11:35 a.m.,,1578,sched_dep_time,1
+4:00 p.m.,,1577,sched_dep_time,1
+7:30 a.m.,,1576,sched_dep_time,1
+3:05 p.m.,,1575,sched_dep_time,1
+8:35 a.m.,,1574,sched_dep_time,1
+1:05 p.m.,,1573,sched_dep_time,1
+9:05 a.m.,9:05 a.m. (-00:00),1572,sched_dep_time,1
+7:55 a.m.,,1571,sched_dep_time,1
+12:10 p.m.,,1570,sched_dep_time,1
+7:15 a.m.,,1569,sched_dep_time,1
+2:55 p.m.,,1568,sched_dep_time,1
+2:35 p.m.,,1567,sched_dep_time,1
+2:55 p.m.,,1564,sched_dep_time,1
+8:20 p.m.,,1563,sched_dep_time,1
+11:15 a.m.,,1562,sched_dep_time,1
+1:45 p.m.,,1561,sched_dep_time,1
+5:30 p.m.,,1560,sched_dep_time,1
+7:35 a.m.,,1558,sched_dep_time,1
+1:30 p.m.,,1556,sched_dep_time,1
+8:29 a.m.,,1555,sched_dep_time,1
+8:35 a.m.,,1554,sched_dep_time,1
+6:59 a.m.,,1553,sched_dep_time,1
+8:25 p.m.,,1552,sched_dep_time,1
+9:00 p.m.,,1551,sched_dep_time,1
+4:25 p.m.,,1550,sched_dep_time,1
+11:55 p.m.,,1549,sched_dep_time,1
+12:15 p.m.,,1547,sched_dep_time,1
+1:33 p.m.,,1546,sched_dep_time,1
+10:40 a.m.,,1545,sched_dep_time,1
+7:05 a.m.,,1544,sched_dep_time,1
+8:00 p.m.,,1542,sched_dep_time,1
+4:16 p.m.,,1541,sched_dep_time,1
+3:50 p.m.,,1540,sched_dep_time,1
+7:25 a.m.,,1539,sched_dep_time,1
+4:55 p.m.,,1538,sched_dep_time,1
+7:10 a.m.,,1537,sched_dep_time,1
+6:00 a.m.,,1536,sched_dep_time,1
+1:55 p.m.,,1534,sched_dep_time,1
+12:00 p.m.,,1532,sched_dep_time,1
+6:45 p.m.,,1531,sched_dep_time,1
+6:30 p.m.,,1530,sched_dep_time,1
+7:15 a.m.,,1529,sched_dep_time,1
+12:57 p.m.,,1527,sched_dep_time,1
+10:40 a.m.,,1526,sched_dep_time,1
+12:00 a.m.,,1523,sched_dep_time,1
+2:30 p.m.,,1522,sched_dep_time,1
+11:45 a.m.,,1521,sched_dep_time,1
+12:30 p.m.,,1520,sched_dep_time,1
+7:53 a.m.,,1519,sched_dep_time,1
+1:00 p.m.,,1518,sched_dep_time,1
+10:15 a.m.,,1517,sched_dep_time,1
+11:05 a.m.,,1514,sched_dep_time,1
+6:00 a.m.,,1513,sched_dep_time,1
+11:50 a.m.,,1511,sched_dep_time,1
+2:55 p.m.,,1510,sched_dep_time,1
+10:45 a.m.,,1507,sched_dep_time,1
+4:15 p.m.,,1506,sched_dep_time,1
+7:00 a.m.,,1505,sched_dep_time,1
+8:15 a.m.,,1504,sched_dep_time,1
+9:05 a.m.,,1503,sched_dep_time,1
+4:00 p.m.,,1500,sched_dep_time,1
+6:00 a.m.,,1498,sched_dep_time,1
+11:25 p.m.,,1497,sched_dep_time,1
+10:39 a.m.,,1496,sched_dep_time,1
+11:25 a.m.,,1495,sched_dep_time,1
+3:27 p.m.,,1493,sched_dep_time,1
+7:45 p.m.,,1492,sched_dep_time,1
+8:41 a.m.,,1491,sched_dep_time,1
+8:00 a.m.,,1490,sched_dep_time,1
+6:40 a.m.,,1489,sched_dep_time,1
+7:10 a.m.,,1487,sched_dep_time,1
+6:00 a.m.,,1486,sched_dep_time,1
+2:30 p.m.,,1485,sched_dep_time,1
+7:10 a.m.,,1484,sched_dep_time,1
+8:35 a.m.,,1483,sched_dep_time,1
+3:05 p.m.,,1482,sched_dep_time,1
+8:00 a.m.,,1481,sched_dep_time,1
+1:33 p.m.,,1425,sched_dep_time,1
+8:29 a.m.,,1423,sched_dep_time,1
+11:50 a.m.,,1422,sched_dep_time,1
+7:10 a.m.,7:10aDec 1,1421,sched_dep_time,1
+7:10 a.m.,7:10aDec 1,1420,sched_dep_time,1
+6:00 a.m.,6:00aDec 1,1419,sched_dep_time,1
+6:45 a.m.,6:45aDec 1,1417,sched_dep_time,1
+10:40 a.m.,10:40aDec 1,1416,sched_dep_time,1
+11:55 a.m.,11:55aDec 1,1415,sched_dep_time,1
+7:25 a.m.,7:25aDec 1,1413,sched_dep_time,1
+11:35 a.m.,11:35aDec 1,1412,sched_dep_time,1
+11:25 a.m.,11:25aDec 1,1410,sched_dep_time,1
+7:30 a.m.,7:30aDec 1,1409,sched_dep_time,1
+8:35 a.m.,8:35aDec 1,1407,sched_dep_time,1
+9:05 a.m.,9:05aDec 1,1405,sched_dep_time,1
+7:55 a.m.,7:55aDec 1,1404,sched_dep_time,1
+7:15 a.m.,7:15aDec 1,1402,sched_dep_time,1
+8:55 a.m.,8:55aDec 1,1399,sched_dep_time,1
+11:15 a.m.,11:15aDec 1,1395,sched_dep_time,1
+7:35 a.m.,7:35aDec 1,1391,sched_dep_time,1
+8:35 a.m.,8:35aDec 1,1388,sched_dep_time,1
+6:59 a.m.,6:59aDec 1,1387,sched_dep_time,1
+10:40 a.m.,10:40aDec 1,1379,sched_dep_time,1
+7:05 a.m.,7:05aDec 1,1378,sched_dep_time,1
+10:25 a.m.,10:25aDec 1,1377,sched_dep_time,1
+7:10 a.m.,7:10aDec 1,1372,sched_dep_time,1
+6:00 a.m.,6:00aDec 1,1371,sched_dep_time,1
+9:15 a.m.,9:15aDec 1,1370,sched_dep_time,1
+1:55 p.m.,2:22 p.m.,1369,sched_dep_time,1
+7:15 a.m.,7:15aDec 1,1365,sched_dep_time,1
+10:40 a.m.,10:40aDec 1,1362,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1359,sched_dep_time,1
+2:30 p.m.,2:46 p.m.,1358,sched_dep_time,1
+11:45 a.m.,11:45aDec 1,1357,sched_dep_time,1
+7:53 a.m.,7:53aDec 1,1355,sched_dep_time,1
+10:15 a.m.,10:15aDec 1,1353,sched_dep_time,1
+8:40 a.m.,8:40aDec 1,1352,sched_dep_time,1
+6:00 a.m.,6:00aDec 1,1351,sched_dep_time,1
+11:05 a.m.,11:05aDec 1,1350,sched_dep_time,1
+6:00 a.m.,6:00aDec 1,1349,sched_dep_time,1
+11:40 a.m.,11:40aDec 1,1348,sched_dep_time,1
+11:50 a.m.,11:50aDec 1,1347,sched_dep_time,1
+8:05 a.m.,8:05aDec 1,1345,sched_dep_time,1
+10:45 a.m.,10:45aDec 1,1343,sched_dep_time,1
+7:00 a.m.,7:00aDec 1,1341,sched_dep_time,1
+8:15 a.m.,8:15aDec 1,1340,sched_dep_time,1
+9:05 a.m.,10:00aDec 1,1339,sched_dep_time,1
+9:45 a.m.,9:45aDec 1,1338,sched_dep_time,1
+7:35 a.m.,7:35aDec 1,1337,sched_dep_time,1
+12:30 a.m.,12:30aDec 1,1335,sched_dep_time,1
+6:00 a.m.,6:14aDec 1,1334,sched_dep_time,1
+10:39 a.m.,10:39aDec 1,1332,sched_dep_time,1
+11:25 a.m.,11:25aDec 1,1331,sched_dep_time,1
+8:41 a.m.,8:41aDec 1,1327,sched_dep_time,1
+8:00 a.m.,8:19aDec 1,1326,sched_dep_time,1
+6:40 a.m.,6:40aDec 1,1325,sched_dep_time,1
+7:10 a.m.,7:10aDec 1,1323,sched_dep_time,1
+7:10 a.m.,,1322,sched_dep_time,1
+7:10 a.m.,,1321,sched_dep_time,1
+6:00 a.m.,,1320,sched_dep_time,1
+6:45 a.m.,,1318,sched_dep_time,1
+10:40 a.m.,,1317,sched_dep_time,1
+11:55 a.m.,,1316,sched_dep_time,1
+11:35 a.m.,,1314,sched_dep_time,1
+4:00 p.m.,,1313,sched_dep_time,1
+7:30 a.m.,,1312,sched_dep_time,1
+3:05 p.m.,,1311,sched_dep_time,1
+8:35 a.m.,,1310,sched_dep_time,1
+1:05 p.m.,,1309,sched_dep_time,1
+9:05 a.m.,9:05 a.m. (-00:00),1308,sched_dep_time,1
+7:55 a.m.,,1307,sched_dep_time,1
+12:10 p.m.,,1306,sched_dep_time,1
+7:15 a.m.,,1305,sched_dep_time,1
+2:55 p.m.,,1304,sched_dep_time,1
+2:35 p.m.,,1303,sched_dep_time,1
+2:55 p.m.,,1300,sched_dep_time,1
+8:20 p.m.,,1299,sched_dep_time,1
+11:15 a.m.,,1298,sched_dep_time,1
+1:45 p.m.,,1297,sched_dep_time,1
+5:30 p.m.,,1296,sched_dep_time,1
+7:35 a.m.,,1294,sched_dep_time,1
+1:30 p.m.,,1292,sched_dep_time,1
+8:29 a.m.,,1291,sched_dep_time,1
+8:35 a.m.,,1290,sched_dep_time,1
+6:59 a.m.,,1289,sched_dep_time,1
+8:25 p.m.,,1288,sched_dep_time,1
+9:00 p.m.,,1287,sched_dep_time,1
+4:25 p.m.,,1286,sched_dep_time,1
+11:55 p.m.,,1285,sched_dep_time,1
+12:15 p.m.,,1283,sched_dep_time,1
+1:33 p.m.,,1282,sched_dep_time,1
+10:40 a.m.,,1281,sched_dep_time,1
+7:05 a.m.,,1280,sched_dep_time,1
+8:00 p.m.,,1278,sched_dep_time,1
+4:16 p.m.,,1277,sched_dep_time,1
+3:50 p.m.,,1276,sched_dep_time,1
+7:25 a.m.,,1275,sched_dep_time,1
+4:55 p.m.,,1274,sched_dep_time,1
+7:10 a.m.,,1273,sched_dep_time,1
+6:00 a.m.,,1272,sched_dep_time,1
+1:55 p.m.,,1270,sched_dep_time,1
+12:00 p.m.,,1268,sched_dep_time,1
+6:45 p.m.,,1267,sched_dep_time,1
+6:30 p.m.,,1266,sched_dep_time,1
+7:15 a.m.,,1265,sched_dep_time,1
+12:57 p.m.,,1263,sched_dep_time,1
+10:40 a.m.,,1262,sched_dep_time,1
+12:00 a.m.,,1259,sched_dep_time,1
+2:30 p.m.,,1258,sched_dep_time,1
+11:45 a.m.,,1257,sched_dep_time,1
+12:30 p.m.,,1256,sched_dep_time,1
+7:53 a.m.,,1255,sched_dep_time,1
+1:00 p.m.,,1254,sched_dep_time,1
+10:15 a.m.,,1253,sched_dep_time,1
+11:05 a.m.,,1250,sched_dep_time,1
+6:00 a.m.,,1249,sched_dep_time,1
+11:50 a.m.,,1247,sched_dep_time,1
+2:55 p.m.,,1246,sched_dep_time,1
+10:45 a.m.,,1243,sched_dep_time,1
+4:15 p.m.,,1242,sched_dep_time,1
+7:00 a.m.,,1241,sched_dep_time,1
+8:15 a.m.,,1240,sched_dep_time,1
+9:05 a.m.,,1239,sched_dep_time,1
+4:00 p.m.,,1236,sched_dep_time,1
+6:00 a.m.,,1234,sched_dep_time,1
+11:25 p.m.,,1233,sched_dep_time,1
+10:39 a.m.,,1232,sched_dep_time,1
+11:25 a.m.,,1231,sched_dep_time,1
+3:27 p.m.,,1229,sched_dep_time,1
+7:45 p.m.,,1228,sched_dep_time,1
+8:41 a.m.,,1227,sched_dep_time,1
+8:00 a.m.,,1226,sched_dep_time,1
+6:40 a.m.,,1225,sched_dep_time,1
+7:10 a.m.,,1223,sched_dep_time,1
+8:55 a.m.,,1208,sched_dep_time,1
+2:55 p.m.,,1207,sched_dep_time,1
+11:15 a.m.,,1206,sched_dep_time,1
+7:35 a.m.,,1203,sched_dep_time,1
+2:53 p.m.,,1202,sched_dep_time,1
+1:55 p.m.,,1193,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1187,sched_dep_time,1
+12:30 p.m.,,1186,sched_dep_time,1
+5:25 p.m.,,1179,sched_dep_time,1
+8:15 a.m.,,1176,sched_dep_time,1
+6:00 a.m.,,1175,sched_dep_time,1
+7:00 p.m.,,1172,sched_dep_time,1
+2:55 p.m.,,1162,sched_dep_time,1
+11:25 a.m.,,1158,sched_dep_time,1
+8:35 a.m.,,1155,sched_dep_time,1
+9:05 a.m.,,1153,sched_dep_time,1
+8:55 a.m.,,1147,sched_dep_time,1
+2:30 p.m.,,1146,sched_dep_time,1
+2:55 p.m.,,1145,sched_dep_time,1
+8:20 p.m.,,1144,sched_dep_time,1
+11:15 a.m.,,1143,sched_dep_time,1
+1:45 p.m.,,1142,sched_dep_time,1
+7:35 a.m.,,1139,sched_dep_time,1
+2:53 p.m.,,1138,sched_dep_time,1
+8:29 a.m.,,1136,sched_dep_time,1
+1:29 p.m.,,1129,sched_dep_time,1
+7:05 a.m.,,1125,sched_dep_time,1
+10:25 a.m.,,1124,sched_dep_time,1
+4:16 p.m.,,1122,sched_dep_time,1
+4:55 p.m.,,1120,sched_dep_time,1
+1:55 p.m.,,1116,sched_dep_time,1
+3:35 p.m.,,1111,sched_dep_time,1
+12:57 p.m.,,1110,sched_dep_time,1
+7:10 p.m.,,1108,sched_dep_time,1
+5:25 p.m.,,1107,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,1106,sched_dep_time,1
+11:45 a.m.,,1104,sched_dep_time,1
+12:30 p.m.,,1103,sched_dep_time,1
+7:53 a.m.,,1102,sched_dep_time,1
+8:40 a.m.,,1099,sched_dep_time,1
+6:00 a.m.,,1098,sched_dep_time,1
+11:40 a.m.,,1095,sched_dep_time,1
+2:55 p.m.,,1093,sched_dep_time,1
+8:05 a.m.,,1092,sched_dep_time,1
+2:30 p.m.,,1091,sched_dep_time,1
+10:45 a.m.,,1090,sched_dep_time,1
+8:15 a.m.,,1087,sched_dep_time,1
+9:45 a.m.,,1085,sched_dep_time,1
+7:35 a.m.,,1084,sched_dep_time,1
+12:30 a.m.,,1082,sched_dep_time,1
+6:00 a.m.,,1081,sched_dep_time,1
+10:39 a.m.,,1079,sched_dep_time,1
+11:25 a.m.,,1078,sched_dep_time,1
+8:41 a.m.,,1074,sched_dep_time,1
+7:00 p.m.,,1071,sched_dep_time,1
+7:53 a.m.,Not Available,1058,sched_dep_time,1
+1:45 p.m.,Not Available,1046,sched_dep_time,1
+7:35 a.m.,Not Available,1045,sched_dep_time,1
+8:29 a.m.,Not Available,1042,sched_dep_time,1
+2:30 p.m.,Not Available,1041,sched_dep_time,1
+1:33 p.m.,Not Available,1034,sched_dep_time,1
+1:55 p.m.,Not Available,1026,sched_dep_time,1
+12:00 a.m.,12:00noon,1018,sched_dep_time,1
+8:15 a.m.,Not Available,1003,sched_dep_time,1
+6:00 a.m.,Not Available,999,sched_dep_time,1
+12:00 p.m.,12:00noon,995,sched_dep_time,1
+8:41 a.m.,Not Available,992,sched_dep_time,1
+8:00 a.m.,Not Available,991,sched_dep_time,1
+7:10 p.m.,7:27 p.m.,982,sched_dep_time,1
+8:40 a.m.,,964,sched_dep_time,1
+7:53 a.m.,,960,sched_dep_time,1
+8:05 a.m.,,953,sched_dep_time,1
+8:55 a.m.,,952,sched_dep_time,1
+11:15 a.m.,,950,sched_dep_time,1
+7:05 a.m.,,938,sched_dep_time,1
+4:16 p.m.,,935,sched_dep_time,1
+2:55 p.m.,,926,sched_dep_time,1
+12:30 p.m.,,925,sched_dep_time,1
+7:35 a.m.,,917,sched_dep_time,1
+11:45 a.m.,,914,sched_dep_time,1
+2:55 p.m.,,903,sched_dep_time,1
+11:25 a.m.,,899,sched_dep_time,1
+8:35 a.m.,,896,sched_dep_time,1
+9:05 a.m.,,894,sched_dep_time,1
+8:55 a.m.,,888,sched_dep_time,1
+2:30 p.m.,,887,sched_dep_time,1
+2:55 p.m.,,886,sched_dep_time,1
+8:20 p.m.,,885,sched_dep_time,1
+11:15 a.m.,,884,sched_dep_time,1
+1:45 p.m.,,883,sched_dep_time,1
+7:35 a.m.,,880,sched_dep_time,1
+2:53 p.m.,,879,sched_dep_time,1
+8:29 a.m.,,877,sched_dep_time,1
+1:29 p.m.,,870,sched_dep_time,1
+10:40 a.m.,,867,sched_dep_time,1
+7:05 a.m.,,866,sched_dep_time,1
+10:25 a.m.,,865,sched_dep_time,1
+4:16 p.m.,,863,sched_dep_time,1
+4:55 p.m.,,861,sched_dep_time,1
+1:55 p.m.,,857,sched_dep_time,1
+3:35 p.m.,,852,sched_dep_time,1
+12:57 p.m.,,851,sched_dep_time,1
+7:10 p.m.,,849,sched_dep_time,1
+5:25 p.m.,,848,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,847,sched_dep_time,1
+11:45 a.m.,,845,sched_dep_time,1
+12:30 p.m.,,844,sched_dep_time,1
+7:53 a.m.,,843,sched_dep_time,1
+8:40 a.m.,,840,sched_dep_time,1
+6:00 a.m.,,839,sched_dep_time,1
+11:40 a.m.,,836,sched_dep_time,1
+2:55 p.m.,,834,sched_dep_time,1
+8:05 a.m.,,833,sched_dep_time,1
+2:30 p.m.,,832,sched_dep_time,1
+10:45 a.m.,,831,sched_dep_time,1
+8:15 a.m.,,828,sched_dep_time,1
+9:45 a.m.,,826,sched_dep_time,1
+7:35 a.m.,,825,sched_dep_time,1
+12:30 a.m.,,823,sched_dep_time,1
+6:00 a.m.,,822,sched_dep_time,1
+10:39 a.m.,,820,sched_dep_time,1
+11:25 a.m.,,819,sched_dep_time,1
+8:41 a.m.,,815,sched_dep_time,1
+7:00 p.m.,,812,sched_dep_time,1
+9:15 a.m.,,810,sched_dep_time,1
+7:15 a.m.,,809,sched_dep_time,1
+8:00 p.m.,Thu 20:00,808,sched_dep_time,1
+11:25 p.m.,,807,sched_dep_time,1
+6:45 a.m.,,806,sched_dep_time,1
+6:30 p.m.,,805,sched_dep_time,1
+2:55 p.m.,,804,sched_dep_time,1
+7:00 p.m.,,803,sched_dep_time,1
+12:30 p.m.,12:30,797,sched_dep_time,1
+7:25 a.m.,,796,sched_dep_time,1
+6:00 a.m.,,795,sched_dep_time,1
+4:15 p.m.,,794,sched_dep_time,1
+6:59 a.m.,,793,sched_dep_time,1
+10:40 a.m.,,792,sched_dep_time,1
+7:10 a.m.,,791,sched_dep_time,1
+6:00 a.m.,,790,sched_dep_time,1
+6:45 a.m.,,789,sched_dep_time,1
+10:40 a.m.,,788,sched_dep_time,1
+7:10 a.m.,,787,sched_dep_time,1
+1:05 p.m.,,786,sched_dep_time,1
+12:10 p.m.,,785,sched_dep_time,1
+7:35 a.m.,,784,sched_dep_time,1
+7:15 a.m.,,782,sched_dep_time,1
+2:35 p.m.,,781,sched_dep_time,1
+8:05 a.m.,,780,sched_dep_time,1
+11:08 p.m.,,778,sched_dep_time,1
+8:29 a.m.,,776,sched_dep_time,1
+8:35 a.m.,,775,sched_dep_time,1
+6:59 a.m.,,774,sched_dep_time,1
+1:29 p.m.,,770,sched_dep_time,1
+1:33 p.m.,,769,sched_dep_time,1
+10:45 a.m.,,768,sched_dep_time,1
+8:00 p.m.,,767,sched_dep_time,1
+4:16 p.m.,,766,sched_dep_time,1
+7:25 a.m.,,765,sched_dep_time,1
+4:55 p.m.,,764,sched_dep_time,1
+7:10 a.m.,,763,sched_dep_time,1
+6:00 a.m.,,762,sched_dep_time,1
+9:15 a.m.,,761,sched_dep_time,1
+12:00 p.m.,,760,sched_dep_time,1
+6:45 p.m.,,759,sched_dep_time,1
+7:15 a.m.,,758,sched_dep_time,1
+3:35 p.m.,,757,sched_dep_time,1
+12:57 p.m.,1:09 p.m.,756,sched_dep_time,1
+10:40 a.m.,,755,sched_dep_time,1
+11:35 a.m.,,754,sched_dep_time,1
+2:30 p.m.,,753,sched_dep_time,1
+11:45 a.m.,,752,sched_dep_time,1
+12:30 p.m.,,751,sched_dep_time,1
+1:00 p.m.,,750,sched_dep_time,1
+7:30 a.m.,,749,sched_dep_time,1
+10:15 a.m.,,748,sched_dep_time,1
+7:55 a.m.,,747,sched_dep_time,1
+6:00 a.m.,,746,sched_dep_time,1
+11:40 a.m.,,745,sched_dep_time,1
+11:50 a.m.,,744,sched_dep_time,1
+9:05 a.m.,,743,sched_dep_time,1
+4:15 p.m.,,742,sched_dep_time,1
+7:00 a.m.,,741,sched_dep_time,1
+12:15 p.m.,,740,sched_dep_time,1
+12:30 a.m.,,739,sched_dep_time,1
+6:00 a.m.,,738,sched_dep_time,1
+10:39 a.m.,,736,sched_dep_time,1
+11:25 a.m.,,735,sched_dep_time,1
+8:41 a.m.,,733,sched_dep_time,1
+8:00 a.m.,,732,sched_dep_time,1
+7:00 p.m.,,731,sched_dep_time,1
+7:45 p.m.,,730,sched_dep_time,1
+7:10 a.m.,,729,sched_dep_time,1
+2:55 p.m.,,721,sched_dep_time,1
+11:25 a.m.,,717,sched_dep_time,1
+8:35 a.m.,,714,sched_dep_time,1
+9:05 a.m.,,712,sched_dep_time,1
+8:55 a.m.,,706,sched_dep_time,1
+2:30 p.m.,,705,sched_dep_time,1
+2:55 p.m.,,704,sched_dep_time,1
+8:20 p.m.,,703,sched_dep_time,1
+11:15 a.m.,,702,sched_dep_time,1
+1:45 p.m.,,701,sched_dep_time,1
+7:35 a.m.,,698,sched_dep_time,1
+2:53 p.m.,,697,sched_dep_time,1
+8:29 a.m.,,695,sched_dep_time,1
+1:29 p.m.,,688,sched_dep_time,1
+7:05 a.m.,,684,sched_dep_time,1
+10:25 a.m.,,683,sched_dep_time,1
+4:16 p.m.,,681,sched_dep_time,1
+4:55 p.m.,,679,sched_dep_time,1
+1:55 p.m.,,675,sched_dep_time,1
+3:35 p.m.,,670,sched_dep_time,1
+12:57 p.m.,,669,sched_dep_time,1
+7:10 p.m.,,667,sched_dep_time,1
+5:25 p.m.,,666,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,665,sched_dep_time,1
+11:45 a.m.,,663,sched_dep_time,1
+12:30 p.m.,,662,sched_dep_time,1
+7:53 a.m.,,661,sched_dep_time,1
+8:40 a.m.,,658,sched_dep_time,1
+6:00 a.m.,,657,sched_dep_time,1
+11:40 a.m.,,654,sched_dep_time,1
+2:55 p.m.,,652,sched_dep_time,1
+8:05 a.m.,,651,sched_dep_time,1
+2:30 p.m.,,650,sched_dep_time,1
+10:45 a.m.,,649,sched_dep_time,1
+8:15 a.m.,,646,sched_dep_time,1
+9:45 a.m.,,644,sched_dep_time,1
+7:35 a.m.,,643,sched_dep_time,1
+12:30 a.m.,,641,sched_dep_time,1
+6:00 a.m.,,640,sched_dep_time,1
+10:39 a.m.,,638,sched_dep_time,1
+11:25 a.m.,,637,sched_dep_time,1
+8:41 a.m.,,633,sched_dep_time,1
+7:00 p.m.,,630,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,572,sched_dep_time,1
+2:55 p.m.,,529,sched_dep_time,1
+11:25 a.m.,,525,sched_dep_time,1
+8:35 a.m.,,522,sched_dep_time,1
+9:05 a.m.,,520,sched_dep_time,1
+8:55 a.m.,,514,sched_dep_time,1
+2:30 p.m.,,513,sched_dep_time,1
+2:55 p.m.,,512,sched_dep_time,1
+8:20 p.m.,,511,sched_dep_time,1
+11:15 a.m.,,510,sched_dep_time,1
+1:45 p.m.,,509,sched_dep_time,1
+7:35 a.m.,,506,sched_dep_time,1
+2:53 p.m.,,505,sched_dep_time,1
+8:29 a.m.,,503,sched_dep_time,1
+1:29 p.m.,,496,sched_dep_time,1
+7:05 a.m.,,492,sched_dep_time,1
+10:25 a.m.,,491,sched_dep_time,1
+4:16 p.m.,,489,sched_dep_time,1
+4:55 p.m.,,487,sched_dep_time,1
+1:55 p.m.,,483,sched_dep_time,1
+3:35 p.m.,,478,sched_dep_time,1
+12:57 p.m.,,477,sched_dep_time,1
+7:10 p.m.,,475,sched_dep_time,1
+5:25 p.m.,,474,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,473,sched_dep_time,1
+11:45 a.m.,,471,sched_dep_time,1
+12:30 p.m.,,470,sched_dep_time,1
+7:53 a.m.,,469,sched_dep_time,1
+8:40 a.m.,,466,sched_dep_time,1
+6:00 a.m.,,465,sched_dep_time,1
+11:40 a.m.,,462,sched_dep_time,1
+2:55 p.m.,,460,sched_dep_time,1
+8:05 a.m.,,459,sched_dep_time,1
+2:30 p.m.,,458,sched_dep_time,1
+10:45 a.m.,,457,sched_dep_time,1
+8:15 a.m.,,454,sched_dep_time,1
+9:45 a.m.,,452,sched_dep_time,1
+7:35 a.m.,,451,sched_dep_time,1
+12:30 a.m.,,449,sched_dep_time,1
+6:00 a.m.,,448,sched_dep_time,1
+10:39 a.m.,,446,sched_dep_time,1
+11:25 a.m.,,445,sched_dep_time,1
+8:41 a.m.,,441,sched_dep_time,1
+7:00 p.m.,,438,sched_dep_time,1
+7:10 a.m.,,436,sched_dep_time,1
+7:10 a.m.,,435,sched_dep_time,1
+6:00 a.m.,,434,sched_dep_time,1
+6:45 a.m.,,432,sched_dep_time,1
+10:40 a.m.,,431,sched_dep_time,1
+11:55 a.m.,,430,sched_dep_time,1
+11:35 a.m.,,428,sched_dep_time,1
+4:00 p.m.,,427,sched_dep_time,1
+7:30 a.m.,,426,sched_dep_time,1
+3:05 p.m.,,425,sched_dep_time,1
+8:35 a.m.,,424,sched_dep_time,1
+1:05 p.m.,,423,sched_dep_time,1
+9:05 a.m.,9:05 a.m. (-00:00),422,sched_dep_time,1
+7:55 a.m.,,421,sched_dep_time,1
+12:10 p.m.,,420,sched_dep_time,1
+7:15 a.m.,,419,sched_dep_time,1
+2:55 p.m.,,418,sched_dep_time,1
+2:35 p.m.,,417,sched_dep_time,1
+2:55 p.m.,,414,sched_dep_time,1
+8:20 p.m.,,413,sched_dep_time,1
+11:15 a.m.,,412,sched_dep_time,1
+1:45 p.m.,,411,sched_dep_time,1
+5:30 p.m.,,410,sched_dep_time,1
+7:35 a.m.,,408,sched_dep_time,1
+1:30 p.m.,,406,sched_dep_time,1
+8:29 a.m.,,405,sched_dep_time,1
+8:35 a.m.,,404,sched_dep_time,1
+6:59 a.m.,,403,sched_dep_time,1
+8:25 p.m.,,402,sched_dep_time,1
+9:00 p.m.,,401,sched_dep_time,1
+4:25 p.m.,,400,sched_dep_time,1
+11:55 p.m.,,399,sched_dep_time,1
+12:15 p.m.,,397,sched_dep_time,1
+1:33 p.m.,,396,sched_dep_time,1
+10:40 a.m.,,395,sched_dep_time,1
+7:05 a.m.,,394,sched_dep_time,1
+8:00 p.m.,,392,sched_dep_time,1
+4:16 p.m.,,391,sched_dep_time,1
+3:50 p.m.,,390,sched_dep_time,1
+7:25 a.m.,,389,sched_dep_time,1
+4:55 p.m.,,388,sched_dep_time,1
+7:10 a.m.,,387,sched_dep_time,1
+6:00 a.m.,,386,sched_dep_time,1
+1:55 p.m.,,384,sched_dep_time,1
+12:00 p.m.,,382,sched_dep_time,1
+6:45 p.m.,,381,sched_dep_time,1
+6:30 p.m.,,380,sched_dep_time,1
+7:15 a.m.,,379,sched_dep_time,1
+12:57 p.m.,,377,sched_dep_time,1
+10:40 a.m.,,376,sched_dep_time,1
+12:00 a.m.,,373,sched_dep_time,1
+2:30 p.m.,,372,sched_dep_time,1
+11:45 a.m.,,371,sched_dep_time,1
+12:30 p.m.,,370,sched_dep_time,1
+7:53 a.m.,,369,sched_dep_time,1
+1:00 p.m.,,368,sched_dep_time,1
+10:15 a.m.,,367,sched_dep_time,1
+11:05 a.m.,,364,sched_dep_time,1
+6:00 a.m.,,363,sched_dep_time,1
+11:50 a.m.,,361,sched_dep_time,1
+2:55 p.m.,,360,sched_dep_time,1
+10:45 a.m.,,357,sched_dep_time,1
+4:15 p.m.,,356,sched_dep_time,1
+7:00 a.m.,,355,sched_dep_time,1
+8:15 a.m.,,354,sched_dep_time,1
+9:05 a.m.,,353,sched_dep_time,1
+4:00 p.m.,,350,sched_dep_time,1
+6:00 a.m.,,348,sched_dep_time,1
+11:25 p.m.,,347,sched_dep_time,1
+10:39 a.m.,,346,sched_dep_time,1
+11:25 a.m.,,345,sched_dep_time,1
+3:27 p.m.,,343,sched_dep_time,1
+7:45 p.m.,,342,sched_dep_time,1
+8:41 a.m.,,341,sched_dep_time,1
+8:00 a.m.,,340,sched_dep_time,1
+6:40 a.m.,,339,sched_dep_time,1
+7:10 a.m.,,337,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,281,sched_dep_time,1
+2:55 p.m.,,242,sched_dep_time,1
+11:25 a.m.,,238,sched_dep_time,1
+8:35 a.m.,,235,sched_dep_time,1
+9:05 a.m.,,233,sched_dep_time,1
+8:55 a.m.,,227,sched_dep_time,1
+2:30 p.m.,,226,sched_dep_time,1
+2:55 p.m.,,225,sched_dep_time,1
+8:20 p.m.,,224,sched_dep_time,1
+11:15 a.m.,,223,sched_dep_time,1
+1:45 p.m.,,222,sched_dep_time,1
+7:35 a.m.,,219,sched_dep_time,1
+2:53 p.m.,,218,sched_dep_time,1
+8:29 a.m.,,216,sched_dep_time,1
+1:29 p.m.,,209,sched_dep_time,1
+7:05 a.m.,,205,sched_dep_time,1
+10:25 a.m.,,204,sched_dep_time,1
+4:16 p.m.,,202,sched_dep_time,1
+4:55 p.m.,,200,sched_dep_time,1
+1:55 p.m.,,196,sched_dep_time,1
+3:35 p.m.,,191,sched_dep_time,1
+7:10 p.m.,,188,sched_dep_time,1
+5:25 p.m.,,187,sched_dep_time,1
+12:00 a.m.,12:00 p.m.,186,sched_dep_time,1
+11:45 a.m.,,184,sched_dep_time,1
+12:30 p.m.,,183,sched_dep_time,1
+7:53 a.m.,,182,sched_dep_time,1
+8:40 a.m.,,179,sched_dep_time,1
+6:00 a.m.,,178,sched_dep_time,1
+11:40 a.m.,,175,sched_dep_time,1
+2:55 p.m.,,173,sched_dep_time,1
+8:05 a.m.,,172,sched_dep_time,1
+2:30 p.m.,,171,sched_dep_time,1
+10:45 a.m.,,170,sched_dep_time,1
+8:15 a.m.,,167,sched_dep_time,1
+9:45 a.m.,,165,sched_dep_time,1
+7:35 a.m.,,164,sched_dep_time,1
+12:30 a.m.,,162,sched_dep_time,1
+6:00 a.m.,,161,sched_dep_time,1
+10:39 a.m.,,159,sched_dep_time,1
+11:25 a.m.,,158,sched_dep_time,1
+8:41 a.m.,,154,sched_dep_time,1
+7:00 p.m.,,151,sched_dep_time,1
+7:10 a.m.,,149,sched_dep_time,1
+7:10 a.m.,,148,sched_dep_time,1
+6:00 a.m.,,147,sched_dep_time,1
+6:45 a.m.,,145,sched_dep_time,1
+10:40 a.m.,,144,sched_dep_time,1
+11:55 a.m.,,143,sched_dep_time,1
+11:35 a.m.,,141,sched_dep_time,1
+4:00 p.m.,,140,sched_dep_time,1
+7:30 a.m.,,139,sched_dep_time,1
+3:05 p.m.,,138,sched_dep_time,1
+8:35 a.m.,,137,sched_dep_time,1
+1:05 p.m.,,136,sched_dep_time,1
+9:05 a.m.,9:05 a.m. (-00:00),135,sched_dep_time,1
+7:55 a.m.,,134,sched_dep_time,1
+12:10 p.m.,,133,sched_dep_time,1
+7:15 a.m.,,132,sched_dep_time,1
+2:55 p.m.,,131,sched_dep_time,1
+2:35 p.m.,,130,sched_dep_time,1
+2:55 p.m.,,127,sched_dep_time,1
+8:20 p.m.,,126,sched_dep_time,1
+11:15 a.m.,,125,sched_dep_time,1
+1:45 p.m.,,124,sched_dep_time,1
+5:30 p.m.,,123,sched_dep_time,1
+7:35 a.m.,,121,sched_dep_time,1
+1:30 p.m.,,119,sched_dep_time,1
+8:29 a.m.,,118,sched_dep_time,1
+8:35 a.m.,,117,sched_dep_time,1
+6:59 a.m.,,116,sched_dep_time,1
+8:25 p.m.,,115,sched_dep_time,1
+9:00 p.m.,,114,sched_dep_time,1
+4:25 p.m.,,113,sched_dep_time,1
+11:55 p.m.,,112,sched_dep_time,1
+12:15 p.m.,,110,sched_dep_time,1
+1:33 p.m.,,109,sched_dep_time,1
+10:40 a.m.,,108,sched_dep_time,1
+7:05 a.m.,,107,sched_dep_time,1
+8:00 p.m.,,105,sched_dep_time,1
+4:16 p.m.,,104,sched_dep_time,1
+3:50 p.m.,,103,sched_dep_time,1
+7:25 a.m.,,102,sched_dep_time,1
+4:55 p.m.,,101,sched_dep_time,1
+7:10 a.m.,,100,sched_dep_time,1
+6:00 a.m.,,99,sched_dep_time,1
+1:55 p.m.,,97,sched_dep_time,1
+12:00 p.m.,,95,sched_dep_time,1
+6:45 p.m.,,94,sched_dep_time,1
+6:30 p.m.,,93,sched_dep_time,1
+7:15 a.m.,,92,sched_dep_time,1
+12:57 p.m.,,90,sched_dep_time,1
+10:40 a.m.,,89,sched_dep_time,1
+12:00 a.m.,,86,sched_dep_time,1
+2:30 p.m.,,85,sched_dep_time,1
+11:45 a.m.,,84,sched_dep_time,1
+12:30 p.m.,,83,sched_dep_time,1
+7:53 a.m.,,82,sched_dep_time,1
+1:00 p.m.,,81,sched_dep_time,1
+10:15 a.m.,,80,sched_dep_time,1
+11:05 a.m.,,77,sched_dep_time,1
+6:00 a.m.,,76,sched_dep_time,1
+11:50 a.m.,,74,sched_dep_time,1
+2:55 p.m.,,73,sched_dep_time,1
+10:45 a.m.,,70,sched_dep_time,1
+4:15 p.m.,,69,sched_dep_time,1
+7:00 a.m.,,68,sched_dep_time,1
+8:15 a.m.,,67,sched_dep_time,1
+9:05 a.m.,,66,sched_dep_time,1
+4:00 p.m.,,63,sched_dep_time,1
+6:00 a.m.,,61,sched_dep_time,1
+11:25 p.m.,,60,sched_dep_time,1
+10:39 a.m.,,59,sched_dep_time,1
+11:25 a.m.,,58,sched_dep_time,1
+3:27 p.m.,,56,sched_dep_time,1
+7:45 p.m.,,55,sched_dep_time,1
+8:41 a.m.,,54,sched_dep_time,1
+8:00 a.m.,,53,sched_dep_time,1
+6:40 a.m.,,52,sched_dep_time,1
+7:10 a.m.,,50,sched_dep_time,1
