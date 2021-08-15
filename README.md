@@ -2,7 +2,7 @@
 
 Error correction is one of the most crucial and time-consuming steps of data preprocessing. State-of-the-art error correction systems leverage various signals, such as predefined data constraints or user-provided correction examples, to fix erroneous values in a semi-supervised manner. While these approaches reduce human involvement to a few labeled tuples, they still need supervision to fix data errors. In this paper, we propose a novel error correction approach to automatically fix data errors of dirty datasets. Our approach pretrains a set of error corrector models on correction examples extracted from the Wikipedia page revision history. It then fine-tunes these models on the dirty dataset at hand without any required user labels. Finally, our approach aggregates the fine-tuned error corrector models to find the actual correction of each data error. As our experiments show, our approach automatically fixes a large portion of data errors of various dirty datasets with high precision. 
 ## How to run the system
-Our approach needs the dataset only. Dataset should be put in the dataset directory. You can simply use the notebook: Error_Corrrection.ipynb. First, you need to install all dependencies which could be done by using our notebook.
+Our approach needs the dataset only. Dataset should be put in the datasets directory. You can simply use the notebook: Error_Corrrection.ipynb. First, you need to install all packages which could be done by using our notebook.
 
 # Resources we used for our system
 ## Wiki Dump Files
