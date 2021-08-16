@@ -1118,7 +1118,8 @@ def model_aggregation_final(dirty_org_df,error_correction,data_for_retrain,datas
     for fds in columns:
         if dirty_org_df[fds].dtypes=='float64':
         #    print('yes')
-             continue
+             pass
+             #continue
         count=0
         data_for_retrain_edit=[]
         train_data_rows_edit=[]
