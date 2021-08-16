@@ -1951,12 +1951,12 @@ if __name__ == "__main__":
     #app.experiment_uniqueness_61_100()
     #print("###################uniqueness##############################")
     #print("Start Data Error types")
-    print("YEs, ...........................")
-   # app.experiment_data_error_outlier()
+    
+    #app.experiment_data_error_outlier()
     #app.experiment_data_error_pattern_violation()
     #app.experiment_data_error_rule_violation()
     #app.experiment_data_error_knowledge_base_violation()
     #app.experiment_data_error_rv()
     app.experiment_general()
-    print("##################### Finished data error##############")
+   
    
