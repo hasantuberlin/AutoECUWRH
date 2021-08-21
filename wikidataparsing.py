@@ -1,5 +1,5 @@
 ########################################
-# Jharu: The Error Correction Using Wikipedia Revision History
+#The Error Correction Using Wikipedia Revision History
 # Md Kamrul Hasan
 # kamrulhasancuetcse10@gmail.com
 # June 2020-Present
@@ -11,12 +11,6 @@
 # This module will extract table and infobox from wiki dump file. Then it will extract the revision data and extract the error and clean value by comparing two revision.
 # This module then train edit distance, fasttext, elmo like wrod embedding method 
 # We can retrained the pre trained model
-# we can cross validate our testing and traning data set of wiki 
-# we can correction a  dirty dataset in which error detected alreay have perfromed
-# we can evaluate a model based on wiki model
-# we can retrain on real world dirty dataset 
-# we can  train model based on domain . for  example localtion, date etc. and apply on real world datasets
-# This is the whole cleaning pipeline for our system
 ########################################
 # library for fasttext
 import warnings
